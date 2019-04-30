@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  {% block meta %}
+  <meta name="author" content="{{ AUTHOR }}" />
+  {% endblock %}
+
+  <title>{{ SITENAME }}{% block title %}{% endblock %}</title>
+
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#000000">
+
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css">
+  {% if page and page.url == "index.html" %}
+  <style>aside img { display: unset; }</style>
+  {% endif %}
+
+  <link rel="license" hreflang="en" href="{{ SITEURL }}/copyright.html" />
+</head>
+
+<body>
+  <aside>
+    <a href="/">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/logo.png" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
+    </a>
+    <h1><a href="/">{{ SITETITLE }}</a></h1>
+    {% if SITESUBTITLE %}<p class='subtitle'>{{ SITESUBTITLE }}</p>{% endif %}
+    <nav>
+      <ul>
+        {% for title, link in MENUITEMS %}
+        <li><a href="{{ link }}" {% if page and page.url == link %} class='active' {% endif %}>{{ title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </aside>
+
+  <main>
+    <div id='content'>
+    {% block content %}{% endblock %}
+    </div>
+
+    <footer>
+      <p><small>
+        content licensed <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a>
+        <span class='break'>—</span> ©2015–2017 {{ AUTHOR }} <span class='break'>—</span>
+        unless <a rel="license" href='/copyright.html'>indicated otherwise</a>
+      </small></p>
+    </footer>
+  </main>
+</body>
+</html>
