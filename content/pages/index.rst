@@ -1,11 +1,18 @@
 Computational Psychology
 *************************
+
 :save_as: index.html
 :url: index.html
 
 
-at the Techniche Universität Berlin
+at the Techniche Universität Berlin 
+------------------------------------
 
 
-Text text text
+
+.. image:: img/TUlogo.png
+  :width: 200
+  :alt: TU Logo
+
+
 

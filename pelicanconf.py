@@ -7,8 +7,8 @@ from __future__ import unicode_literals
 #
 AUTHOR = u'Marianne Maertens & Guillermo Aguilar'
 SITENAME = u'Computational Psychology at TU Berlin'
-#SITETITLE = u'Psycho&shy;informatics'
-#SITESUBTITLE = u'at <a href="http://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html">Jülich</a>'
+SITETITLE = u'Computational Psychology'
+SITESUBTITLE = u'at TU Berlin'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Berlin'
