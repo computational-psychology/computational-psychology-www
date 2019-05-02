@@ -1,0 +1,17 @@
+HOWTO
+------
+
+
+Requirements: 
+pelican  ('pip install pelican' for latest version)
+
+
+To edit:
+
+Run 'make devserver'  in the repository root folder. It compiles the website and updates it when a change has been edited.
+The website can be seen at http://localhost:8000
+
+Content reside in content/ folder, pages are in RST format.
+
+
+
