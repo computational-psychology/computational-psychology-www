@@ -9,7 +9,7 @@ AUTHOR = u'Marianne Maertens & Guillermo Aguilar'
 SITENAME = u'Computational Psychology at TU Berlin'
 SITETITLE = u'Computational Psychology'
 SITESUBTITLE = u'at TU Berlin'
-SITEURL = ''
+SITEURL = 'www.computational-psychology.de'
 
 TIMEZONE = 'Europe/Berlin'
 DEFAULT_LANG = u'en'
