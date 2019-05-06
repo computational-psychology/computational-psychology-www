@@ -9,7 +9,7 @@ People
 Marianne Maertens
 -------------------
 
-.. image:: img/mm.jpg
+.. image:: img/mm.png
   :width: 400
   :alt: Marianne Maertens
 
@@ -18,10 +18,19 @@ Marianne Maertens
 Guillermo Aguilar
 -------------------
 
+.. image:: img/ga.png
+  :width: 400
+  :alt: Guillermo Aguilar
 
 
 
 
-Alumni
--------
+Bernhard Lang
+-------------------
+
+.. image:: img/bl.png
+  :width: 400
+  :alt: Bernhard Lang
+  
+
 

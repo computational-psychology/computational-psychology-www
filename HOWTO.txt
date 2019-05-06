@@ -7,7 +7,7 @@ pelican  ('pip install pelican' for latest version)
 
 To clone:
 
-git clone --recursive  ...
+git clone --recursive  git@github.com:computational-psychology/computational-psychology.github.io.git
 
 
 
@@ -19,6 +19,5 @@ It compiles the website and updates it when a change has been detected.
 The website can be seen at http://localhost:8000
 
 Content reside in content/ folder, pages are in RST format.
-
 
 
