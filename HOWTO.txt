@@ -3,11 +3,15 @@ HOWTO
 
 
 Requirements: 
-pelican  ('pip install pelican' for latest version)
+pelican and ghp-import
+They can be installed with: 'pip install pelican ghp-import' 
 
-To clone:
+
+
+To clone the repository:
 
 git clone --recursive  git@github.com:computational-psychology/computational-psychology.github.io.git
+
 
 
 
@@ -21,3 +25,11 @@ The website can be seen at http://localhost:8000
 Content reside in content/ folder, pages are in RST format.
 
 
+
+
+To publish:
+
+- Add, commit and push your changes as you would normally do in git
+(git commit -m "message") .. and push it (git push)
+
+- run ./publish.sh  to deploy the latest website version online
