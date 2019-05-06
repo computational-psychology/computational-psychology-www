@@ -9,9 +9,8 @@ at the Techniche Universität Berlin
 ------------------------------------
 
 
-
 .. image:: img/TUlogo.png
-  :width: 200
+  :width: 100
   :alt: TU Logo
 
 
