@@ -2,7 +2,7 @@
 
 This repo contains the sources and assets for the website of the
 Computational Psychcology Lab at the Techniche Universität Berlin
-(https://www.computational-psychology.de).
+(http://www.computational-psychology.de).
 
 Generated using [Pelican](https://blog.getpelican.com/), building is as simple as
 running ``make devserver``.
