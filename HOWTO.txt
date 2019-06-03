@@ -3,11 +3,11 @@ HOWTO
 
 
 Requirements: 
+
 pelican and ghp-import
 They can be installed with: 'pip install pelican ghp-import' 
 
 Add your SSH public key to the "deploy key" section. Normally you find your public key in ./ssh/id_rsa.pub
-
 
 
 To clone the repository:
@@ -15,22 +15,22 @@ git clone --recursive  git@github.com:computational-psychology/computational-psy
 
 
 
-
-To edit:
-
-Run 'make devserver'  in the repository root folder. 
-It compiles the website and updates it when a change has been detected.
-
-The website can be seen at http://localhost:8000
-
-Content reside in content/ folder, pages are in RST format.
+Workflow:
 
 
+1. Go to the repository root folder.  
+	The contents of the website are all located inside content/
+
+2. Edit. 
+	Pages are located in content/pages, images in content/imgs
+	
+
+3. After editing, run 'make html' to make sure the website compiles. It should return no errors.
 
 
-To publish:
+4. Save your changes with 'git add' and 'git commit'. 
 
-- Add, commit and push your changes as you would normally do in git
-(git commit -m "message") .. and push it (git push)
 
-- run ./publish.sh  to deploy the latest website version online
+5. Publish you changes by running the shell script ./publish.sh.
+
+	This will deploy the changes online.
