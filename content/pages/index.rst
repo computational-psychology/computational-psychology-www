@@ -5,7 +5,7 @@ Computational Psychology
 :url: index.html
 
 
-at the Techniche Universität Berlin 
+at the Technische Universität Berlin 
 ------------------------------------
 
 
