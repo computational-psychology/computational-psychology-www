@@ -8,10 +8,9 @@ They can be installed with: 'pip install pelican ghp-import'
 
 Add your SSH public key to the "deploy key" section. Normallu you find your public key in ./ssh/id_rsa.pub
 
+
+
 To clone the repository:
-
-
-
 git clone --recursive  git@github.com:computational-psychology/computational-psychology.github.io.git
 
 
