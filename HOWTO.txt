@@ -6,7 +6,7 @@ Requirements:
 pelican and ghp-import
 They can be installed with: 'pip install pelican ghp-import' 
 
-Add your SSH public key to the "deploy key" section. Normallu you find your public key in ./ssh/id_rsa.pub
+Add your SSH public key to the "deploy key" section. Normally you find your public key in ./ssh/id_rsa.pub
 
 
 
