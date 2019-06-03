@@ -18,19 +18,22 @@ git clone --recursive  git@github.com:computational-psychology/computational-psy
 Workflow:
 
 
-1. Go to the repository root folder.  
-	The contents of the website are all located inside content/
+1. Go to the repository root folder and pull the latest version from github with 'git pull'
 
-2. Edit. 
+
+2. Edit what you need to edit.
 	Pages are located in content/pages, images in content/imgs
 	
-
+	
 3. After editing, run 'make html' to make sure the website compiles. It should return no errors.
 
 
 4. Save your changes with 'git add' and 'git commit'. 
 
 
-5. Publish you changes by running the shell script ./publish.sh.
+5. Push your changes with 'git push'
+
+
+6. Finally, publish you changes by running the shell script ./publish.sh.
 
 	This will deploy the changes online.
