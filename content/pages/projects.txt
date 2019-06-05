@@ -1,0 +1,28 @@
+1. Image segmentation (Computer vision student)
+	Histogram comparison of contrast ranges with RMSM using dead leaves
+
+2. Measuring perceptual scales for perceived contrast.
+	various stimuli: repeat previous results for simple stimuli (maybe gratings)
+			Sullivan and Georgeson 1975
+			E. Peli 
+		plus variegated checkerboards
+
+	Guillermo: write proposal for DFG (?) 
+
+3. Follow up on Chubb 1989's contrast-contrast phenomenon and our variegated checkerboards.
+	VSS19 poster on p. transparency shows phenomenon that p. contrast with v.c. surround looks
+	more contrasty than cut-out stimuli -> opposite effect than in contrast-contrast.
+
+4. Perceived transaprency / perceived contrast with episcotisters  (electrical engenieering student)
+	building with real stimuli, cardboard and motors to build rack
+
+
+5. Crispening in real world stimuli (Carolin)
+	with real checkerboards: cardboard print outs
+	check location is always the same, also in a 3x3 array
+	spacing closer together than in our prev. paper
+	measure one scale with thurstonian scaling  / matching task with munsell patches next to it 
+	an episcotister / transparency can be added to reduce the contrast, becuase it could be that 
+		print outs are not accurarate  
+	
+  
