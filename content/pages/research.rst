@@ -8,9 +8,9 @@ We are interested in the question how the perceptual system generates meaningful
 categories from a given sensory stimulation. The figure below shows a powerful demonstration of the
 functioning principles of the human visual system. Most literate observers readily perceive the line fragments as part of capital letter 'E'. The goal of our research is to understand the functioning principles which allow human perception to work as it does.
 
-.. figure:: ../img/metzger_e.png
-   :align: right
-   :width: 20%
+.. figure:: img/metzger_e.png
+   :align: center
+   :width: 10%
    :alt: Metzger E
 
 
@@ -30,7 +30,7 @@ An early vision model of lightness perception
 Our goal is to develop a mechanistic account of the computational principles and mechanisms that transform retinal sensations into meaningful percepts. We address this goal in the domain of lightness perception and want to understand how surface lightness is determined from the luminance signal in the retina. A computational model of lightness should receive a 2d matrix of gray values as input and compute the perceived lightness at all image positions as output.
 
 
-.. figure:: ../img/white_illusion_odog.png
+.. figure:: img/white_illusion_odog.png
    :figwidth: 650
    :alt: White's illusion and ODOG model
 
