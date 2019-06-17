@@ -1,5 +1,16 @@
 1. Image segmentation (Computer vision student)
-	Histogram comparison of contrast ranges with RMSM using dead leaves
+Studies on lightness perception have pointed to the importance of articulation to achieve lightness constancy (Radonjic and Gilchrist, 2013). Studies on perceived transparency imply that observers seem to rely on contrast to perceive surfaces that are partially obscured by a transparent medium. In particular, Anderson and Singh have proposed the transmittance anchoring principle which assumes that the human visual system is somehow able to detect a contiguous regions of different contrast ranges, treats the regions with the highest range as regions seen in plain view, and normalizes the contrast ranges of all other regions relative to it. This constrast-based scene segmentation might also be used for achieving lightness constancy and it would explain why articulated stimuli lead to better constancy, because according to the model a higher number of different luminances provides a better estimate to contrast range. 
+To explore the above reasoning it would be necessary to test the sensitivity of different contrast metrics to distinguish between different regions of illumination or transparency.
+
+- check literature and compare prediction of contrast model to the reported findings
+- generate stimuli using rendering and calculate contrasts
+- generate maximally different (MAD) stimuli to test models against each other
+- calculate power for different assumed effect sizes and noise
+
+(Qasim demo - images)
+
+Histogram comparison of contrast ranges with RMSM using dead leaves
+
 
 2. Measuring perceptual scales for perceived contrast.
 	various stimuli: repeat previous results for simple stimuli (maybe gratings)
@@ -7,14 +18,22 @@
 			E. Peli 
 		plus variegated checkerboards
 
-	Guillermo: write proposal for DFG (?) 
+	Guillermo: write proposal for DFG (?)
+	
+Contrast sensitivity has been deemed important in vision science because it limits perceptual accuracy. Contrast sensitivity is typically determined with well-controlled stimuli such as Gabor patches, i.e. sinusoidal gratings with a Gaussian envelope, and under threshold conditions. Here we are interested in measuring the contrast sensitivity for suprathreshold stimuli using simple and more realistic stimuli.    
 
-3. Follow up on Chubb 1989's contrast-contrast phenomenon and our variegated checkerboards.
-	VSS19 poster on p. transparency shows phenomenon that p. contrast with v.c. surround looks
-	more contrasty than cut-out stimuli -> opposite effect than in contrast-contrast.
+3. Follow up on Chubb 1989's contrast-contrast phenomenon and our variegated checkerboards. VSS19 poster on p. transparency shows phenomenon that p. contrast with v.c. surround looks more contrasty than cut-out stimuli -> opposite effect than in contrast-contrast. How can the two observations be reconciled?
 
-4. Perceived transaprency / perceived contrast with episcotisters  (electrical engenieering student)
-	building with real stimuli, cardboard and motors to build rack
+Skills:
+Interest:
+
+4. Perceived transparency / perceived contrast with episcotisters  (electrical engenieering student)
+building with real stimuli, cardboard and motors to build rack
+Perception experiments are mostly done with stimuli presented on a computer screen. In this project wer are using real world stimuli made out of cardboard to simulate transparency in rotating discs with an opening (so-called episcotisters). We want to measure the contrast sensitivity using these real world stimuli.
+
+Skills:
+Interest:
+
 
 
 5. Crispening in real world stimuli (Carolin)
@@ -23,6 +42,5 @@
 	spacing closer together than in our prev. paper
 	measure one scale with thurstonian scaling  / matching task with munsell patches next to it 
 	an episcotister / transparency can be added to reduce the contrast, becuase it could be that 
-		print outs are not accurarate  
-	
+		print outs are not accurarate 
   
