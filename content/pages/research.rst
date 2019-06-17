@@ -1,17 +1,34 @@
-Research Projects
-******************
+Research
+*********
+
 :save_as: research.html
 :url: research.html
 
 
-We are interested in the question how the perceptual system generates meaningful perceptual
-categories from a given sensory stimulation. The figure below shows a powerful demonstration of the
-functioning principles of the human visual system. Most literate observers readily perceive the line fragments as part of capital letter 'E'. The goal of our research is to understand the functioning principles which allow human perception to work as it does.
+.. container:: twocol
 
-.. figure:: img/metzger_e.png
-   :align: center
-   :width: 10%
-   :alt: Metzger E
+   .. container:: leftside
+
+      We are interested in the question how the perceptual system generates meaningful perceptual categories from a given sensory stimulation. The figure below shows a powerful demonstration of the functioning principles of the human visual system. Most literate observers readily perceive the line fragments as part of capital letter 'E'. The goal of our research is to understand the functioning principles which allow human perception to work as it does.
+
+   .. container:: rightside
+
+      .. figure:: img/metzger_e.png
+		 :width: 15%
+		 :align: right
+		 :alt: Metzger E      
+
+
+
+Research projects for students
+-------------------------------
+
+- Contrast as a cue for image segmentation in transparency conditions
+
+- Perceived transparency and perceived contrast using real world stimuli (episcotisters)
+
+- Crispening in real world stimuli
+
 
 
 Experimental characterization of lightness constancy

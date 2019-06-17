@@ -566,3 +566,13 @@ aside a.active {
   #contact > div { flex-basis: 50%; }
   #contact > div:nth-child(2n) { text-align: right; }
 }
+
+div.leftside {
+    width: 700px;
+    padding: 0px 3px 0px 0px;
+    float: left;
+}
+
+div.rightside {
+    margin-left: 50px;
+}
