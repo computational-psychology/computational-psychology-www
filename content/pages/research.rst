@@ -23,6 +23,19 @@ The perceptual domain in which we currently study the above question is lightnes
 Evaluation of experimental techniques to measure appearance
 ------------------------------------------------------------
 
+The appearance of visual stimuli is commonly measured with matching procedures. 
+In such an experiment the observer is asked to adjust an external reference stimulus until it looks the same as the target, and usually the target is presented in a different context or viewing condition, e.g. a different illumination. Although prevalent in the literature, matching tasks are usually difficult for the observer, do not guarantee subjective equality (as observers could be doing a 'minimal' difference match), and provide data which are an indirect measure of the underlying perceptual dimension. 
+As an alternative we have explored the use of scaling methods for the measurement of appearance of visual stimuli presented across different viewing contexts. Specifically, we have evaluated Maximum Likelihood Difference Scaling (MLDS) and Maximum Likelihood Conjoint Measurement (MLCM).  `Here our recent poster about this topic <files/Aguilar_Maertens_VSS2019.pdf>`_.
+
+.. figure:: img/matching_logic.png
+   :figwidth: 600
+   :align: center
+   :alt: Matching logic in variegated checkerboards seen through a transparency.
+
+   Matching procedures and underlying perceptual processes. After `Wiebel et al. (2017) <https://dx.doi.org/10.1167/17.4.1>`_.
+
+
+
 
 An early vision model of lightness perception
 -----------------------------------------------

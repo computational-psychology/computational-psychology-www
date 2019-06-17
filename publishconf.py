@@ -19,7 +19,7 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-STATIC_PATHS = ['img', 'extra/CNAME']
+STATIC_PATHS = ['img', 'extra/CNAME', 'files']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 # Following items are often useful when publishing
