@@ -19,15 +19,17 @@ Research
 		 :alt: Metzger E      
 
 
+.. role:: highlight
 
-Research projects for students
--------------------------------
+:highlight:`Research projects for students`
+--------------------------------------------
 
 - Contrast as a cue for image segmentation in transparency conditions
 
 - Perceived transparency and perceived contrast using real world stimuli (episcotisters)
 
 - Crispening in real world stimuli
+
 
 
 

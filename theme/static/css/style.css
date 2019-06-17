@@ -576,3 +576,7 @@ div.leftside {
 div.rightside {
     margin-left: 50px;
 }
+
+.highlight {
+    color:#d9411e;
+}
