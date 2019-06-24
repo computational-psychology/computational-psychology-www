@@ -37,14 +37,11 @@ Workflow
 	Pages are located in content/pages, images in content/imgs
 	
 	
-3. After editing, run 'make html' to make sure the website compiles. It should return no errors.
-
+3. After editing, run 'make html' to test that the website compiles locally. No errors should occur.
 
 4. Save your changes with 'git add' and 'git commit'. 
 
-
 5. Push your changes with 'git push'
-
 
 6. Finally, publish you changes by running the shell script ./publish.sh.
 

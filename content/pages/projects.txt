@@ -2,6 +2,10 @@
 Studies on lightness perception have pointed to the importance of articulation to achieve lightness constancy (Radonjic and Gilchrist, 2013). Studies on perceived transparency imply that observers seem to rely on contrast to perceive surfaces that are partially obscured by a transparent medium. In particular, Anderson and Singh have proposed the transmittance anchoring principle which assumes that the human visual system is somehow able to detect a contiguous regions of different contrast ranges, treats the regions with the highest range as regions seen in plain view, and normalizes the contrast ranges of all other regions relative to it. This constrast-based scene segmentation might also be used for achieving lightness constancy and it would explain why articulated stimuli lead to better constancy, because according to the model a higher number of different luminances provides a better estimate to contrast range. 
 To explore the above reasoning it would be necessary to test the sensitivity of different contrast metrics to distinguish between different regions of illumination or transparency.
 
+Skills:
+Interest: 
+
+
 - check literature and compare prediction of contrast model to the reported findings
 - generate stimuli using rendering and calculate contrasts
 - generate maximally different (MAD) stimuli to test models against each other
