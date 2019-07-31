@@ -580,3 +580,13 @@ div.rightside {
 .highlight {
     color:#d9411e;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+}
+

@@ -8,10 +8,3 @@ Computational Psychology
 at the Technische Universität Berlin 
 ------------------------------------
 
-
-.. image:: img/TUlogo.png
-  :width: 100
-  :alt: TU Logo
-
-
-
