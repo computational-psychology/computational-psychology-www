@@ -12,7 +12,9 @@ Requirements
 Installation
 ------------
 
-0. Follow instructions from tubIT on how to install access to AFS
+https://www.campusmanagement.tu-berlin.de/menue/dienste/daten_server/andrew_file_system/zugriff_auf_afs-daten_per_openafs-client/
+
+0. Follow Installation instructions from tubIT for AFS
     After configuring, you should have access to the folder
     /afs/tu-berlin.de/units/Fak_IV/psyco/www/www.psyco/htdocs
     
