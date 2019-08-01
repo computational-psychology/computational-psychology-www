@@ -1,0 +1,10 @@
+# new editors of the website should have a tubIT account,
+
+# have configured AFS in their machines
+https://www.campusmanagement.tu-berlin.de/menue/dienste/daten_server/andrew_file_system/zugriff_auf_afs-daten_per_openafs-client/
+
+
+# and I need to add them to the AFS group with the following command
+# (email from tubIT 31.07.2019)
+
+pts adduser marianne.maertens guillermo.aguilar:svc-w3-0527
