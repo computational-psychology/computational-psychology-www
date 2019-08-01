@@ -4,7 +4,8 @@ HOWTO
 
 Requirements 
 -------------
-pelican and having AFS configured in your machine (requirement: tubIT account)
+- pelican 
+- having AFS configured in your machine (requirement: tubIT account)
 
 
 
@@ -26,9 +27,10 @@ Installation
 
 
 
-
 Workflow
 ----------
+
+To edit locally:
 
 1. Go to the repository root folder and pull the latest version from github with 'git pull'
 
@@ -36,18 +38,31 @@ Workflow
 	Pages are located in content/pages, images in content/imgs
 	
 3. After editing, run 'make html' to test that the website compiles locally. No errors should occur.
+   You can see the local version of the page inside folder output/. Open index.html with a browser.
+
+   
+To save changes:
 
 4. Save your changes with 'git add' and 'git commit'.  Push your changes to github with 'git push'
 
-5. To publish, first you need to have AFS running and be logged in:
-	- 
-	- 
 
+
+To publish your changes:
+
+5. First you need to make sure that you have AFS running and be logged in:
+	
+	- by  default AFS shoud be running as a service. you can check that with 'sudo service openafs-client  status'
+	
+	- after every restart / session you need to log in into AFS. for that, as a normal user you run these two commands, replacing
+	   tubITuser 
+	
+		'kinit tubITuser'
+		'aklog'
+		
 
 6. Finally, publish you changes by running the shell script ./publish.sh.
 
-	This will deploy the changes by coping the output/ folder which contains the rendered website
-	to the website folder in the server mounted via AFS.
+	This will deploy the changes by coping the output/ folder which contains the rendered website to the website folder in the server mounted via AFS.
 
 
 
