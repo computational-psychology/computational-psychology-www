@@ -59,11 +59,15 @@ To publish your changes:
 	- by  default AFS shoud be running as a service. you can check that with 'sudo service openafs-client  status'
 	
 	- after every restart / session you need to log in into AFS. for that, as a normal user you run these two commands, replacing
-	   tubITuser 
+	   tubITuser with user name, enter TUBIT password 
 	
-		'kinit tubITuser'
-		'aklog'
+		1. 'kinit tubITuser'
 		
+		2. 'aklog'
+
+if things do not work - check whether you have access to afs folder
+
+'cd /afs/tu-berlin.de/units/Fak_IV/psyco/www/www.psyco/htdocs'
 
 6. Finally, publish you changes by copying edited files to our AFS directory
     - go to root of local repository and run ./publish.sh (shell script)
