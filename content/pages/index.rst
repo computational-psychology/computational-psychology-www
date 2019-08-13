@@ -5,19 +5,19 @@ Computational Psychology
 :url: index.html
 
 
-at the Technische Universität Berlin 
+at the Technische Universität Berlin
 ------------------------------------
 
 .. container:: twocol
 
    .. container:: leftside
 
-      We are interested in the question how the perceptual system generates meaningful perceptual categories from a given sensory stimulation. The figure below shows a powerful demonstration of the functioning principles of the human visual system. Most literate observers readily perceive the line fragments as part of capital letter 'E'. The goal of our research is to understand the functioning principles which allow human perception to work as it does.
+      We study visual perception in humans, both experimentally and through computational modeling. We focus on the question how meaningful perceptual categories arise from a given sensory stimulation. In vision the sensory stimulation is the information available in the light signal incident at the eye. We tackle this problem with psychophysical experiments and measure for example how surface appearance is related to physical surface properties under varying viewing conditions. We formulate computational models to account for the perceptual judgments observers make. In addition, we revise and develop experimental techniques that we can use to reliably assess observers' perceptions. 
+
 
    .. container:: rightside
 
       .. figure:: img/metzger_e.png
 		 :width: 15%
 		 :align: right
-		 :alt: Metzger E      
-
+		 :alt: Metzger E
