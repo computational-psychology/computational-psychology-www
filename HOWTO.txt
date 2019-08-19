@@ -58,12 +58,12 @@ To publish your changes:
 	
 	- by  default AFS shoud be running as a service. you can check that with 'sudo service openafs-client  status'
 	
-	- after every restart / session you need to log in into AFS. for that, as a normal user you run these two commands, replacing
-	   tubITuser with user name, enter TUBIT password 
+	- after every restart / session you need to log in into AFS. for that, as a normal user you run these TWO commands, replacing
+	   'tubIT.user' with user name, enter TUBIT password 
 	
-		1. 'kinit tubITuser'
+		1. kinit 'tubIT.user'
 		
-		2. 'aklog'
+		2. aklog
 
 if things do not work - check whether you have access to afs folder
 
