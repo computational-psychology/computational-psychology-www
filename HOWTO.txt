@@ -14,8 +14,8 @@ Installation
 
 https://www.campusmanagement.tu-berlin.de/menue/dienste/daten_server/andrew_file_system/zugriff_auf_afs-daten_per_openafs-client/
 
-In linux it is encessary to have the kernel headers installed
-sudo apt-get install linux-headers-$(uname -r)
+In linux it is encessary to have the kernel headers installed. You can install them by executing
+'sudo apt-get install linux-headers-$(uname -r)'
 
 0. Follow Installation instructions from tubIT for AFS
     After configuring, you should have access to the folder
@@ -68,6 +68,7 @@ To publish your changes:
 if things do not work - check whether you have access to afs folder
 
 'cd /afs/tu-berlin.de/units/Fak_IV/psyco/www/www.psyco/htdocs'
+
 
 6. Finally, publish you changes by copying edited files to our AFS directory
     - go to root of local repository and run ./publish.sh (shell script)
