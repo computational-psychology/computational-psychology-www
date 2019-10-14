@@ -246,7 +246,7 @@ blockquote::before {
   vertical-align: -2.5rem;
 }
 
-.figure { border-bottom: 1px dotted #ddd; }
+
 .figure img { width: 100%; }
 .figure p { /* caption */
   font-size: 0.8em;
@@ -308,9 +308,11 @@ footer span.break {
 }
 
 section {
-  border-bottom: #eee 3px solid;
+  border-bottom: #eee 0px solid;
   overflow: hidden;
 }
+
+
 section:nth-child(2n) { background-color: #f6f6f6; }
 section:first-of-type { border-top: #eee 3px solid; }
 h2 + section          { border-top: 0; } /* unless immediately preceded by a header */

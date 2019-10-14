@@ -11,9 +11,13 @@ SITETITLE = u'Computational Psychology'
 SITESUBTITLE = u'at TU Berlin'
 SITEURL = 'www.psyco.tu-berlin.de'
 
+FAVICON = SITEURL + '/img/favicon.ico'
+
 TIMEZONE = 'Europe/Berlin'
 DEFAULT_LANG = u'en'
 LOCALE = u'en_US.UTF-8'
+
+MAIN_MENU = True
 
 #
 # Configure Pelican a bit
