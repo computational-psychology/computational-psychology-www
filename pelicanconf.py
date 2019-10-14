@@ -19,7 +19,7 @@ LOCALE = u'en_US.UTF-8'
 # Configure Pelican a bit
 #
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = [ 'sitemap' ]
+PLUGINS = [ 'sitemap', 'just_table']
 SITEMAP = { 'format': 'xml' }
 
 DIRECT_TEMPLATES = ['404'] # unset all templates; add 404
@@ -36,12 +36,12 @@ AUTHOR_FEED_RSS = None
 # Configure the site
 #
 STATIC_PATHS = ['img', 'files']
-MENUITEMS = (('home', 'index.html'),
-             ('people', 'people.html'),
-             ('research', 'research.html'),
-             ('publications', 'publications.html'),
-             ('teaching', 'teaching.html'),
-             ('contact', 'contact.html')
+MENUITEMS = (('Home', 'index.html'),
+             ('People', 'people.html'),
+             ('Research', 'research.html'),
+             ('Publications', 'publications.html'),
+             ('Teaching', 'teaching.html'),
+             ('Contact', 'contact.html')
 )
 
 DEFAULT_PAGINATION = False
