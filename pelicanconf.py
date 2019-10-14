@@ -52,3 +52,5 @@ DEFAULT_PAGINATION = False
 
 # We prefer document-relative URLs
 RELATIVE_URLS = True
+
+CACHE_CONTENT = False
