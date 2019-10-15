@@ -29,6 +29,10 @@ In linux it is encessary to have the kernel headers installed. You can install t
 2. Clone the repository to a local folder
 
 	'git clone --recursive  git@github.com:computational-psychology/computational-psychology.github.io.git'
+    
+    if you haven't used github before, you need to:
+        - be added to our organization 'computational-psychology' -> ask Guillermo to add you
+        - add your public key to your github account
 
 
 
