@@ -1,4 +1,4 @@
-﻿Dr. Guillermo Aguilar
+﻿Lynn Schmittwilken
 ***************************
 
 
@@ -20,10 +20,10 @@
 
    .. container:: rightside
 
-      .. figure:: img/ga_500.png
+      .. figure:: img/ls_500.png
 		 :width: 25%
 		 :align: right
-		 :alt: Guillermo Aguilar
+		 :alt: Lynn Schmittwilken
 
 
 
@@ -54,7 +54,7 @@ Professional and Academic Experience
    - Research question: Which information can be derived from physiological data of primates implanted with high-resolution epidural ECoG arrays in V1?
 
 - 2016-2018	: Student assistant of Prof. Dr. Manfred Fahle, Bremen University
-   - Research question: 
+   - Research question: Can we identify
 
 Education
 ~~~~~~~~~~~~~~~~~~~~
