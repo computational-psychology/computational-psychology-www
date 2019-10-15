@@ -43,6 +43,7 @@ Professional and Academic Experience
 Education
 ~~~~~~~~~~~~~~~~~~~~
 
+- 2019		  : CVR Summer School, Centre for Vision Research, York University Toronto
 - since 2016  : Bachelor Program "Computer Science", TU Berlin
 - 2015-2016	  : Orientierungsstudium "MINTGrün", TU Berlin
 
