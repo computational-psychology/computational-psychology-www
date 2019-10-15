@@ -33,7 +33,7 @@ Research Interests
 -------------------
 
 I study visual processing in humans. In particular, I am interested in how
-we perceive the three-dimensional nature of our surrounds and how this
+we perceive the three-dimensional nature of our surrounds, and how this
 information could be used to improve computer vision models.
 
 
@@ -54,25 +54,18 @@ Professional and Academic Experience
    - Research question: Which information can be derived from physiological data of primates implanted with high-resolution epidural ECoG arrays in V1?
 
 - 2016-2018	: Student assistant of Prof. Dr. Manfred Fahle, Bremen University
-   - Research question: Can we identify
+   - Research question: Can we identify two distinct brain regions for the detection and discrimation of different visual modalities (color, motion, contrast, luminance)?
 
 Education
 ~~~~~~~~~~~~~~~~~~~~
  
-- 2016 - 2019:  M.Sc., Integrative Neuroscience, Otto-von-Guericke-Universität Magdeburg
+- 2016 - 2019: M. Sc., Neurosciences, Bremen University
    
-- 2007  : B.Sc., Medical Sciences, University of Chile.
+- 2013 - 2016: B. Sc., Psychology, Bremen University
 
 
 
 Research Projects
 -------------------
 
-`Experimental characterization of lightness constancy <research.html#lightness>`_
-
-`Evaluation of experimental techniques to measure appearance <research.html#methods>`_
-
-
-`Publications <publications.html>`_
-------------------------------------
-
+`Depth perception in 3d scences <research.html#depth_3d>`_
