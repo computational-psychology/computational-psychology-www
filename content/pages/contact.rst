@@ -8,9 +8,9 @@ Contact
 Secretary/Office
 ------------------
 
-Bianca del Mestre
-Phone: +49 (0)30 314-75771
-Email: bianca.delmestre@tu-berlin.de
+| Bianca del Mestre
+| Phone: +49 (0)30 314-75771
+| Email: bianca.delmestre@tu-berlin.de
 
 
 Mailing Address
