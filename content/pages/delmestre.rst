@@ -13,9 +13,9 @@ Bianca del Mestre
 
       - Room: MAR 5.019
 
-      - Email: bianca.delmestre@mail.tu-berlin.de
+      - Email: bianca.delmestre@tu-berlin.de
 
-      - Office hours: Mon-Wed 10:00 a.m. to 12:00 p.m.
+      - Office hours: Mon-Wed 10 a.m.-12 p.m.
       
 
    .. container:: rightside
