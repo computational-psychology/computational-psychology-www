@@ -3,6 +3,8 @@
 git add content
 
 git commit -a -m "changes at biancas computer"
+git pull --rebase
+git push
 
 make publish
 
