@@ -45,11 +45,6 @@ at the Technische Universität Berlin
 News
 ------
 
-This is the title of the news
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-hier goes the text of the news text text text
-`here goes the text <https://www.tu-berlin.de>`_.
 
 
 New group members: Lynn Schmittwilken and Bianca del Mestre
