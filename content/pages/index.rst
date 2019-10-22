@@ -50,9 +50,9 @@ News
 New group members: Lynn Schmittwilken and Bianca del Mestre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On Oct 1st two new members joined us in our group. Lynn joined us as a Ph.D. student, and also she is part of the 
+On Oct 1st two new members joined us in our group. Lynn joined us as a Ph.D. student, and she is part of the 
 `Science of Intelligence <https://www.scienceofintelligence.de>`_'s Doctoral Programm.
-And Bianca is our new Assistant. Their contact details can be found in `People <people.html>`_.
+And Bianca is our new secretary. Their contact details can be found in `People <people.html>`_.
 
 
 
