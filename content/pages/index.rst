@@ -42,6 +42,26 @@ at the Technische Universität Berlin
 
 
 
+News
+------
+
+
+New group members: Lynn Schmittwilken and Bianca del Mestre
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+On Oct 1st two new members joined us in our group. Lynn joined us as a Ph.D. student, and also she is part of the `Science of Intelligence <https://www.scienceofintelligence.de>`_'s Doctoral Programm.
+And Bianca is our new Assistant. Their contact details can be found in `People <people.html>`_.
+
+
+
+ECVP19: we organized a Symposium and contributed with a talk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Marianne Maertens co-organized the Symposium `Maximum Likelihood Difference Scaling (MLDS): Applications and challenges <https://www.conftool.pro/ecvp2019/index.php?page=browseSessions&form_session=15>`_ for the European Conference on Visual Perception (ECVP) held last August in Leuven, Belgium.
+One of the five talks was given by Guillermo Aguilar with the title "Lightness scales measured with MLDS and MLCM in multiple contexts". The abstracts can be found `here <https://www.conftool.pro/ecvp2019/index.php?page=browseSessions&form_session=15>`_.
+
+
 
 
 
