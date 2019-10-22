@@ -12,6 +12,8 @@ Dr. Guillermo Aguilar
    .. container:: leftside
 
       - Room: MAR 5.010
+      
+      - Phone: 030 - 314 73887
 
       - Email: guillermo.aguilar@mail.tu-berlin.de
 
