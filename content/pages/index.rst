@@ -45,11 +45,18 @@ at the Technische Universität Berlin
 News
 ------
 
+This is the title of the news
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+hier goes the text of the news text text text
+`here goes the text <https://www.tu-berlin.de>`_.
+
 
 New group members: Lynn Schmittwilken and Bianca del Mestre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On Oct 1st two new members joined us in our group. Lynn joined us as a Ph.D. student, and also she is part of the `Science of Intelligence <https://www.scienceofintelligence.de>`_'s Doctoral Programm.
+On Oct 1st two new members joined us in our group. Lynn joined us as a Ph.D. student, and also she is part of the 
+`Science of Intelligence <https://www.scienceofintelligence.de>`_'s Doctoral Programm.
 And Bianca is our new Assistant. Their contact details can be found in `People <people.html>`_.
 
 
