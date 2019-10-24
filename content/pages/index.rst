@@ -47,12 +47,11 @@ News
 
 
 
-New group members: Lynn Schmittwilken and Bianca del Mestre
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+New group members: Lynn Schmittwilken, Bernhard Lang and Bianca del Mestre
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On Oct 1st two new members joined us in our group. Lynn joined us as a Ph.D. student, and she is part of the 
-`Science of Intelligence <https://www.scienceofintelligence.de>`_'s Doctoral Programm.
-And Bianca is our new secretary. Their contact details can be found in `People <people.html>`_.
+On Oct three new members joined us in our group. Lynn joined us as a Ph.D. student, and she is part of the 
+`Science of Intelligence <https://www.scienceofintelligence.de>`_'s Doctoral Programm. Bernhard will be co supervised in our lab. And Bianca is our new secretary. Their contact details can be found in `People <people.html>`_. 
 
 
 
