@@ -1,4 +1,4 @@
-# Source for www.computational-psychology.de #
+# Source for www.psyco.tu-berlin.de #
 
 This repo contains the sources and assets for the website of the
 Computational Psychcology Lab at the Techniche Universität Berlin
