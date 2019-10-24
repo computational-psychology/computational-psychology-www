@@ -2,14 +2,13 @@
 
 This repo contains the sources and assets for the website of the
 Computational Psychcology Lab at the Techniche Universität Berlin
-(http://www.computational-psychology.de).
+(http://www.psyco.tu-berlin.de).
 
 Generated using [Pelican](https://blog.getpelican.com/), building is as simple as
 running ``make devserver``.
 
 ## Thank yous ##
-To Michael Hanke's group from whom we got the website's template and inspiration.  Thank you to Alexandre Vicenzi for making and sharing his [Flex
-theme](https://github.com/alexandrevicenzi/Flex/). 
+To Michael Hanke's group from whom we got the website's template and inspiration (https://www.psychoinformatics.de).  Thank you to Alexandre Vicenzi for making and sharing his [Flex theme](https://github.com/alexandrevicenzi/Flex/).
 
 
 ## Licenses ##
