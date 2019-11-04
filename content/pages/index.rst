@@ -47,10 +47,12 @@ News
 
 
 
-New group members: Lynn Schmittwilken, Bernhard Lang and Bianca del Mestre
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+New group members: Joris Vincent, Lynn Schmittwilken, Bernhard Lang and Bianca del Mestre
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On Oct three new members joined us in our group. Lynn joined us as a Ph.D. student, and she is part of the 
+On November Joris joined us in our group. Joris joined us as a Post-doc. He is from the University of Pennsylvania, Dept. of Neurology. His contact details can be found in `People <people.html>`_. 
+
+On October three new members joined us in our group. Lynn joined us as a Ph.D. student, and she is part of the 
 `Science of Intelligence <https://www.scienceofintelligence.de>`_'s Doctoral Programm. Bernhard is co-supervised as a Ph.D. student in our lab. And Bianca is our new secretary. Their contact details can be found in `People <people.html>`_. 
 
 
