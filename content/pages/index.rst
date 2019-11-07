@@ -1,5 +1,5 @@
 Computational Psychology
-*************************
+*******************************
 
 :save_as: index.html
 :url: index.html

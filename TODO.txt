@@ -1,8 +1,6 @@
-Link of Fachgebietes Computational Psychology need to go to www.psyco.tu-berlin.de
 
-in:
+- Add side bar on the right with contact information (as in TU design)
 
+- check links to website, that it appears in google when searching for us, etc.
 
-https://www.eecs.tu-berlin.de/menue/einrichtungen/institute/itim/
-
-https://www.eecs.tu-berlin.de/menue/einrichtungen/professuren/professorinnen/maertens
+- Add Joris's page
