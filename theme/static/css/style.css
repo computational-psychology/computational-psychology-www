@@ -600,7 +600,7 @@ div.leftside {
 }
 
 div.rightside {
-    margin-left: 50px;
+    float: right;
 }
 
 .highlight {

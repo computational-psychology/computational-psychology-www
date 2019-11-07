@@ -29,13 +29,20 @@ at the Technische Universität Berlin
    .. container:: rightside
 
       .. figure:: img/metzger_e.png
-		 :width: 15%
+		 :width: 50%
 		 :align: right
 		 :alt: Metzger E
 
 
 .. raw:: html
 
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
     <br />
     <br />
     <br />
