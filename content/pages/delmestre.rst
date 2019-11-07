@@ -12,6 +12,8 @@ Bianca del Mestre
    .. container:: leftside
 
       - Room: MAR 5.019
+      
+      - Phone: +49 (0)30/314-75771
 
       - Email: bianca.delmestre@tu-berlin.de
 
