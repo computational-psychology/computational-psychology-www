@@ -145,7 +145,7 @@ section, div.section {
     width: 15%;
     height: 100%;
     position: fixed; top: 0; left: 0;
-    overflow-x: hidden;
+    overflow-x: auto;
     overflow-y: auto;
     /*border-right: 4px solid #C50E1F;*/
   }
@@ -153,8 +153,8 @@ section, div.section {
   main {
     width: 65%;
     position: absolute; top: 0; left: 15%;
-    overflow-x: hidden;
-    overflow-y: hidden;
+    overflow-x: auto;
+    overflow-y: auto;
   }
   
   #right{
@@ -335,7 +335,7 @@ footer span.break {
 
 section {
   border-bottom: #C50E1F 0px solid;
-  overflow: hidden;
+  overflow: auto;
 }
 
 
@@ -594,7 +594,7 @@ aside a.active {
 }
 
 div.leftside {
-    width: 700px;
+    width: 600px;
     padding: 0px 3px 0px 0px;
     float: left;
 }

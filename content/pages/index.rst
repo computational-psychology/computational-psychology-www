@@ -34,19 +34,18 @@ at the Technische Universität Berlin
 		 :alt: Metzger E
 
 
-.. raw:: html
 
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 
 
 News
