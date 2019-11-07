@@ -30,10 +30,10 @@ In linux it is encessary to have the kernel headers installed. You can install t
 
 	'git clone --recursive  git@github.com:computational-psychology/computational-psychology-www.git'
     
+
     if you haven't used github before, you need to:
         - be added to our organization 'computational-psychology' -> ask Guillermo to add you
-        - add your public key to your github account
-
+        - add your public key (id_rsa.pub located in your .ssh folder) to your github account
 
 
 Workflow
