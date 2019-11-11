@@ -137,24 +137,24 @@ section, div.section {
   padding: 2em 6vw;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 760px) {
   aside{
     width: 15%;
     height: 100%;
     position: fixed; top: 0; left: 0;
     overflow-x: hidden;
-    overflow-y: auto;
+    overflow-y: hidden;
   }
 
   main {
-    width: 65%;
+    width: 62%;
     position: absolute; top: 0; left: 15%;
     overflow-x: hidden;
     overflow-y: hidden;
   }
   
   #right{
-    width: 16%
+    width: 16%;
     height: 100%;
     padding-right: 0px;
     padding-top: 0px;
