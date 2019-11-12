@@ -548,11 +548,12 @@ aside a.active {
   }
 
   .members.alumni .mem {
-    height: 500px;
+    height: 300px;
     flex-basis: 32%;
+    vertical-align: top;
   }
   .members.alumni .mem .mugshot {
-    height: 500px;
+    height: 300px;
   }
 }
 
