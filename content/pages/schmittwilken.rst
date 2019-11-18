@@ -11,7 +11,7 @@
 
    .. container:: leftside
 
-      - Room 1: MAR 5.017 (Phone: 030-314 78962) and MAR 6.058 (Phone: 030-314 29638)
+      - Rooms: MAR 5.017 (Phone: 030-314 78962) and MAR 6.058 (Phone: 030-314 29638)
 
       - Email: l.schmittwilken@tu-berlin.de
 
