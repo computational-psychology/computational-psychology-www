@@ -1,5 +1,5 @@
 Computational Psychology
-*************************
+*******************************
 
 :save_as: index.html
 :url: index.html
@@ -34,12 +34,33 @@ at the Technische Universität Berlin
 		 :alt: Metzger E
 
 
-.. raw:: html
 
-    <br />
-    <br />
-    <br />
+|
+|
+|
 
+
+News
+------
+
+
+
+New group members: Joris Vincent, Lynn Schmittwilken, Bernhard Lang and Bianca del Mestre
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+On November Joris joined us in our group. Joris joined us as a Post-doc. He is from the University of Pennsylvania, Dept. of Neurology. His contact details can be found in `People <people.html>`_. 
+
+On October three new members joined us in our group. Lynn joined us as a Ph.D. student, and she is part of the 
+`Science of Intelligence <https://www.scienceofintelligence.de>`_'s Doctoral Programm. Bernhard is co-supervised as a Ph.D. student in our lab. And Bianca is our new secretary. Their contact details can be found in `People <people.html>`_. 
+
+
+
+ECVP19: we organized a Symposium and contributed with a talk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Marianne Maertens co-organized the Symposium `Maximum Likelihood Difference Scaling (MLDS): Applications and challenges <https://www.conftool.pro/ecvp2019/index.php?page=browseSessions&form_session=15>`_ for the European Conference on Visual Perception (ECVP) held last August in Leuven, Belgium.
+One of the five talks was given by Guillermo Aguilar with the title "Lightness scales measured with MLDS and MLCM in multiple contexts". The abstracts can be found `here <https://www.conftool.pro/ecvp2019/index.php?page=browseSessions&form_session=15>`_.
 
 
 

@@ -71,11 +71,11 @@
 .icon-fax::before { content: '\f1ac'; }
 
 a {
-  color: #d9411e;
+  color: #C50E1F;
   text-decoration: none;
 }
 a:hover {
-  color: #ff5a09;
+  color: #C50E1F;
 }
 
 body, html {
@@ -103,10 +103,16 @@ h3 { font-size: 1.6em; }
 h4 { font-size: 1.36em; }
 h5 { font-size: 1.2em; }
 h6 { font-size: 1.1em; }
+h7 { font-size: 0.9em; }
 
 p {
   margin: 2em 0;
 }
+
+p #right{
+  margin: 0em 0;
+}
+
 
 article h1 {
   margin-bottom: 0;
@@ -131,24 +137,39 @@ section, div.section {
   padding: 2em 6vw;
 }
 
-@media screen and (min-width: 768px) {
-  aside {
-    width: 25%;
+@media screen and (min-width: 760px) {
+  aside{
+    width: 15%;
     height: 100%;
     position: fixed; top: 0; left: 0;
     overflow-x: hidden;
-    overflow-y: auto;
+    overflow-y: hidden;
   }
+
   main {
-    width: 75%;
-    position: absolute; top: 0; left: 25%;
+    width: 62%;
+    position: absolute; top: 0; left: 15%;
     overflow-x: hidden;
     overflow-y: hidden;
   }
+  
+  #right{
+    width: 16%;
+    height: 100%;
+    padding-right: 0px;
+    padding-top: 0px;
+    position: fixed; top: 0; left: 80%;
+    text-align: left;
+    padding-left: 10px;
+    border-left: 4px solid #C50E1F;
+  }
+  
+  
 }
+
 @media screen and (min-width: 1000px) {
   article {
-    margin: 0 8vw;
+    margin: 0 5vw;
   }
   section, div.section {
     margin: 0 -8vw;
@@ -157,7 +178,7 @@ section, div.section {
 }
 @media screen and (min-width: 1800px) {
   article {
-    margin: 0 12vw;
+    margin: 0 5vw;
   }
   section, div.section {
     margin: 0 -12vw;
@@ -170,11 +191,12 @@ section, div.section {
  *  Modules
  */
 aside {
-  background-color: #333;
-  color: #fff;
+  background-color: #fff;
+  color: #333;
   margin: 0;
   padding: 20px 0;
-  text-align: center;
+  text-align: left;
+  margin: 2%;
 }
 aside img {
   display: none;
@@ -186,11 +208,11 @@ aside img {
   aside img { display: unset; }
 }
 aside a {
-  color: #fff;
+  color: #333;
   transition: text-shadow 0.2s linear;
 }
 aside a:hover {
-  color: #eee;
+  color: #C50E1F;
   text-shadow: 0 0 1.5em #fff, 0 0 2.5em #fff;
 }
 aside h1 {
@@ -214,15 +236,15 @@ aside nav li {
   line-height: 1.6em;
 }
 aside nav li:nth-of-type(-n+4) { /* hard-coded; CSS has no concept of "half" */
-  text-align: right;
+  text-align: left;
 }
 @media screen and (min-width: 768px) {
   aside {
-    padding: 36px 0;
+    padding: 0px 0;
   }
   aside nav ul {
     columns: auto; -moz-columns: auto; -webkit-columns: auto;
-    text-align: center;
+    text-align: left;
   }
   aside nav li:nth-of-type(-n+4) {
     text-align: inherit;
@@ -255,7 +277,7 @@ blockquote::before {
 }
 
 footer {
-  border-top: #eee 1px solid;
+  border-top: #F49F90 1px solid;
   line-height: 0.7em;
   padding: 1em 0;
 }
@@ -308,13 +330,13 @@ footer span.break {
 }
 
 section {
-  border-bottom: #eee 0px solid;
+  border-bottom: #C50E1F 0px solid;
   overflow: hidden;
 }
 
 
-section:nth-child(2n) { background-color: #f6f6f6; }
-section:first-of-type { border-top: #eee 3px solid; }
+section:nth-child(2n) { background-color: #C50E1F; }
+section:first-of-type { border-top: #C50E1F 3px solid; }
 h2 + section          { border-top: 0; } /* unless immediately preceded by a header */
 section:last-of-type  { border: 0; }
 
@@ -500,9 +522,7 @@ aside a.active {
     transition: opacity .2s ease-in-out;
     height: 540px;
   }
-  .members .mem:hover {
-    cursor: help;
-  }
+
   .members .mem:hover .info, .members .mem:active .info {
     opacity: 1;
     top: 23%;
@@ -580,7 +600,7 @@ div.rightside {
 }
 
 .highlight {
-    color:#d9411e;
+    color:#C50E1F;
 }
 
 table {
@@ -591,4 +611,12 @@ th, td {
   padding: 12px;
   text-align: left;
 }
+
+
+#rightside{
+margin: 20px;
+}
+
+
+
 

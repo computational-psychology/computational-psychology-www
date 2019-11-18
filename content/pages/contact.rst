@@ -5,11 +5,21 @@ Contact
 
 
 
+
+Secretary/Office
+------------------
+
+| Bianca del Mestre
+| Phone: +49 (0)30 314-75771
+| Email: bianca.delmestre@tu-berlin.de
+
+
 Mailing Address
-----------------
+------------------
 
 | Technische Universität Berlin
 | Institute of Software Engineering and Theoretical Computer Science
+| Dept. Computational Psychology
 | Sek. MAR 5-5
 | Marchstr. 23
 | 10587 Berlin

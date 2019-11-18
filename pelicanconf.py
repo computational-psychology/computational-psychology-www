@@ -7,7 +7,7 @@ from __future__ import unicode_literals
 #
 AUTHOR = u'Marianne Maertens & Guillermo Aguilar'
 SITENAME = u'Computational Psychology at TU Berlin'
-SITETITLE = u'Computational Psychology'
+SITETITLE = u'Computational<br/>Psychology'
 SITESUBTITLE = u'at TU Berlin'
 SITEURL = 'www.psyco.tu-berlin.de'
 
