@@ -1,6 +1,4 @@
 
-- Add side bar on the right with contact information (as in TU design)
-
 - check links to website, that it appears in google when searching for us, etc.
 
-- Add Joris's page
+- Joris -> add his page
