@@ -1,4 +1,4 @@
 
-- check links to website, that it appears in google when searching for us, etc.
+- add keywords: so that we appear higher up in the ranking when googled for computational psychology
 
 - Joris -> add his page
