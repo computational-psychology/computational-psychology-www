@@ -44,6 +44,18 @@ News
 ------
 
 
+On 12 December 2019, Professor William H. Warren (Brown University) will kick off the SCIoI Distinguished Lecture Series.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+William Warren earned his undergraduate degree at Hampshire College (1976), his Ph.D. in Experimental Psychology from the University of Connecticut (1982), did post-doctoral work at the University of Edinburgh, and has been a professor at Brown ever since.
+
+His research focuses on the visual control of action – in particular, human locomotion and navigation. 
+On the one hand, he wants to understand how motor behavior such as gait and other rhythmic movements are dynamically organized. On the other, he seeks to explain how such behavior is adaptively regulated by visual information in complex environments.
+Using virtual reality techniques, William H. Warren's research team investigates problems such as the visual control of steering, obstacle avoidance, pedestrian interactions, and collective crowd behavior.
+
+
+
 
 New group members: Joris Vincent, Lynn Schmittwilken, Bernhard Lang and Bianca del Mestre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
