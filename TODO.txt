@@ -1,4 +1,10 @@
 
+- fix disappearing borders of main content when browser window is small
+
+- scrolling of right side panel together with main content
+
 - add keywords: so that we appear higher up in the ranking when googled for computational psychology
+
+- names of people on top of pictures
 
 - Joris -> add his page
