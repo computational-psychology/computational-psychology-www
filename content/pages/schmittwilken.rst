@@ -21,7 +21,7 @@
    .. container:: rightside
 
       .. figure:: img/ls_500_2.png
-		 :width: 25%
+		 :width: 235px
 		 :align: right
 		 :alt: Lynn Schmittwilken
 

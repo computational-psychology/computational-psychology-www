@@ -23,7 +23,7 @@ Prof. Dr. Marianne Maertens
    .. container:: rightside
 
       .. figure:: img/mm_500.png
-		 :width: 25%
+		 :width: 235px
 		 :align: right
 		 :alt: Marianne Maertens
 

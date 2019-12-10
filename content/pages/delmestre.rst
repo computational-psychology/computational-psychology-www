@@ -23,7 +23,7 @@ Bianca del Mestre
    .. container:: rightside
 
       .. figure:: img/bm_500.png
-		 :width: 25%
+		 :width: 235px
 		 :align: right
 		 :alt: Bianca del Mestre
 

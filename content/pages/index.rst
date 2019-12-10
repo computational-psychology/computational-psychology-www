@@ -29,8 +29,8 @@ at the Technische Universität Berlin
    .. container:: rightside
 
       .. figure:: img/metzger_e.png
-		 :width: 15%
-		 :align: right
+		 :width: 170px
+		 :align: center
 		 :alt: Metzger E
 
 
@@ -38,7 +38,7 @@ at the Technische Universität Berlin
 |
 |
 |
-
+|
 
 News
 ------

@@ -23,7 +23,7 @@ Carolin Brunn
    .. container:: rightside
 
       .. figure:: img/cb_500.png
-		 :width: 25%
+		 :width: 235px
 		 :align: right
 		 :alt: Carolin Brunn
 

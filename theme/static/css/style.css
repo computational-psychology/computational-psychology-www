@@ -214,11 +214,22 @@ aside a {
 aside a:hover {
   color: #C50E1F;
   text-shadow: 0 0 1.5em #fff, 0 0 2.5em #fff;
+  
 }
 aside h1 {
   font-size: 1.6em;
   margin: 15px 0 5px 0;
+  text-align: center;
 }
+
+aside h5 {
+  text-align: center;
+}
+
+aside p {
+  text-align: center;
+}
+
 aside .subtitle {
   font-size: .92em;
   margin: 0 0 15px 0;
@@ -235,9 +246,13 @@ aside nav li {
   font-size: 1.28em;
   line-height: 1.6em;
 }
-aside nav li:nth-of-type(-n+4) { /* hard-coded; CSS has no concept of "half" */
-  text-align: left;
+aside nav li:nth-of-type(-n+3) { /* hard-coded; CSS has no concept of "half" */
+  text-align: right;
 }
+
+
+
+
 @media screen and (min-width: 768px) {
   aside {
     padding: 0px 0;
@@ -249,6 +264,15 @@ aside nav li:nth-of-type(-n+4) { /* hard-coded; CSS has no concept of "half" */
   aside nav li:nth-of-type(-n+4) {
     text-align: inherit;
   }
+  aside h1 {
+	text-align: left;
+  }
+  aside p {
+	text-align: left;
+  }
+  aside h5 {
+	text-align: left;
+	}
 }
 
 blockquote {
@@ -591,13 +615,13 @@ aside a.active {
 }
 
 div.leftside {
-    width: 700px;
+    width: 70%;
     padding: 0px 3px 0px 0px;
     float: left;
 }
 
 div.rightside {
-    margin-left: 50px;
+    margin-left: 70%;
 }
 
 .highlight {

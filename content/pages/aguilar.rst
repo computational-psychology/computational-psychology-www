@@ -23,7 +23,7 @@ Dr. Guillermo Aguilar
    .. container:: rightside
 
       .. figure:: img/ga_500.png
-		 :width: 25%
+		 :width: 235px
 		 :align: right
 		 :alt: Guillermo Aguilar
 
