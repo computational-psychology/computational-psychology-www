@@ -8,3 +8,10 @@
 - names of people on top of pictures
 
 - Joris -> add his page
+
+
+https://css-tricks.com/fluid-width-equal-height-columns/
+
+
+- add to website: software links and repositories
+  
