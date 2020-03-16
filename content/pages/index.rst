@@ -43,10 +43,20 @@ at the Technische Universität Berlin
 News
 ------
 
+New group member: Maximilian Pohlmann
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On 12 December 2019, Professor William H. Warren (Brown University) will kick off the SCIoI Distinguished Lecture Series.
+On March 2020 Maximilian Pohlmann joined us in our group. Maximilian is a Bachelor student and will support us as a research assistant (HiWi).
+
+
+New paper accepted
+~~~~~~~~~~~~~~~~~~~~~
+
+Marianne's and Guillermo's paper entitled "Towards reliable measurements of perceptual scales in multiple contexts" in the Journal of Vision has been accepted and will be published soon.
+
+
+On 12 December 2019, Professor William H. Warren (Brown University) kicked off the SCIoI Distinguished Lecture Series.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 William Warren earned his undergraduate degree at Hampshire College (1976), his Ph.D. in Experimental Psychology from the University of Connecticut (1982), did post-doctoral work at the University of Edinburgh, and has been a professor at Brown ever since.
 
