@@ -25,7 +25,7 @@ Lehre im Sommersemester 2020
             <th>Freitag</th>
         </tr>
         <tr>
-            <td>08:00- 10:00</td>
+            <td>8:00- 10:00</td>
             <td></td>
             <td></td>
             <td colspan="2"></td>
