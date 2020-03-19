@@ -1,0 +1,25 @@
+*******************************************************************
+Anleitung Zugriffsrechte zu Ethikkomission Website
+Für Frau Dannenberg
+
+1. Zu https://webafs.tu-berlin.de/  gehen und mit Ihren normalen tubIT Konto Username/Passwort anzumelden.
+
+2. Oben links im Menu "Werkzeuge" klicken, dann "AFS-Gruppen verwalten"
+
+3. Ein klein Fenster ist geöffnet. Der Eintrag "bdannenberg:svc-w3-0540" finden und ausblenden.
+Die Option "Benutzer hinzufügen" wählen.
+
+4. Die tubIT Benutzername einzutragen. 
+
+Marianne ist:  marianne.maertens
+Meine ist   :  guillermo.aguilar
+Rebecca ist :  rebecca_hesse_2015
+
+Wiederholen bis alle Benutzer hingefügt sind.
+
+5. Abmelden (oben rechts).
+
+******************************************************************* 
+
+
+  
