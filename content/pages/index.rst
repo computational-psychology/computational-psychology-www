@@ -49,10 +49,10 @@ New group member: Maximilian Pohlmann
 On March 2020 Maximilian Pohlmann joined us in our group. Maximilian is a Bachelor student and will support us as a research assistant (HiWi).
 
 
-New paper accepted
-~~~~~~~~~~~~~~~~~~~~~
+New manuscript accepted for publication in the Journal of Vision
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Marianne's and Guillermo's paper entitled "Towards reliable measurements of perceptual scales in multiple contexts" in the Journal of Vision has been accepted and will be published soon.
+Marianne's and Guillermo's paper entitled "Towards reliable measurements of perceptual scales in multiple contexts" has been accepted for publication in the Journal of Vision. You can find it following this `link <https://doi.org/10.1167/jov.20.4.19>`_.
 
 
 On 12 December 2019, Professor William H. Warren (Brown University) kicked off the SCIoI Distinguished Lecture Series.
