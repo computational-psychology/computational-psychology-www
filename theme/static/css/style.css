@@ -541,10 +541,12 @@ aside a.active {
   .members .mem {
     flex-basis: 48%;
     height: 540px;
+    width: 300px;
   }
   .members .mugshot {
     transition: opacity .2s ease-in-out;
     height: 540px;
+    width: 300px;
   }
 
   .members .mem:hover .info, .members .mem:active .info {
