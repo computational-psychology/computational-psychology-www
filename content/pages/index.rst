@@ -43,11 +43,6 @@ at the Technische Universität Berlin
 News
 ------
 
-Some new news
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-here some text about the news ..... 
-
 
 
 New publication in Journal of Vision
