@@ -45,7 +45,7 @@ Lehre im Sommersemester 2020
             <td>12:00- 14:00</td>
             <td></td>
             <td></td>
-            <td rowspan="3"><a class="reference external" href="https://isis.tu-berlin.de/enrol/index.php?id=18805">Bio-inspired Computer Vision (S) - MAR 5.013</a></td>
+            <td rowspan="2"><a class="reference external" href="https://isis.tu-berlin.de/enrol/index.php?id=18805">Bio-inspired Computer Vision (S) - MAR 5.013</a></td>
             <td></td>
             <td></td>
         </tr>
@@ -54,19 +54,21 @@ Lehre im Sommersemester 2020
             <td></td>
             <td>Forschungskolloquium (S) - MAR 5.013</td>
             <td></td>
-            <td><a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=18804">Visuelle Wahrnehmung beim Menschen und Bildqualit&auml;t (S) - MAR 5.060</a></td>
+            <td>Visuelle Wahrnehmung beim Menschen und Bildqualit&auml;t 
+            <br>
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=18804">ISIS</a>
+            <br>
+            &#8594; <a class="reference external" href="IQ_SoSe20.html">project page</a></td>
             <td></td>
         </tr>
         <tr>
-            <td rowspan="2">16:00- 18:00</td>
-            <td rowspan="2"></td>
-            <td rowspan="2"></td>
-            <td rowspan="2"></td>
-            <td rowspan="2"></td>
-            <td rowspan="2"></td>
-        </tr>
-        <tr>
-        <td><br></td>
+            <td rowspan="1">16:00- 18:00</td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
         </tr>
     </table>
 
