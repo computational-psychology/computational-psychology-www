@@ -26,7 +26,7 @@ Auswirkung der Helligkeit auf die wahrgenommene Bildqualität
 -------------------------------------------------------------
 
 Enis, Onur, Ardeshir & Niklas
-`Helligkeit <files/past_courses/IQ20_onur.pdf>`_
+`Präsentation <files/past_courses/IQ20_onur.pdf>`_
 
 .. figure:: img/IQ20_onur.png
    :figwidth: 600
@@ -39,8 +39,8 @@ Enis, Onur, Ardeshir & Niklas
 Erkennung von Filtern in Abhängigkeit vom Alter
 -------------------------------------------------------------
 
-Vero, Lukas, Jannk & Tim
-`Filter <files/past_courses/IQ20_tim.pdf>`_
+Vero, Lukas, Jannik & Tim
+`Präsentation <files/past_courses/IQ20_tim.pdf>`_
 
 .. figure:: img/IQ20_tim.png
    :figwidth: 600
@@ -48,13 +48,26 @@ Vero, Lukas, Jannk & Tim
    :alt: Stimuli - Gotham Filter.
 
 
-.. _illusions:
+.. _iq_words:
+
+
+Will the quality judgements be influenced by word recognition?
+---------------------------------------------------------------
+
+Maria, Max, Waldeman & Julia
+`Präsentation <files/past_courses/IQ20_max.pdf>`_
+
+.. figure:: img/IQ20_max.png
+   :figwidth: 600
+   :align: center
+   :alt: Stimuli - Distorted Illusions.
+
 
 The Effect of Distortions on the Perception of the Illusion
 ------------------------------------------------------------
 
 Wolf, Yong & Vasili
-`Illusion <files/past_courses/IQ20_wolf.pdf>`_
+`Präsentation <files/past_courses/IQ20_wolf.pdf>`_
 
 .. figure:: img/IQ20_wolf.png
    :figwidth: 600
