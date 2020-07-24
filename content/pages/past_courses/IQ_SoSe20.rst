@@ -9,14 +9,14 @@
 
 .. _student_projects:
 
-:highlight:`Student projects`
+:highlight:`Studentische Projekte`
 --------------------------------------------
 
-- Contrast as a cue for image segmentation in transparency conditions
+- Die Studierenden haben wissenschaftliche Fragen zur Messung von Bildqualität formuliert.
 
-- Perceived transparency and perceived contrast using real world stimuli (episcotisters)
+- In Teams von jeweils 4 Personen haben sie diese Fragen experimentell untersucht. 
 
-- Crispening in real world stimuli
+- Die Fragestellung, Durchführung, Ergebnisse sowie kritische Betrachtung der Untersuchung wurde den Mitstudierenden am Ende präsentiert:  
 
 
 
@@ -26,7 +26,7 @@ Auswirkung der Helligkeit auf die wahrgenommene Bildqualität
 -------------------------------------------------------------
 
 Enis, Onur, Ardeshir & Niklas
-`Hier ist der Link zur Abschlusspräsentation <files/past_courses/IQ20_onur.pdf>`_.
+`Helligkeit <files/past_courses/IQ20_onur.pdf>`_
 
 .. figure:: img/IQ20_onur.png
    :figwidth: 600
@@ -34,4 +34,29 @@ Enis, Onur, Ardeshir & Niklas
    :alt: Stimuli - RGB/BW.
 
 
+.. _filters:
 
+Erkennung von Filtern in Abhängigkeit vom Alter
+-------------------------------------------------------------
+
+Vero, Lukas, Jannk & Tim
+`Filter <files/past_courses/IQ20_tim.pdf>`_
+
+.. figure:: img/IQ20_tim.png
+   :figwidth: 600
+   :align: center
+   :alt: Stimuli - Gotham Filter.
+
+
+.. _illusions:
+
+The Effect of Distortions on the Perception of the Illusion
+------------------------------------------------------------
+
+Wolf, Yong & Vasili
+`Illusion <files/past_courses/IQ20_wolf.pdf>`_
+
+.. figure:: img/IQ20_wolf.png
+   :figwidth: 600
+   :align: center
+   :alt: Stimuli - Distorted Illusions.

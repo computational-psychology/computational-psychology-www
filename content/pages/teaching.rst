@@ -35,8 +35,8 @@ Lehre im Sommersemester 2020
         <tr>
             <td>10:00- 12:00</td>
             <td></td>
-            <td></td>
-            <td rowspan="2"><a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=18803">Programming Project: Data Science in Python and R (S) - MAR 5.060</a></td>
+            <td>Forschungskolloquium </td>
+            <td rowspan="2"><a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=18803">Programming Project: Data Science in Python and R</a></td>
             <td></td>
             <td></td>
             <td></td>
@@ -45,14 +45,14 @@ Lehre im Sommersemester 2020
             <td>12:00- 14:00</td>
             <td></td>
             <td></td>
-            <td rowspan="2"><a class="reference external" href="https://isis.tu-berlin.de/enrol/index.php?id=18805">Bio-inspired Computer Vision (S) - MAR 5.013</a></td>
+            <td rowspan="2"><a class="reference external" href="https://isis.tu-berlin.de/enrol/index.php?id=18805">Bio-inspired Computer Vision </a></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>14:00- 16:00</td>
             <td></td>
-            <td>Forschungskolloquium (S) - MAR 5.013</td>
+            <td></td>
             <td></td>
             <td>Visuelle Wahrnehmung beim Menschen und Bildqualit&auml;t 
             <br>
