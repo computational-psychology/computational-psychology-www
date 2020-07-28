@@ -63,7 +63,7 @@ Maria, Max, Waldeman & Julia
    :alt: Stimuli - Words.
 
 
-.. _illusion:
+.. _illusions:
    
 The Effect of Distortions on the Perception of the Illusion
 ------------------------------------------------------------
@@ -75,3 +75,17 @@ Wolf, Yong & Vasili
    :figwidth: 600
    :align: center
    :alt: Stimuli - Distorted Illusions.
+
+
+.. _salience:
+   
+The Effect of Salience on perceived image quality
+-------------------------------------------------
+
+Ilda, Imam, Oubada & Georg
+`Salience <files/past_courses/IQ20_ilda.pdf>`_
+
+.. figure:: img/IQ20_ilda.png
+   :figwidth: 600
+   :align: center
+   :alt: Stimuli - Distortion to salient regions.
