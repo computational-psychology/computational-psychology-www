@@ -36,7 +36,10 @@ Lehre im Sommersemester 2020
             <td>10:00- 12:00</td>
             <td></td>
             <td>Forschungskolloquium </td>
-            <td rowspan="2"><a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=18803">Programming Project: Data Science in Python and R</a></td>
+            <td rowspan="2">Programming Project: Data Science in Python and R
+            <br>
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=18803">ISIS</a>
+            </td>
             <td></td>
             <td></td>
             <td></td>
