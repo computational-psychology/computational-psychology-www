@@ -20,7 +20,7 @@ Maximilian Pohlmann
 
    .. container:: rightside
 
-      .. figure:: img/mp_500.jpg
+      .. figure:: img/mp_500.png
 		 :width: 235px
 		 :align: right
 		 :alt: Maximilian Pohlmann
