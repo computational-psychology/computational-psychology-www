@@ -7,9 +7,7 @@ Teaching
 .. to make tables easier, use https://truben.no/table/
 
 
-Nehmen Sie am Mentoring-Programm der Fakultät IV teil. Ob als Mentee oder Mentor*in!
-
-
+Nehmen Sie am `Mentoring-Programm <https://mentoring.eecs.tu-berlin.de/de/>`_  der Fakultät IV teil. Ob als Mentee oder Mentor*in! 
 `https://mentoring.eecs.tu-berlin.de/de/ <https://mentoring.eecs.tu-berlin.de/de/>`_ 
 
 
