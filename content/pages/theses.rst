@@ -34,8 +34,8 @@ Anforderungen
 
 
 
-.. figure:: img/Robinson_Hammon_VR07_Fig1.png
-   :figwidth: 650
+.. figure:: img/stim_robinson07.png
+   :figwidth: 477
    :alt: Helligskeit Täuschungen
 
    Helligskeit Täuschungen im Robinson, Hammond and De Sa (2007).
