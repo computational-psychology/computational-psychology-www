@@ -43,6 +43,10 @@ at the Technische Universität Berlin
 News
 ------
 
+Codary Project
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We congratulate Amanda, Antonia & Nikolaj that their project `Codary <https://www.entrepreneurship.tu-berlin.de/menue/start_ups_events/gruendungsteams/steckbriefe/steckbrief_codary/>`_ is supported by one of the coveted Berlin Startup Scholarships since October 2020. 
 
 
 New publication in Journal of Vision
