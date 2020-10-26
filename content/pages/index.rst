@@ -46,7 +46,7 @@ News
 Codary Project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We congratulate Amanda, Antonia & Nikolaj that their project `Codary <https://www.entrepreneurship.tu-berlin.de/menue/start_ups_events/gruendungsteams/steckbriefe/steckbrief_codary/>`_ is supported by one of the coveted Berlin Startup Scholarships since October 2020. You can find the website here `www.codary.org <https://codary.org/>`_ and here you can find the `press page <https://codary.org/presse/>`_.
+We congratulate Amanda, Antonia & Nikolaj that their project `Codary <https://codary.org/>`_ is supported by one of the coveted Berlin Startup Scholarships since October 2020. Codary is based at the `Centre for Entrepreneurship <https://www.entrepreneurship.tu-berlin.de/menue/start_ups_events/gruendungsteams/steckbriefe/steckbrief_codary/>`_ at the Technische Universität Berlin.
 
 
 New publication in Journal of Vision
