@@ -32,6 +32,8 @@ Anforderungen
 - gute Englischkenntnisse um die relevanten Arbeiten zu lesen
 
 
+Bei Interesse bitte `Prof. Maertens <https://www.psyco.tu-berlin.de/maertens.html>`_ kontaktieren.
+
 
 
 .. figure:: img/stim_robinson07.png
