@@ -45,6 +45,7 @@ MENUITEMS = (('Home', 'index.html'),
              ('Research', 'research.html'),
              ('Publications', 'publications.html'),
              ('Teaching', 'teaching.html'),
+             ('Theses', 'theses.html'),
              ('Contact', 'contact.html')
 )
 

@@ -7,6 +7,93 @@ Teaching
 .. to make tables easier, use https://truben.no/table/
 
 
+.. container:: twocol
+
+   .. container:: leftside
+   
+
+      Nehmen Sie am `Mentoring-Programm <https://mentoring.eecs.tu-berlin.de/de/>`_  der Fakultät IV teil. Ob als Mentee oder Mentor*in! 
+      
+   .. container:: rightside
+
+      .. figure:: img/Logo_Mentoring_60.png
+         :figwidth: 100
+         :align: right
+         :alt: Stimuli - RGB/BW.
+
+
+
+
+
+
+Lehre im Wintersemester 2020/2021
+---------------------------------
+
+
+
+.. raw:: html 
+
+    <table border="1">
+        <tr>
+            <th></th>
+            <th>Montag</th>
+            <th>Dienstag</th>
+            <th>Mittwoch</th>
+            <th>Donnerstag</th>
+            <th>Freitag</th>
+        </tr>
+        <tr>
+            <td>8:00- 10:00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:00- 12:00</td>
+            <td></td>
+            <td>Informatisches Propädeutikum (Vorlesung)
+            <br>
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=21152">ISIS</a>
+            </td>
+            <td>Visuelle Wahrnehmung beim Menschen und Bildqualit&auml;t (Seminar) 
+            <br> 
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=21479">ISIS</a>
+            </td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12:00- 14:00</td>
+            <td></td>
+            <td>Forschungskolloquium</td>
+            <td></td>
+            <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)
+            <br>
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=21478">ISIS</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:00- 16:00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="1">16:00- 18:00</td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+        </tr>
+    </table>
+
+
+
 
 Lehre im Sommersemester 2020
 ---------------------------------
@@ -36,7 +123,10 @@ Lehre im Sommersemester 2020
             <td>10:00- 12:00</td>
             <td></td>
             <td>Forschungskolloquium </td>
-            <td rowspan="2"><a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=18803">Programming Project: Data Science in Python and R</a></td>
+            <td rowspan="2">Programming Project: Data Science in Python and R
+            <br>
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=18803">ISIS</a>
+            </td>
             <td></td>
             <td></td>
             <td></td>
