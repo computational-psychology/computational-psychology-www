@@ -46,13 +46,25 @@ News
 Codary Project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: img/codary.png
+     :width: 200px
+     :alt: Codary Logo
+     :target: https://codary.org/
+
 We congratulate Amanda, Antonia & Nikolaj that their project `Codary <https://codary.org/>`_ is supported by one of the coveted Berlin Startup Scholarships since October 2020. Codary is based at the `Centre for Entrepreneurship <https://www.entrepreneurship.tu-berlin.de/menue/start_ups_events/gruendungsteams/steckbriefe/steckbrief_codary/>`_ at the Technische Universität Berlin.
 
+
+    
 
 New publication in Journal of Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Marianne's and Guillermo's paper entitled "Towards reliable measurements of perceptual scales in multiple contexts" has published in the Journal of Vision. You can find it following this `link <https://doi.org/10.1167/jov.20.4.19>`_.
+.. figure:: img/ga_mm_2020_icon.gif
+     :width: 96px
+     :target: https://doi.org/10.1167/jov.20.4.19
+     
+Marianne's and Guillermo's paper entitled "Towards reliable measurements of perceptual scales in multiple contexts" has published in the April's 2020 issue of Journal of Vision. You can find it following this `link <https://doi.org/10.1167/jov.20.4.19>`_.
+
 
 
 New group member: Maximilian Pohlmann
