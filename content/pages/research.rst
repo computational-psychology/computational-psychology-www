@@ -20,7 +20,12 @@ Research
 
 
 
+
 .. _lightness:
+
+
+----
+
 
 Experimental characterization of lightness constancy
 -----------------------------------------------------
@@ -28,7 +33,12 @@ Experimental characterization of lightness constancy
 The perceptual domain in which we currently study the above question is lightness. Human observers  perceive the lightness of surfaces relatively stable despite tremendous fluctuation in the sensory signal due to changes in viewing conditions. The luminance that is reflected to the eye from one and the same surface might vary substantially depending on whether the surface is seen under direct illumination or might be obscured by a shadow.
 
 
+
 .. _methods:
+
+
+----
+
 
 Evaluation of experimental techniques to measure appearance
 ------------------------------------------------------------
@@ -48,6 +58,10 @@ As an alternative we have explored the use of scaling methods for the measuremen
 
 .. _early_vision_model:
 
+
+----
+
+
 An early vision model of lightness perception
 -----------------------------------------------
 
@@ -64,6 +78,9 @@ Our goal is to develop a mechanistic account of the computational principles and
 
 .. _inc_dec:
 
+----
+
+
 Increments and decrements in naturalistic stimuli
 --------------------------------------------------
 
@@ -71,6 +88,10 @@ In this project we study the question under which conditions increments and decr
 
 
 .. _depth_3d:
+
+----
+
+
 
 Depth perception in 3d scenes
 -------------------------------
@@ -81,6 +102,10 @@ means that for each 3d object a corresponding image of the object can be rendere
 
 
 .. _manual_dexterity:
+
+
+----
+
 
 Manual dexterity in humans and robots
 ---------------------------------------

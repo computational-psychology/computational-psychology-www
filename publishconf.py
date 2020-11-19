@@ -22,7 +22,8 @@ DELETE_OUTPUT_DIRECTORY = True
 STATIC_PATHS = ['img', 'files', 'extra']
 #STATIC_PATHS = ['img', 'extra/CNAME', 'files']
 EXTRA_PATH_METADATA = {'extra/favicon.ico': {'path': 'favicon.ico'},
-					   'extra/favicon-16x16.png': {'path': 'favicon-16x16.png'}
+					   'extra/favicon-16x16.png': {'path': 'favicon-16x16.png'},
+					   'extra/favicon-32x32.png': {'path': 'favicon-32x32.png'}
 						}
 
 # Following items are often useful when publishing
