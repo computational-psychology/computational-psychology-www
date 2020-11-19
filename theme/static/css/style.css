@@ -246,7 +246,7 @@ aside nav li {
   font-size: 1.28em;
   line-height: 1.6em;
 }
-aside nav li:nth-of-type(-n+3) { /* hard-coded; CSS has no concept of "half" */
+aside nav li:nth-of-type(-n+4) { /* hard-coded; CSS has no concept of "half" */
   text-align: right;
 }
 
@@ -623,7 +623,7 @@ div.leftside {
 }
 
 div.rightside {
-    margin-left: 70%;
+    margin-left: 75%;
 }
 
 .highlight {
@@ -644,10 +644,10 @@ th {
   text-align: center;
 }
 
-#rightside{
+/*#rightside{
 margin: 20px;
 }
-
+*/
 
 
 
