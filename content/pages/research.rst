@@ -12,12 +12,13 @@ Research
 :highlight:`Research projects for students`
 --------------------------------------------
 
+- Comparison of various lightness illusions and analysing to what extent these different phenomena are based on the same or different perceptual mechanisms. See our `Theses page <https://www.psyco.tu-berlin.de/theses.html>`_ for more details.
+
 - Contrast as a cue for image segmentation in transparency conditions
 
 - Perceived transparency and perceived contrast using real world stimuli (episcotisters)
 
 - Crispening in real world stimuli
-
 
 
 
