@@ -57,7 +57,7 @@ Yiqun Xiao sucessfully defended Master thesis
 
 On 2nd December 2020 Yiqun Xiao sucessfully defended her Master thesis titled "Perceived Contrast in Variegated Checkerboards". 
 In her work Yiqun studied perceived contrast in variegated checkerboards (left panel) and compared surround induction effects against classical findings such as the contrast-contrast phenomenon (right panel). 
-You can find the Abstract on our `Theses page <https://www.psyco.tu-berlin.de/theses.html>`_ and the `full PDF here <files/theses/MasterThesis_YiqunXiao_2020.pdf>`_.
+You can find the Abstract on our `Theses page <https://www.psyco.tu-berlin.de/theses.html#yiqun-xiao-perceived-contrast-in-variegated-checkerboards>`_ and the `full PDF here <files/theses/MasterThesis_YiqunXiao_2020.pdf>`_.
 We congratulate Yiqun for defending her work and wish her all the best.
 
 

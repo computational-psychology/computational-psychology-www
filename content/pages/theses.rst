@@ -41,11 +41,15 @@ Bei Interesse bitte `Prof. Maertens <https://www.psyco.tu-berlin.de/maertens.htm
 
 
 
+
+----
  
 
 Finished Theses
 ##################
 
+
+.. _yiqun_thesis:
 
 Yiqun Xiao - Perceived Contrast in Variegated Checkerboards
 --------------------------------------------------------------
