@@ -107,6 +107,8 @@ h7 { font-size: 0.9em; }
 
 p {
   margin: 2em 0;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 p #right{
@@ -620,6 +622,8 @@ div.leftside {
     width: 70%;
     padding: 0px 3px 0px 0px;
     float: left;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 div.rightside {
@@ -643,6 +647,13 @@ th {
   padding: 12px;
   text-align: center;
 }
+
+
+
+#news{
+  width: 70%
+}
+
 
 /*#rightside{
 margin: 20px;

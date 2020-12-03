@@ -39,6 +39,7 @@ at the Technische Universität Berlin
 |
 |
 |
+|
 
 ----
 
@@ -52,7 +53,7 @@ Yiqun Xiao sucessfully defended Master thesis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: img/yiqun_fig_alt.png
-   :figwidth: 550
+   :figwidth: 100%
    :alt: Perceived contrast in Chubb et al. (1989) compared to variegated checkerboards.
 
 
@@ -106,7 +107,7 @@ On 12 December 2019, Professor William H. Warren (Brown University) kicked off t
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: img/scioi_logo.png
-     :width: 200px
+     :width: 40%
      :alt: SciOI logo
      :target: https://www.scienceofintelligence.de/
 
@@ -138,7 +139,7 @@ ECVP19: we organized a Symposium and contributed with a talk
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: img/ecvp2019.gif
-     :width: 200px
+     :width: 40%
      :alt: ECVP 2019 animated logo
      :target: https://kuleuvencongres.be/ecvp2019
      
