@@ -49,6 +49,24 @@ News
 ------
 
 
+On 26 November 2020, Professor Michele Rucci (University of Rochester) gave a talk at the SCIoI Distinguished Lecture Series.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: img/scioi_logo.png
+     :width: 40%
+     :alt: SciOI logo
+     :target: https://www.scienceofintelligence.de/
+
+
+Michele Rucci earned his undergraduate degree in biomedical engineering at the University of Florence, his PhD in robotic vision in Sant’Anna School of Advanced Studies in Pisa, and worked as a postdoc in Computational Neuroscience in San Diego. In 2000, Michele started working at Boston University, where he became the Professor of Psychological and Brain Sciences in 2013. Since 2017, he is working as the Professor of Brain and Cognitive Sciences at the University of Rochester.
+
+Michele Rucci investigates the computational and biological mechanisms underlying visual perception following an ecological approach that studies vision in conjunction with motor behavior – in particular eye movements and characteristics of natural environments. In his Active Perception Laboratory, his work has led to multiple findings on the roles of eye movements in the encoding of visual information and the establishment of spatial representations, leading to the development of new tools for experimental studies and robots directly controlled by models of neural pathways. In his talk, he argued that, as with other senses, vision relies heavily on sensorimotor strategies to extract and represent spatial information in the temporal domain.
+
+
+----
+
+
+
 Yiqun Xiao sucessfully defended Master thesis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
