@@ -77,11 +77,7 @@ Wolf, Yong & Vasili
    :alt: Stimuli - Distorted Illusions.
 
 
-<<<<<<< HEAD
-.. _saliency:
-=======
 .. _salience2:
->>>>>>> 443ce7a7060e8399c1b0ae109290de6a65778e7e
    
 The Effect of Salience on perceived image quality
 -------------------------------------------------
