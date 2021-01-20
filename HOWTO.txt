@@ -96,7 +96,7 @@ To publish your changes:
 -------------------------
 5. Run the script 
 
-./publish_ssh.sh username
+./publish.sh username
 
 Replace 'username' with your TU login username. The script will copy 
 the new files to the server. 
