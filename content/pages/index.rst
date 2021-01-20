@@ -57,10 +57,9 @@ On 26 November 2020, Professor Michele Rucci (University of Rochester) gave a ta
      :alt: SciOI logo
      :target: https://www.scienceofintelligence.de/
 
+Establishing a representation of space is a major goal of sensory systems. Spatial information, however, is not always explicit in the incoming sensory signals. In most modalities it needs to be actively extracted from cues embedded in the temporal flow of receptor activation. Vision, on the other hand, starts with a sophisticated optical imaging system that explicitly preserves spatial information on the retina. This may lead to the assumption that vision is predominantly a passive spatial process: all that is needed is to transmit the retinal image to the cortex, like uploading a digital photograph, to establish a spatial map of the world. However, this deceptively simple analogy is inconsistent with theoretical models and experiments that study visual processing in the context of normal motor behavior. In his talk, Michele argued that, as with other senses, vision relies heavily on sensorimotor strategies to extract and represent spatial information in the temporal domain.
 
-Michele Rucci earned his undergraduate degree in biomedical engineering at the University of Florence, his PhD in robotic vision in Sant’Anna School of Advanced Studies in Pisa, and worked as a postdoc in Computational Neuroscience in San Diego. In 2000, Michele started working at Boston University, where he became the Professor of Psychological and Brain Sciences in 2013. Since 2017, he is working as the Professor of Brain and Cognitive Sciences at the University of Rochester.
-
-Michele Rucci investigates the computational and biological mechanisms underlying visual perception following an ecological approach that studies vision in conjunction with motor behavior – in particular eye movements and characteristics of natural environments. In his Active Perception Laboratory, his work has led to multiple findings on the roles of eye movements in the encoding of visual information and the establishment of spatial representations, leading to the development of new tools for experimental studies and robots directly controlled by models of neural pathways. In his talk, he argued that, as with other senses, vision relies heavily on sensorimotor strategies to extract and represent spatial information in the temporal domain.
+You can find an overview on his scientific work `here <https://scholar.google.de/citations?user=0D9paZMAAAAJ&hl=de&oi=ao/>`__
 
 
 ----
