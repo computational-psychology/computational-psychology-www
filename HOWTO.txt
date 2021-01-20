@@ -1,34 +1,54 @@
-HOWTO
-------
-------
+HOWTO (updated 20th January 2020)
+---------------------------------
+---------------------------------
 
 Requirements 
 -------------
-- pelican 
-- having AFS configured in your machine (requirement: tubIT account)
+- ZECM account (tubIT)
+- pelican (a python package)
+- an SSH client
 
 
-
+------------
 Installation
 ------------
 
-https://www.campusmanagement.tu-berlin.de/menue/dienste/daten_server/andrew_file_system/zugriff_auf_afs-daten_per_openafs-client/
+0. Install and check that your SSH connection works
 
-In linux it is encessary to have the kernel headers installed. You can install them by executing
-'sudo apt-get install linux-headers-$(uname -r)'
+SSH allows you to connect via command line to a remote linux machine. 
+We need it here because we need to copy the website's content
+via SSH to the server. 
 
-0. Follow Installation instructions from tubIT for AFS
-    After configuring, you should have access to the folder
-    /afs/tu-berlin.de/units/Fak_IV/psyco/www/www.psyco/htdocs
+a) install the client if you dont have it yey
+
+in Debian, you run  'sudo apt install ssh' 
+
+b) test that you can access the TU server. Run the following command
+
+'ssh username@sshgate.tu-berlin.de'
+
+replace username with your TU login username. It will ask for your TU 
+password. You'll a welcome message.
+
+c) once logged in, check that you have access to the following folder by 
+changing directory to it and listing its content
+
+'cd /afs/tu-berlin.de/units/Fak_IV/psyco/www/www.psyco/htdocs'
+'ls -l'
+
+should show the list of files in our website.
+
+
     
 1. Install Pelican apt-get or using pip.
-	'sudo apt-get install pelican'
-	
-	alternatively, 'pip install pelican' 
-		
+   'sudo apt-get install pelican'
+
+   alternatively, 'pip install pelican' 
+
+
 2. Clone the repository to a local folder
 
-	'git clone --recursive  git@github.com:computational-psychology/computational-psychology-www.git'
+   'git clone --recursive  git@github.com:computational-psychology/computational-psychology-www.git'
     
 
     if you haven't used github before, you need to:
@@ -36,46 +56,54 @@ In linux it is encessary to have the kernel headers installed. You can install t
         - add your public key (id_rsa.pub located in your .ssh folder) to your github account
 
 
+
+---------
 Workflow
-----------
+---------
+
 
 To edit locally:
 ----------------
-1. Go to the repository root folder and pull the latest version from github with 'git pull'
+1. Go to the repository root folder and pull the latest version from 
+   github with 'git pull'
 
 2. Edit what you need to edit.
-	Pages are located in content/pages, images in content/imgs
-	
-3. After editing, go to root of your local repository and run 'make html' to test that the website compiles locally. No errors should occur.
-   You can see the local version of the page inside folder output/. Open index.html with a browser.
+   Pages are located in content/pages, images in content/imgs
+
+
+3. After editing, go to root of your local repository and run 
+
+'make html'
+
+to test that the website renders locally. No errors should occur.
+
+You can see the local version of the page inside folder  output/
+
+You can open the file output/index.html with a browser to have a quick
+look at the page and your changes. It can be that the font formatting 
+is not right, don't worry. Once in the server it will look OK.
 
    
 To save changes:
 ------------------
-4. Save your changes with 'git add' and 'git commit'.  Push your changes to github with 'git push'
+4. Save your changes with 'git add' and 'git commit'.  
+
+Push your changes to github with 'git push'
 
 
 
 To publish your changes:
 -------------------------
-5. First you need to make sure that you have AFS running and be logged in:
-	
-	- by  default AFS shoud be running as a service. you can check that with 'sudo service openafs-client  status'
-	
-	- after every restart / session you need to log in into AFS. for that, as a normal user you run these TWO commands, replacing
-	   'tubIT.user' with user name, enter TUBIT password 
-	
-		1. kinit 'tubIT.user'
-		
-		2. aklog
+5. Run the script 
 
-if things do not work - check whether you have access to afs folder
+./publish_ssh.sh username
 
-'cd /afs/tu-berlin.de/units/Fak_IV/psyco/www/www.psyco/htdocs'
+Replace 'username' with your TU login username. The script will copy 
+the new files to the server. 
 
+Your changes should be visible on the website now. Remember to
 
-6. Finally, publish you changes by copying edited files to our AFS directory
-    - go to root of local repository and run ./publish.sh (shell script)
+- Reload the page in your browser.
 
 
 
