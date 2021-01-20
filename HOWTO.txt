@@ -1,4 +1,4 @@
-HOWTO (updated 20th January 2020)
+HOWTO (updated 20th January 2021)
 ---------------------------------
 ---------------------------------
 
