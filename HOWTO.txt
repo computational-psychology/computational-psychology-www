@@ -21,7 +21,7 @@ via SSH to the server.
 
 a) install the client if you dont have it yey
 
-in Debian, you run  'sudo apt install ssh' 
+in Debian and Ubuntu, you run  'sudo apt install ssh' 
 
 b) test that you can access the TU server. Run the following command
 
@@ -37,6 +37,9 @@ changing directory to it and listing its content
 'ls -l'
 
 should show the list of files in our website.
+
+Before you continue with this howto, exit the connection to the TU server with the command
+'exit'
 
 
     
