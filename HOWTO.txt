@@ -19,7 +19,7 @@ SSH allows you to connect via command line to a remote linux machine.
 We need it here because we need to copy the website's content
 via SSH to the server. 
 
-a) install the client if you dont have it yey
+a) install the client if you don't have it yet
 
 in Debian and Ubuntu, you run  'sudo apt install ssh' 
 
@@ -28,7 +28,7 @@ b) test that you can access the TU server. Run the following command
 'ssh username@sshgate.tu-berlin.de'
 
 replace username with your TU login username. It will ask for your TU 
-password. You'll a welcome message.
+password. You'll see a welcome message.
 
 c) once logged in, check that you have access to the following folder by 
 changing directory to it and listing its content
@@ -38,7 +38,9 @@ changing directory to it and listing its content
 
 should show the list of files in our website.
 
-Before you continue with this howto, exit the connection to the TU server with the command
+Before you continue with this howto, exit the connection to the TU
+server with the command
+
 'exit'
 
 
