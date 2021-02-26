@@ -60,7 +60,8 @@ Lehre im Wintersemester 2020/2021
             <td>Visuelle Wahrnehmung beim Menschen und Bildqualit&auml;t (Seminar) 
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=21479">ISIS</a>
-            </td>
+            <br>
+            &#8594; <a class="reference external" href="IQ_WiSe21.html">project page</a></td>
             <td></td>
             <td></td>
         </tr>
