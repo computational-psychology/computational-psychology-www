@@ -36,7 +36,7 @@ Gabriel, Samy, Muhammed & Aleks
 
 .. _filesize:
 
-Wahrgenommen Bildqualität in Abhängigkeit der Dateigrösse
+Wahrgenommene Bildqualität in Abhängigkeit der Dateigrösse
 -------------------------------------------------------------
 
 Johann, Marcus & Tobias 
