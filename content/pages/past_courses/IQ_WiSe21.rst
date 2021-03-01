@@ -47,3 +47,15 @@ Johann, Marcus & Tobias
    :align: center
    :alt: Stimuli - CID IQ.
 
+
+.. _chromatic:
+
+Auswirkungen der Chromatie eines Bildes auf die wahrgenommene Bildqualität
+----------------------------------------------------------------------------
+Sude, Yevheniia, Léon, Max
+`Chromatie <files/past_courses/IQ20_polychrom.pdf>`_
+
+.. figure:: img/IQ20_chroma.png
+   :figwidth: 600
+   :align: center
+   :alt: Stimuli - Chromatie.
