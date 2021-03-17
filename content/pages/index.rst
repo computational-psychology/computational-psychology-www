@@ -49,6 +49,20 @@ News
 ------
 
 
+On 18 March 2021, Scholar Minds will talk about "Becoming aware through mindfulness" during the Brain Awareness Week 2021.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+On Thursday, 18th of March, at 5pm Scholar Minds invites you to an online event about mindfulness and mental helath during the doctorate. Scholar Minds is a PhD initiative based in Berlin with the mission to help other PhD students to achieve a better mental health and work-life balance.
+Pursuing a doctorate is an exceptional time with great opportunities like investigating a phenomenon no one ever did before or discussing your research with new people from all over the world. But are you aware that this exceptional time also harbors exceptional dangers to your mental health? Are you aware that you as a PhD student are six times more likely to suffer from anxiety and depression? During the event, we will talk about mental health struggles related to the doctorate and introduce you to a tool to become more resilient: mindfulness. Mindfulness is a simple meditation tool that can help you to increase your mental well-being.
+
+During the event, the mindfulness expert Dr. Simon Guendelman will present the concept of mindfulness and latest findings from (neuroscientific) research. On top, he will take us onto a little journey to become more aware about ourselves through mindfulness.
+
+Register here: https://forms.gle/YpwcfRBkGGxy6Yhu5
+
+
+----
+
+
 On 26 November 2020, Professor Michele Rucci (University of Rochester) gave a talk at the SCIoI Distinguished Lecture Series.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
