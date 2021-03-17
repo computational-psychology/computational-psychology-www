@@ -28,6 +28,19 @@ Research
 ----
 
 
+Easy evaluation and comparison of brightness perception models
+---------------------------------------------------------------
+
+There exist various models of human brightness perception that can account for human brightness perception on specific sets of input stimuli (e.g. specific brightness illusions). However, there is no structured overview of how each of these models performs on a larger test battery that contains input stimuli and tasks that the model was not specifically designed for. This makes both the qualitative as well as the quantitative comparison of existing brightness perception models difficult. Our goal is to develop an open-source framework which enables easy evaluation and comparison of different brightness perception models on different input stimuli. For this, we will develop a user-friendly pipeline where users can select multiple brightness perception models and input stimuli and receive an easily interpretable output about the model performance.
+
+
+
+.. _evaluating_brightness_models:
+
+
+----
+
+
 Experimental characterization of lightness constancy
 -----------------------------------------------------
 
