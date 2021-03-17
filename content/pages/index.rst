@@ -65,7 +65,7 @@ Register here: https://forms.gle/YpwcfRBkGGxy6Yhu5
 New group member: Matko Matic
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On March 2021, `Matko Matic <https://www.psyco.tu-berlin.de/matic.html>`_. joined us in our group. Matko is a Master student in Information Systems and Signal Processing at KU Leuven. Currently, he is doing an Erasmus at the TU Berlin. He will support us as a research assistant (HiWi).
+On March 2021, `Matko Matic <https://www.psyco.tu-berlin.de/matic.html>`_ joined us in our group. Matko is a Master student in Information Systems and Signal Processing at KU Leuven. Currently, he is doing an Erasmus at the TU Berlin. He will support us as a research assistant (HiWi).
 
 
 ----
