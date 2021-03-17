@@ -20,7 +20,7 @@ Matko Matic
 
    .. container:: rightside
 
-      .. figure:: img/mp_500.png
+      .. figure:: img/matic.png
 		 :width: 235px
 		 :align: right
 		 :alt: Matko Matic
