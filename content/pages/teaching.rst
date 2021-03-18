@@ -67,7 +67,6 @@ Lehre im Sommersemester 2021
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
         </tr>
         <tr>
             <td rowspan="1">16:00- 18:00</td>
