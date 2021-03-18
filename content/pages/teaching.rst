@@ -75,7 +75,6 @@ Lehre im Sommersemester 2021
             <td rowspan="1"></td>
             <td rowspan="1"></td>
             <td rowspan="1"></td>
-            <td rowspan="1"></td>
         </tr>
     </table>
 
