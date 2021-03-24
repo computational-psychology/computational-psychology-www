@@ -49,7 +49,9 @@ Lehre im Sommersemester 2021
         <tr>
             <td>10:00- 12:00</td>
             <td></td>
-            <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar)</td>
+            <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar)
+             <br> 
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=23498">ISIS</a></td>
             <td></td>
             <td></td>
 	    <td></td>
@@ -58,8 +60,12 @@ Lehre im Sommersemester 2021
             <td>12:00- 14:00</td>
             <td></td>
             <td></td>
-            <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)</td>
-            <td rowspan="2">Bio-inspired Computer Vision</td>
+            <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)
+            <br> 
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=23502">ISIS</a></td>
+            <td rowspan="2">Bio-inspired Computer Vision
+            <br> 
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=23499">ISIS</a></td>
             <td></td> 
         </tr>
         <tr>
