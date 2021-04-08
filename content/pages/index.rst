@@ -48,6 +48,16 @@ at the Technische Universität Berlin
 News
 ------
 
+
+Lynn Schmittwilken has been awarded a 2021 FoVea Travel and Networking Award! 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are happy to share the good news with you, that Lynn has been awarded a 2021 `FoVea Travel and Networking Award <https://www.visionsciences.org/2017-fovea-award/>`_ ! 
+
+
+----
+
+
 On 18 March 2021, Scholar Minds will talk about "Becoming aware through mindfulness" during the Brain Awareness Week 2021.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
