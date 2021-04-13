@@ -79,7 +79,7 @@ Amira, Wenwen, Mathias, Robert
 Einfluß von Helligkeit, Kontrast & Sättigung auf die Bildästhetik von Sonnenuntergängen
 ---------------------------------------------------------------------------------------------------
 Bohzidar, Christian, Iliya, Matti 
-`Sunset <files/past_courses/IQ20_sonnenuntergang.pdf>`_
+`Sonnenuntergang <files/past_courses/IQ20_sonnenuntergang.pdf>`_
 
 .. figure:: img/IQ20_sunsets.png
    :figwidth: 600
