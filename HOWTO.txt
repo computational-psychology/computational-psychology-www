@@ -43,7 +43,6 @@ server with the command
 
 'exit'
 
-
     
 1. Install Pelican apt-get or using pip.
    'sudo apt-get install pelican'

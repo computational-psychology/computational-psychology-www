@@ -59,3 +59,30 @@ Sude, Yevheniia, Léon, Max
    :figwidth: 600
    :align: center
    :alt: Stimuli - Chromatie.
+
+   
+.. _sharp:
+
+Einfluss der Bildschärfe auf die Natürlichkeit des Bildes
+------------------------------------------------------------
+Amira, Wenwen, Mathias, Robert
+`Schärfe <files/past_courses/IQ20_unsharp.pdf>`_
+
+.. figure:: img/IQ20_sharp.png
+   :figwidth: 600
+   :align: center
+   :alt: Stimuli - Schärfe.
+
+   
+.. _sunset:
+
+Einfluß von Helligkeit, Kontrast & Sättigung auf die Bildästhetik von Sonnenuntergängen
+---------------------------------------------------------------------------------------------------
+Bohzidar, Christian, Iliya, Matti 
+`Sunset <files/past_courses/IQ20_sonnenuntergang.pdf>`_
+
+.. figure:: img/IQ20_sunsets.png
+   :figwidth: 600
+   :align: center
+   :alt: Stimuli - Sonnenuntergang.
+   
