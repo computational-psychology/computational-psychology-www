@@ -198,8 +198,6 @@ Lehre im Sommersemester 2020
             <td></td>
             <td rowspan="2"> Bio-inspired Computer Vision
             <br>
-            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/enrol/index.php?id=18805">ISIS </a>
-            <br>
             &#8594; <a class="reference external" href="https://sites.google.com/view/guillermogallego/teaching/bio-inspired-computer-vision?authuser=0">project page</a></td>
             <td></td>
             <td></td>
@@ -210,8 +208,6 @@ Lehre im Sommersemester 2020
             <td></td>
             <td></td>
             <td>Visuelle Wahrnehmung beim Menschen und Bildqualit&auml;t 
-            <br>
-            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=18804">ISIS</a>
             <br>
             &#8594; <a class="reference external" href="IQ_SoSe20.html">project page</a></td>
             <td></td>
