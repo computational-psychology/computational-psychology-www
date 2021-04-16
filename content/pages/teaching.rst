@@ -58,8 +58,10 @@ Lehre im Sommersemester 2021
         </tr>
         <tr>
             <td>12:00- 14:00</td>
-            <td></td>
-            <td></td>
+            <td>Forschungskolloquium</td>
+            <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar)
+             <br> 
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=23498">ISIS</a></td>
             <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=23502">ISIS</a></td>
