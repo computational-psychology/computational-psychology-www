@@ -49,6 +49,15 @@ News
 ------
 
 
+New group member: Marcus Bindermann
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+On April 2021, Marcus Bindermann joined our group to work on his Bachelor thesis project. Marcus is a Bachelor student in Computer Sciences at the TU Berlin. His contact details can be found in People soon.
+
+
+----
+
+
 Lynn Schmittwilken has been awarded a 2021 FoVea Travel and Networking Award! 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
