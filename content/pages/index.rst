@@ -51,7 +51,7 @@ News
 PsyCo goes Girls' Day!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Have you ever wondered what the everyday worklife of a vision scientist might look like? One of our lab members, `Lynn Schmittwilken, <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ will talk about exactly this topic with a group of young girls during this year's Girls' Day on 20 April 2021 to encourage more girls to become vision scientists. For more information about the event, have a look `here <https://www.girls-day.de/@/Show/science-of-intelligence/meet-a-vision-scientist-einblicke-in-die-wahrnehmungsforschung>`__ !
+Have you ever wondered what the everyday worklife of a vision scientist might look like? One of our lab members, `Lynn Schmittwilken, <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ will talk about exactly this topic with a group of young girls during this year's Girls' Day on 22 April 2021 to encourage more girls to become vision scientists. For more information about the event, have a look `here <https://www.girls-day.de/@/Show/science-of-intelligence/meet-a-vision-scientist-einblicke-in-die-wahrnehmungsforschung>`__ !
 
 
 ----
