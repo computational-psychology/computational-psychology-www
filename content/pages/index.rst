@@ -48,6 +48,15 @@ at the Technische Universität Berlin
 News
 ------
 
+PsyCo goes Girls' Day!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Have you ever wondered what the everyday worklife of a vision scientist might look like? One of our lab members, `Lynn Schmittwilken, <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ will talk about exactly this topic with a group girls during this year's Girls' Day on 20 April 2021 to encourage young girls to become vision scientists. For more information about the event, have a look `here <https://www.girls-day.de/@/Show/science-of-intelligence/meet-a-vision-scientist-einblicke-in-die-wahrnehmungsforschung>`__ !
+
+
+----
+
+
 
 New group member: Marcus Bindermann
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -61,7 +70,7 @@ On April 2021, Marcus Bindermann joined our group to work on his Bachelor thesis
 Lynn Schmittwilken has been awarded a 2021 FoVea Travel and Networking Award! 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are happy to share the good news with you, that Lynn has been awarded a 2021 `FoVea Travel and Networking Award <https://www.visionsciences.org/2017-fovea-award/>`_ ! 
+We are happy to congratulate our lab member, `Lynn Schmittwilken, <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ for being awarded a 2021 `FoVea Travel and Networking Award <http://www.foveavision.org/awards>`_ ! 
 
 
 ----
