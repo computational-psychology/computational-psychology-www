@@ -48,6 +48,18 @@ at the Technische Universität Berlin
 News
 ------
 
+
+
+New group member: Amanda Maiwald
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+On April 2021, `Amanda Maiwald <https://www.psyco.tu-berlin.de/maiwald.html>`_ joined us in our group. Amanda explores gamification in the context of programming education in her master's thesis.
+
+
+----
+
+
+
 PsyCo goes Girls' Day!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
