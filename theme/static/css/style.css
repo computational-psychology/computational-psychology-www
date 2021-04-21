@@ -361,7 +361,7 @@ section {
 }
 
 
-section:nth-child(2n) { background-color: #C50E1F; }
+// section:nth-child(2n) { background-color: #C50E1F; }
 section:first-of-type { border-top: #C50E1F 3px solid; }
 h2 + section          { border-top: 0; } /* unless immediately preceded by a header */
 section:last-of-type  { border: 0; }
