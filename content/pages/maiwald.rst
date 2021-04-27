@@ -16,7 +16,7 @@ Amanda Maiwald
 
    .. container:: rightside
 
-      .. figure:: img/maiwald.png
+      .. figure:: img/am500.png
 		 :width: 235px
 		 :align: right
 		 :alt: Amanda Maiwald
