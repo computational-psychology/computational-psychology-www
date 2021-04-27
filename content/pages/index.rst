@@ -50,10 +50,12 @@ News
 
 
 
-New group member: Amanda Maiwald
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+New group members: Amanda Maiwald and Christian Wohlhaupt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On April 2021, `Amanda Maiwald <https://www.psyco.tu-berlin.de/maiwald.html>`_ joined us in our group. Amanda explores gamification in the context of programming education in her master thesis.
+On April 2021, `Amanda Maiwald <https://www.psyco.tu-berlin.de/maiwald.html>`_ and `Christian Wohlhaupt <https://www.psyco.tu-berlin.de/wohlhaupt.html>`_ joined us in our group. 
+Amanda explores gamification in the context of programming education in her master thesis.
+Christian researches in his bachelor thesis potential differences in the aesthetic perception of sunset-pictures by people of different geographic origin for marketing purposes.
 
 
 ----
