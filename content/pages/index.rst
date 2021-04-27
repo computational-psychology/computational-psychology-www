@@ -75,7 +75,7 @@ Have you ever wondered what the everyday worklife of a vision scientist might lo
 New group member: Marcus Bindermann
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On April 2021, Marcus Bindermann joined our group to work on his Bachelor thesis project. Marcus is a Bachelor student in Computer Sciences at the TU Berlin. His contact details can be found in People soon.
+On April 2021, `Marcus Bindermann <https://www.psyco.tu-berlin.de/bindermann.html>`_ joined us in our group to work on his Bachelor thesis project. Marcus is a Bachelor student in Computer Sciences at the TU Berlin.
 
 
 ----
