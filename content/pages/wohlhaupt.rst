@@ -16,7 +16,7 @@ Christian Wohlhaupt
 
    .. container:: rightside
 
-      .. figure:: img/cw500.png
+      .. figure:: img/CW500.png
 		 :width: 235px
 		 :align: right
 		 :alt: Christian Wohlhaupt
