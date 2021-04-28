@@ -16,7 +16,7 @@ Marcus Bindermann
 
    .. container:: rightside
 
-      .. figure:: img/mb_2_500.png
+      .. figure:: img/mb3_500.png
 		 :width: 235px
 		 :align: right
 		 :alt: Marcus Bindermann
