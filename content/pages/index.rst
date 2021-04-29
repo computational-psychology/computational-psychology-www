@@ -53,7 +53,7 @@ News
 New group members: Amanda Maiwald, Christian Wohlhaupt and Matti Zinke
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On April 2021, `Amanda Maiwald <https://www.psyco.tu-berlin.de/maiwald.html>`_ ,`Christian Wohlhaupt <https://www.psyco.tu-berlin.de/wohlhaupt.html>`_ and `Matti Zinke <https://www.psyco.tu-berlin.de/zinke.html>`_ joined us in our group. 
+On April 2021, `Amanda Maiwald <https://www.psyco.tu-berlin.de/maiwald.html>`_ `Christian Wohlhaupt <https://www.psyco.tu-berlin.de/wohlhaupt.html>`_ and `Matti Zinke <https://www.psyco.tu-berlin.de/zinke.html>`_ joined us in our group. 
 Amanda explores gamification in the context of programming education in her master thesis.
 Christian researches in his bachelor thesis potential differences in the aesthetic perception of sunset-pictures by people of different geographic origin for marketing purposes.
 Matti Zinke is a Bachelor student at the TU Berlin.
