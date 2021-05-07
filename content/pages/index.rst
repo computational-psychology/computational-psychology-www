@@ -49,6 +49,14 @@ News
 ------
 
 
+Carolin Brunn sucessfully defended Bachelor thesis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Carolin Brunn successfully defended her Bachelor thesis on `The Crispening Effect: An Artefact of a Method or a Feature of the visual System <files/theses/BachelorThesis_CarolinBrunn_2021.pdf>`_ and moves on to her master studies in Computer Science and to teaching computing to students https://byte-challenge.de
+
+
+----
+
 
 New group members: Amanda Maiwald, Christian Wohlhaupt and Matti Zinke
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
