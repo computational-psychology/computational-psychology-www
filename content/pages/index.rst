@@ -48,6 +48,17 @@ at the Technische Universität Berlin
 News
 ------
 
+Annual meeting of the Vision Science Society 2021
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Joris <https://www.psyco.tu-berlin.de/vincent.html>`_  `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ `Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ and `Max <https://www.psyco.tu-berlin.de/pohlmann.html>`_ are happy to present their posters at virtual VSS!! We are looking forward to the annual meeting of the Vision Science Society! 
+`Here you can find Joris poster <files/posters_VSS2021/Joris_Vincent_Poster_VSS2021.pdf>`_
+`Here you can find Lynn’s poster <files/posters_VSS2021/Lynn_Schmittwilken_Poster_VSS2021.pdf>`_
+`Here you can find Marianne’s & Max poster <files/posters_VSS2021/Marianne_Maertens_Max_Pohlmann_Poster_VSS2021.pdf>`_
+
+
+----
+
 
 Carolin Brunn sucessfully defended her Bachelor thesis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
