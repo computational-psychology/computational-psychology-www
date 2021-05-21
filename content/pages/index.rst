@@ -58,6 +58,17 @@ Here you can find `Joris poster <files/posters_VSS2021/Joris_Vincent_Poster_VSS2
 ----
 
 
+New group member: Wenwen Zhang
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+On April 2021, `Wenwen Zhang <https://www.psyco.tu-berlin.de/zhang.html>`_  joined us in our group. 
+Wenwen studies the relationship between apparent contrast (supra-threshold discriminability) and contrast sensitivity (contrast discrimination thresholds) in human observers in her Bachelor thesis.
+
+
+----
+
+
+
 Carolin Brunn sucessfully defended her Bachelor thesis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -71,8 +82,8 @@ New group members: Amanda Maiwald, Christian Wohlhaupt and Matti Zinke
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 On April 2021, `Amanda Maiwald <https://www.psyco.tu-berlin.de/maiwald.html>`_ `Christian Wohlhaupt <https://www.psyco.tu-berlin.de/wohlhaupt.html>`_ and `Matti Zinke <https://www.psyco.tu-berlin.de/zinke.html>`_ joined us in our group. 
-Amanda explores gamification in the context of programming education in her master thesis.
-Christian researches in his bachelor thesis potential differences in the aesthetic perception of sunset-pictures by people of different geographic origin for marketing purposes.
+Amanda explores gamification in the context of programming education in her Master thesis.
+Christian researches in his Bachelor thesis potential differences in the aesthetic perception of sunset-pictures by people of different geographic origin for marketing purposes.
 Matti Zinke is a Bachelor student at the TU Berlin.
 
 
