@@ -48,6 +48,17 @@ at the Technische Universität Berlin
 News
 ------
 
+
+PsyCo goes Lange Nacht der Wissenschaften!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Interested in a fun evening with Science of Intelligence as part of the Lange Nacht der Wissenschaften 2021? Then `sign up here <https://www.scienceofintelligence.de/lndw2021/>`__ for the Science Pub Quiz this Saturday, June 5th from 7.30-10 pm!
+
+What is intelligence? Do beets float in water? Why should you pet your basil? Aravind Battaje and our lab member `Lynn Schmittwilken <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ will tell us about their latest research and answer your most burning questions about how humans and computers can perceive the world. The event will be held in English and German and is aimed at scientists and non-scientists alike. We are looking forward to seeing you!
+
+
+
+
 Annual meeting of the Vision Science Society 2021
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
