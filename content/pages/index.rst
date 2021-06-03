@@ -57,6 +57,7 @@ Interested in a fun evening with Science of Intelligence as part of the Lange Na
 What is intelligence? Do beets float in water? Why should you pet your basil? Aravind Battaje and our lab member `Lynn Schmittwilken <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ will tell us about their latest research and answer your most burning questions about how humans and computers can perceive the world. The event will be held in English and German and is aimed at scientists and non-scientists alike. We are looking forward to seeing you!
 
 
+----
 
 
 Annual meeting of the Vision Science Society 2021
