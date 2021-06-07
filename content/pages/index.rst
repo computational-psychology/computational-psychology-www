@@ -49,6 +49,16 @@ News
 ------
 
 
+New group member: Nico Kestel
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+On June 2021, `Nico Kestel <https://www.psyco.tu-berlin.de/kestel.html>`_  joined us in our group. 
+In his Bachelor thesis, Nico wants to explore how CNNs might benefit from using dynamic images derived from fixational eye movements instead of static images to recognize objects in naturalistic scenes.
+
+
+----
+
+
 PsyCo goes Lange Nacht der Wissenschaften!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -58,6 +68,7 @@ What is intelligence? Do beets float in water? Why should you pet your basil? Ar
 
 
 ----
+
 
 
 Annual meeting of the Vision Science Society 2021
