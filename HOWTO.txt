@@ -1,17 +1,25 @@
-HOWTO (updated 20th January 2021)
+HOWTO (updated 16th June 2021)
 ---------------------------------
 ---------------------------------
+
+Instructions on how to edit the website, 
+when SSH servers are up and running.
+
+Alternatively, you can use AFS to copy the files to the server.
+See HOWTO-AFS.txt for alternative instructions.
+
+
 
 Requirements 
 -------------
 - ZECM account (tubIT)
-- pelican (a python package)
-- an SSH client
+- pelican (a python package) - installation installation instructions below
+- an SSH client              - installation installation instructions below 
 
 
-------------
-Installation
-------------
+------------------------------------
+Installation - to be done only once
+------------------------------------
 
 0. Install and check that your SSH connection works
 
@@ -21,11 +29,13 @@ via SSH to the server.
 
 a) install the client if you don't have it yet
 
-in Debian and Ubuntu, you run  'sudo apt install ssh' 
+in Debian and Ubuntu, you run 
+
+  >> sudo apt install ssh
 
 b) test that you can access the TU server. Run the following command
 
-'ssh username@sshgate.tu-berlin.de'
+  >> ssh username@sshgate.tu-berlin.de
 
 replace username with your TU login username. It will ask for your TU 
 password. You'll see a welcome message.
@@ -33,43 +43,48 @@ password. You'll see a welcome message.
 c) once logged in, check that you have access to the following folder by 
 changing directory to it and listing its content
 
-'cd /afs/tu-berlin.de/units/Fak_IV/psyco/www/www.psyco/htdocs'
-'ls -l'
+   >> cd /afs/tu-berlin.de/units/Fak_IV/psyco/www/www.psyco/htdocs
+   >> ls -l
 
 should show the list of files in our website.
 
 Before you continue with this howto, exit the connection to the TU
 server with the command
 
-'exit'
+   >> exit
 
     
-1. Install Pelican apt-get or using pip.
-   'sudo apt-get install pelican'
+1. Install Pelican with your package manager. In Debian / Ubuntu, use
 
-   alternatively, 'pip install pelican' 
+   >> sudo apt-get install pelican
+
+   alternatively you can use pip
+
+   >> pip install pelican
 
 
 2. Clone the repository to a local folder
 
-   'git clone --recursive  git@github.com:computational-psychology/computational-psychology-www.git'
-    
-
-    if you haven't used github before, you need to:
-        - be added to our organization 'computational-psychology' -> ask Guillermo to add you
-        - add your public key (id_rsa.pub located in your .ssh folder) to your github account
-
+   >> git clone --recursive  git@github.com:computational-psychology/computational-psychology-www.git
+ 
+   If you haven't used github before, you need to:
+     - be added to our organization 'computational-psychology' -> ask Guillermo to add you
+     - add your public key (id_rsa.pub located in your .ssh folder) to your github account
 
 
----------
-Workflow
----------
+
+
+----------------------------------
+Workflow - how to update the site
+----------------------------------
 
 
 To edit locally:
 ----------------
 1. Go to the repository root folder and pull the latest version from 
-   github with 'git pull'
+   github with 
+
+   >> git pull
 
 2. Edit what you need to edit.
    Pages are located in content/pages, images in content/imgs
@@ -77,7 +92,7 @@ To edit locally:
 
 3. After editing, go to root of your local repository and run 
 
-'make html'
+  >> make html
 
 to test that the website renders locally. No errors should occur.
 
@@ -90,9 +105,13 @@ is not right, don't worry. Once in the server it will look OK.
    
 To save changes:
 ------------------
-4. Save your changes with 'git add' and 'git commit'.  
+4. Save your changes with 
+   >> git add newfiles... 
+   >> git commit -m "your commit message".
 
-Push your changes to github with 'git push'
+   Push your changes to github with 
+
+   >> git push'
 
 
 
@@ -100,14 +119,18 @@ To publish your changes:
 -------------------------
 5. Run the script 
 
-./publish.sh username
+  >> ./publish.sh username
 
 Replace 'username' with your TU login username. The script will copy 
 the new files to the server. 
 
+
+Check your changes in the live website
+--------------------------------------
+
 Your changes should be visible on the website now. Remember to
 
-- Reload the page in your browser.
+6. Reload the page in your browser.
 
 
 
