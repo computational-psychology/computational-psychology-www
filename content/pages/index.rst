@@ -58,15 +58,19 @@ In our research group "Computational Psychology" we are looking for a
 Student Assistant (m/f/d)
 
 Working hours: 40 hours per month
+
 Duration: from 01.09.2021 - limited for 1 year
 
 Responsibilities:
-The excellence cluster Science of Intelligence (www.scienceofintelligence.de) would like to recruit motivated students for the project “Object-level scene descriptions and attention in visual search”, targeting a better understanding of visual processes in humans and synthetic systems. Successful applicants will be integrated into small teams of scientists and undergraduate students. The main tasks of the applicants will focus on implementing software for synthetic models of visual processes relevant for object segmentation.
+
+The excellence cluster Science of Intelligence (www.scienceofintelligence.de ) would like to recruit motivated students for the project “Object-level scene descriptions and attention in visual search”, targeting a better understanding of visual processes in humans and synthetic systems. Successful applicants will be integrated into small teams of scientists and undergraduate students. The main tasks of the applicants will focus on implementing software for synthetic models of visual processes relevant for object segmentation.
 
 Knowledge and skills required:
+
 Very good programming skills with Python, strong interest in the human visual system, very good oral and written English proficiency.
 
 Notes on the application:
+
 Please send your application with the usual documents exclusively by e-mail to Lynn Schmittwilken at l.schmittwilken@tu-berlin.de . Application deadline is 07 July 2021.
 
 By submitting an online application, you as an applicant give your consent to your data being processed and stored electronically. We would like to point out that if your application is sent electronically without protection, no guarantee can be given for the security of the personal data transmitted.
