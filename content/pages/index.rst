@@ -49,6 +49,9 @@ News
 ------
 
 
+----
+
+
 In our research group "Computational Psychology" we are looking for a Student Assistant (m/f/d)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,6 +59,7 @@ In our research group "Computational Psychology" we are looking for a Student As
 In our research group "Computational Psychology" we are looking for a
 
 Student Assistant (m/f/d)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Working hours: 40 hours per month
 
@@ -63,7 +67,7 @@ Duration: from 01.09.2021 - limited for 1 year
 
 Responsibilities:
 
-The excellence cluster Science of Intelligence (www.scienceofintelligence.de ) would like to recruit motivated students for the project “Object-level scene descriptions and attention in visual search”, targeting a better understanding of visual processes in humans and synthetic systems. Successful applicants will be integrated into small teams of scientists and undergraduate students. The main tasks of the applicants will focus on implementing software for synthetic models of visual processes relevant for object segmentation.
+The excellence cluster `Science of Intelligence <https://www.scienceofintelligence.de>`_ would like to recruit motivated students for the project “Object-level scene descriptions and attention in visual search”, targeting a better understanding of visual processes in humans and synthetic systems. Successful applicants will be integrated into small teams of scientists and undergraduate students. The main tasks of the applicants will focus on implementing software for synthetic models of visual processes relevant for object segmentation.
 
 Knowledge and skills required:
 
