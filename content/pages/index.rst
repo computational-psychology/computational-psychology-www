@@ -49,9 +49,6 @@ News
 ------
 
 
-In our research group "Computational Psychology" we are looking for a Student Assistant (m/f/d)
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In our research group "Computational Psychology" we are looking for a
 
