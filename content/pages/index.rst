@@ -50,13 +50,13 @@ News
 
 
 
+
 In our research group "Computational Psychology" we are looking for a
 
 Student Assistant (m/f/d)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Working hours: 40 hours per month
-
 Duration: from 01.09.2021 - limited for 1 year
 
 Responsibilities:
