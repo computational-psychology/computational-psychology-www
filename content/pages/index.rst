@@ -57,7 +57,7 @@ Student Assistant (m/f/d)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Working hours: 40 hours per month
-Duration: from 01.09.2021 - limited for 1 year
+Duration: from 01. September 2021 - limited for 1 year
 
 
 Responsibilities:
@@ -72,7 +72,7 @@ Very good programming skills with Python, strong interest in the human visual sy
 
 Notes on the application:
 
-Please send your application with the usual documents exclusively by e-mail to Lynn Schmittwilken at l.schmittwilken@tu-berlin.de . Application deadline is 07 July 2021.
+Please send your application with the usual documents exclusively by e-mail to Lynn Schmittwilken at l.schmittwilken@tu-berlin.de . Application deadline is 07. July 2021.
 
 By submitting an online application, you as an applicant give your consent to your data being processed and stored electronically. We would like to point out that if your application is sent electronically without protection, no guarantee can be given for the security of the personal data transmitted.
 
