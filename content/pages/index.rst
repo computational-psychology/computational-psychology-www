@@ -57,7 +57,7 @@ Student Assistant (m/f/d)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Working hours: 40 hours per month
-Duration: from 01. September 2021 - limited for 1 year
+Duration: from 01. October 2021 - 31. August 2022
 
 
 Responsibilities:
