@@ -58,6 +58,15 @@ We are happy to congratulate `Lynn <https://www.psyco.tu-berlin.de/schmittwilken
 ----
 
 
+ECVP 2021
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ and `Matko <https://www.psyco.tu-berlin.de/matic.html>`_ are happy to present their posters at virtual ECVP 2021!! 
+`You can find Lynn's poster here <https://osf.io/uhcr3/>`_ and `Matko's poster here <https://osf.io/tnr3y/>`_
+
+
+----
+
 
 
 In our research group "Computational Psychology" we are looking for a
