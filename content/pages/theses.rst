@@ -27,7 +27,7 @@ Please read the following content carefully before inquiring about a topic.
 Who can write a thesis with us and what are the prerequisites?
 ******************************************************************
 
-In general, any student with interest in visual perception and some programming skills is welcome to write a Bachelor’s or Master’s thesis in our group. 
+In general, any student with interest in visual perception and some programming skills is welcome to write a Bachelor’s or Master’s thesis in our group. However, we do require that you have attended at least one of the `courses taught by our department <teaching.html>`_.
 
 To ensure the successful completion of a thesis, we see the following requirements:
 
