@@ -55,6 +55,8 @@ We congratulate Lynn for winning the ECVP 2021 poster award
 We are happy to congratulate `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ that the `ECVP 2021 <https://ecvp2021.org/>`_ poster award sponsored by PeerJ goes to Lynn for her work entitled "An active model of human edge sensitivity: Extracting edges via fixational eye movements".
 `You can find Lynn's poster here <https://osf.io/uhcr3/>`_
 Please find here the `blog post, i.e. the interview with Lynn <https://peerj.com/blog/post/115284884670/peerj-award-winner-ecvp2021/>`_
+
+
 ----
 
 
