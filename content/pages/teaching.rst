@@ -72,9 +72,11 @@ Lehre im Wintersemester 2021/2022
             <td></td>
             <td></td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td rowspan="1">16:00- 18:00</td>
+            <td rowspan="1"></td>
             <td rowspan="1"></td>
             <td rowspan="1"></td>
             <td rowspan="1"></td>
