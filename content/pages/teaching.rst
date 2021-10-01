@@ -52,11 +52,11 @@ Lehre im Wintersemester 2021/2022
             <td>10:00- 12:00</td>
             <td></td>
             <td>Informatisches Propädeutikum (Vorlesung)
-            </td>
-            </td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)
-            <br>
-            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=26422">ISIS</a>
-            </td>
+            <td></td>
+            <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)
+            <br> 
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=26422">ISIS</a></td>
+            <td></td>
             <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar) 
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=26397">ISIS</a>
