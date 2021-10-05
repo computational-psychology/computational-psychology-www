@@ -65,7 +65,7 @@ Lehre im Wintersemester 2021/2022
         <tr>
             <td>12:00- 14:00</td>
             <td></td>
-            <td></td>
+            <td>13:00 - 14:00 Forschungskolloquium</td>
             <td></td>
             <td></td>
         </tr>
