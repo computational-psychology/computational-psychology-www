@@ -58,7 +58,7 @@ Lehre im Wintersemester 2021/2022
             <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=26422">ISIS</a></td>
-            <td>Visuelle Wahrnehmung beim Menschen und Bildqualität Gruppe 1 (Seminar) 
+            <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar) Gruppe 1
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=26397">ISIS</a>
         </tr>
@@ -74,7 +74,7 @@ Lehre im Wintersemester 2021/2022
             <td></td>
             <td></td>
             <td></td>
-            <td>Visuelle Wahrnehmung beim Menschen und Bildqualität Gruppe 2 (Seminar) 
+            <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar) Gruppe 2 
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=26397">ISIS</a>
             <td></td>
