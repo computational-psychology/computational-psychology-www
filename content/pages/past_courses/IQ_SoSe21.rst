@@ -14,7 +14,7 @@
 
 - Die Studierenden haben wissenschaftliche Fragen zur Messung von Bildqualität formuliert.
 
-- In Teams von je 3 - 4 Personen haben sie diese Fragen experimentell untersucht. 
+- In Teams von je 2 - 4 Personen haben sie diese Fragen experimentell untersucht. 
 
 - Die Fragestellung, Durchführung, Ergebnisse sowie kritische Betrachtung der Untersuchung wurde den Mitstudierenden am Ende präsentiert:  
 

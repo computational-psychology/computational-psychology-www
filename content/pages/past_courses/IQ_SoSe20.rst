@@ -25,8 +25,7 @@
 Auswirkung der Helligkeit auf die wahrgenommene Bildqualität
 -------------------------------------------------------------
 
-Enis, Onur, Ardeshir & Niklas
-`Helligkeit <files/past_courses/IQ20_onur.pdf>`_
+Enis, Onur, Ardeshir & Niklas [`Abschlusspräsentation <files/past_courses/IQ20_onur.pdf>`__]
 
 .. figure:: img/IQ20_onur.png
    :figwidth: 600
@@ -39,8 +38,8 @@ Enis, Onur, Ardeshir & Niklas
 Erkennung von Filtern in Abhängigkeit vom Alter
 -------------------------------------------------------------
 
-Vero, Lukas, Jannik & Tim
-`Filter <files/past_courses/IQ20_tim.pdf>`_
+Vero, Lukas, Jannik & Tim. [`Abschlusspräsentation <files/past_courses/IQ20_tim.pdf>`__]
+
 
 .. figure:: img/IQ20_tim.png
    :figwidth: 600
@@ -54,8 +53,8 @@ Vero, Lukas, Jannik & Tim
 Will the quality judgements be influenced by word recognition?
 ---------------------------------------------------------------
 
-Maria, Max, Waldeman & Julia
-`Words <files/past_courses/IQ20_max.pdf>`_
+Maria, Max, Waldeman & Julia. [`Abschlusspräsentation <files/past_courses/IQ20_max.pdf>`__]
+
 
 .. figure:: img/IQ20_max.png
    :figwidth: 600
@@ -63,13 +62,14 @@ Maria, Max, Waldeman & Julia
    :alt: Stimuli - Words.
 
 
+
 .. _illusions:
    
 The Effect of Distortions on the Perception of the Illusion
 ------------------------------------------------------------
 
-Wolf, Yong & Vasili
-`Illusion <files/past_courses/IQ20_wolf.pdf>`_
+Wolf, Yong & Vasili. [`Abschlusspräsentation <files/past_courses/IQ20_wolf.pdf>`__]
+
 
 .. figure:: img/IQ20_wolf.png
    :figwidth: 600
@@ -82,8 +82,8 @@ Wolf, Yong & Vasili
 The Effect of Salience on perceived image quality
 -------------------------------------------------
 
-Ilda, Imam, Oubada & Georg
-`Salience <files/past_courses/IQ20_ilda.pdf>`_
+Ilda, Imam, Oubada & Georg. [`Abschlusspräsentation <files/past_courses/IQ20_ilda.pdf>`__]
+
 
 .. figure:: img/IQ20_ilda.png
    :figwidth: 600

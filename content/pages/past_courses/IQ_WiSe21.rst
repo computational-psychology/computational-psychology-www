@@ -25,8 +25,7 @@
 Auswirkung der Super-Resolution auf die wahrgenommene Bildqualität
 ---------------------------------------------------------------------
 
-Gabriel, Samy, Muhammed & Aleks
-`Superresolution <files/past_courses/IQ20_superreso.pdf>`_
+Gabriel, Samy, Muhammed & Aleks. [`Abschlusspräsentation <files/past_courses/IQ20_superreso.pdf>`__]
 
 .. figure:: img/IQ20_superreso.png
    :figwidth: 600
@@ -34,13 +33,14 @@ Gabriel, Samy, Muhammed & Aleks
    :alt: Stimuli - Scale-up.
 
 
+
 .. _filesize:
 
 Wahrgenommene Bildqualität in Abhängigkeit der Dateigrösse
 -------------------------------------------------------------
 
-Johann, Marcus & Tobias 
-`Dateigrösse <files/past_courses/IQ20_filesize.pdf>`_
+Johann, Marcus & Tobias. [`Abschlusspräsentation <files/past_courses/IQ20_filesize.pdf>`__]
+
 
 .. figure:: img/IQ20_filesize.png
    :figwidth: 600
@@ -52,8 +52,9 @@ Johann, Marcus & Tobias
 
 Auswirkungen der Chromatie eines Bildes auf die wahrgenommene Bildqualität
 ----------------------------------------------------------------------------
-Sude, Yevheniia, Léon, Max
-`Chromatie <files/past_courses/IQ20_polychrom.pdf>`_
+
+Sude, Yevheniia, Léon, Max. [`Abschlusspräsentation <files/past_courses/IQ20_polychrom.pdf>`__]
+
 
 .. figure:: img/IQ20_chroma.png
    :figwidth: 600
@@ -65,8 +66,8 @@ Sude, Yevheniia, Léon, Max
 
 Einfluss der Bildschärfe auf die Natürlichkeit des Bildes
 ------------------------------------------------------------
-Amira, Wenwen, Mathias, Robert
-`Schärfe <files/past_courses/IQ20_unsharp.pdf>`_
+Amira, Wenwen, Mathias, Robert. [`Abschlusspräsentation <files/past_courses/IQ20_unsharp.pdf>`__]
+
 
 .. figure:: img/IQ20_sharp.png
    :figwidth: 600
@@ -78,8 +79,8 @@ Amira, Wenwen, Mathias, Robert
 
 Einfluß von Helligkeit, Kontrast & Sättigung auf die Bildästhetik von Sonnenuntergängen
 ---------------------------------------------------------------------------------------------------
-Bohzidar, Christian, Iliya, Matti 
-`Sonnenuntergang <files/past_courses/IQ20_sonnenuntergang.pdf>`_
+Bohzidar, Christian, Iliya, Matti. [`Abschlusspräsentation <files/past_courses/IQ20_sunset.pdf>`__]
+
 
 .. figure:: img/IQ20_sunsets.png
    :figwidth: 600
