@@ -25,13 +25,37 @@
 Einfluss von Social Media Nutzung auf die Wahrnehmung von Bildbearbeitungsfiltern
 ---------------------------------------------------------------------------------
 
-Dominik G. & Christopher S.
-`Social Media Nutzung <files/past_courses/IQ_SoSe21_socialmedianutzung.pdf>`_
+Dominik G. & Christopher S.  [`Abschlusspräsentation <files/past_courses/IQ_SoSe21_socialmedianutzung.pdf>`__]
 
 .. figure:: img/IQ_SoSe21_socialmedianutzung.png
    :figwidth: 600
    :align: center
-   :alt: Stimuli - Social Media Nutzung auf die Wahrnehmung von Bildbearbeitungsfiltern.
+   :alt: Stimuli vom Projekt: Social Media Nutzung auf die Wahrnehmung von Bildbearbeitungsfiltern
 
 
 
+
+.. _projekt2:
+
+Einfluss des Kontrasts auf wahrgenommenes Alter des Bildes
+-----------------------------------------------------------
+
+Ömer Bayçelebi,  Saman Akbari, Anna Elena Dumat & Erdem Balli. [`Abschlusspräsentation <files/past_courses/IQ_SoSe21_alter.pdf>`__]
+
+.. figure:: img/IQ_SoSe21_alter.png
+   :figwidth: 600
+   :align: center
+   :alt: Stimuli vom Projekt: Einfluss des Kontrasts auf wahrgenommenes Alter des Bildes
+
+
+.. _projekt3:
+
+Wie beeinflusst Bildkompression die wahrgenommene Bildqualität?
+-----------------------------------------------------------------
+
+Benjamin Klingenberg, Dominik Theilen, Pascal Hofmann [`Abschlusspräsentation <files/past_courses/IQ_SoSe21_kompression.pdf>`__]
+
+.. figure:: img/IQ_SoSe21_kompression2.png
+   :figwidth: 700
+   :align: center
+   :alt: Stimuli vom Projekt: Wie beeinflusst Bildkompression die wahrgenommene Bildqualität?

@@ -122,7 +122,9 @@ Lehre im Sommersemester 2021
             <td></td>
             <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar)
              <br> 
-            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=23498">ISIS</a></td>
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=23498">ISIS</a>
+            <br>
+            &#8594; <a class="reference external" href="IQ_SoSe21.html">project page</a></td>
             <td></td>
             <td></td>
 	    <td></td>
