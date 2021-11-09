@@ -47,7 +47,7 @@ at the Technische Universität Berlin
 
 News
 ------
-Teaching live again and glad to have excellent student 
+Nov, 4, 2021: Teaching live again!!! TU students are the best ;-)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. figure:: img/students_again.jpg
    :figwidth: 600
