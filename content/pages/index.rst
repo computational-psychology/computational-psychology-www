@@ -47,6 +47,12 @@ at the Technische Universität Berlin
 
 News
 ------
+Teaching live again and glad to have excellent student 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. figure:: img/students_again.jpg
+   :figwidth: 600
+   :align: center
+   :alt: foto_gruppe2
 
 
 We congratulate Lynn for winning the ECVP 2021 poster award

@@ -41,6 +41,10 @@ https://www.campusmanagement.tu-berlin.de/menue/dienste/daten_server/andrew_file
 
 (Schritte 1 bis 5)
 
+Schritt 5 nach der Installation
+kinit Benutzername
+aklog 
+
 
 c) After configuring, you should have access to the folder /afs/tu-berlin.de/units/Fak_IV/psyco/www/www.psyco/htdocs
 
