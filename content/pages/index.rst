@@ -47,6 +47,16 @@ at the Technische Universität Berlin
 
 News
 ------
+
+
+
+New group members: Marie-Elisabeth Makohl and Poulami Ghosh
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are very happy to welcome our new group members Marie-Elisabeth Makohl and Poulami Ghosh to our group. More information will be published soon in People.
+
+
+
 Nov, 4, 2021: Teaching live again!!! TU students are the best ;-)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. figure:: img/students_again.jpg
