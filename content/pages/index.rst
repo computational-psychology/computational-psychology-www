@@ -57,12 +57,18 @@ We are very happy to welcome our new group members Marie-Elisabeth Makohl and Po
 
 
 
+----
+
+
 Nov, 4, 2021: Teaching live again!!! TU students are the best ;-)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. figure:: img/students_again.jpg
    :figwidth: 600
    :align: center
    :alt: foto_gruppe2
+
+
+----
 
 
 We congratulate Lynn for winning the ECVP 2021 poster award
