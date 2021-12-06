@@ -77,4 +77,6 @@ Documents
 
 - `Exposé  guidelines (German) <files/theses/BA_expose.pdf>`_
 
+- `Exposé  guidelines (English) <files/theses/BA_expose_EN.pdf>`_
+
 - `"Establishing a good relationship from the Beginning" <files/theses/establishing-a-good-relationship-from-the-beginning-2017.pdf>`_ , by Anna Lee. For Bachelor and Master's students questions 6 and 13 might be probably skipped; the survey was designed for supervision at the doctoral level.
