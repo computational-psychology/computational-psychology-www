@@ -12,7 +12,7 @@ If you are interested in inquiring, please first read the section General Inform
 
 `List of available projects and their descriptions <projects.html>`_
 
-`Finished Theses <finished_theses.html>`_
+`Complete Theses <finished_theses.html>`_
 
 
 -----

@@ -1,5 +1,5 @@
 ****************
-Finished Theses
+Complete Theses
 ****************
 
 :save_as: finished_theses.html
