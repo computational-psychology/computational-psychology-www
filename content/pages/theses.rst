@@ -12,7 +12,14 @@ If you are interested in inquiring, please first read the section General Inform
 
 `List of available projects and their descriptions <projects.html>`_
 
+
 `Complete Theses <finished_theses.html>`_
+
+`The Crispening Effect: An Artifact of a Method or a Feature of the Visual System (2020) <files/theses/CBrunn_Bachelorthesis_2020.pdf>`_ (BA thesis, Carolin Brunn)
+
+`Perceived Contrast in Variegated Checkerboards (2020) <files/theses/MasterThesis_YiqunXiao_2020.pdf>`_ (MA thesis, Yiqun Xiao)
+
+
 
 
 -----
