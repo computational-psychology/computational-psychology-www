@@ -11,9 +11,8 @@ Matko Matic
 
    .. container:: leftside
 
-      - Room: MAR 5.017
 
-      - Email: matko.matic@campus.tu-berlin.de
+      - Email: matko.matic@tutanota.com
 
       - Office hours: on appointment
       
