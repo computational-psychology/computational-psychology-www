@@ -16,7 +16,7 @@ Marie-Elisabeth Makohl
 
    .. container:: rightside
 
-      .. figure:: img/mem_500.png
+      .. figure:: img/mem500.png
 		 :width: 235px
 		 :align: right
 		 :alt: Marie-Elisabeth Makohl
