@@ -53,7 +53,7 @@ News
 New group members: Poulami Ghosh, Jakob Grünwald and Marie-Elisabeth Makohl
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group members `Poulami Ghosh <https://www.psyco.tu-berlin.de/ghosh.html>`_  `Jakob Grünwald <https://www.psyco.tu-berlin.de/gruenwald.html>`_  and `Marie-Elisabeth Makohl <https://www.psyco.tu-berlin.de/makohl.html>`_  to our group.
+We are very happy to welcome our new group members `Poulami Ghosh <https://www.psyco.tu-berlin.de/ghosh.html>`_ , `Jakob Grünwald <https://www.psyco.tu-berlin.de/gruenwald.html>`_  and `Marie-Elisabeth Makohl <https://www.psyco.tu-berlin.de/makohl.html>`_  to our group.
 Poulami is a Master student. As part of her lab rotation she does experiment to investigate whether human brightness perception can be done with online experimental tools. Jakob is a Bachelor student and Marie-Elisabeth works for us as a Student research assistant. She studies easy evaluation and comparison of brightness perception models.
 
 
