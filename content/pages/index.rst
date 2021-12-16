@@ -50,11 +50,11 @@ News
 
 
 
-New group members: Yasin Mehmet Cifci, Poulami Ghosh, Jakob Grünwald and Marie-Elisabeth Makohl
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+New group members: Yasin Mehmet Cifci, Poulami Ghosh, Jakob Grünwald, Marie-Elisabeth Makohl and Annalena Katharina Schillen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group members `Yasin Mehmet Cifci <https://www.psyco.tu-berlin.de/cifci.html>`_ , `Poulami Ghosh <https://www.psyco.tu-berlin.de/ghosh.html>`_ , `Jakob Grünwald <https://www.psyco.tu-berlin.de/gruenwald.html>`_  and `Marie-Elisabeth Makohl <https://www.psyco.tu-berlin.de/makohl.html>`_  to our group.
-Yasin Mehmet works for us as a Student research assistant. He works on brightness perception models. Poulami is a Master student. As part of her lab rotation she does experiment to investigate whether human brightness perception can be done with online experimental tools. Jakob is a Bachelor student and Marie-Elisabeth works for us as a Student research assistant. She studies easy evaluation and comparison of brightness perception models.
+We are very happy to welcome our new group members `Yasin Mehmet Cifci <https://www.psyco.tu-berlin.de/cifci.html>`_ , `Poulami Ghosh <https://www.psyco.tu-berlin.de/ghosh.html>`_ , `Jakob Grünwald <https://www.psyco.tu-berlin.de/gruenwald.html>`_ , `Marie-Elisabeth Makohl <https://www.psyco.tu-berlin.de/makohl.html>`_  and `Annalena Katharina Schillen <https://www.psyco.tu-berlin.de/schillen.html>`_to our group.
+Yasin Mehmet works for us as a Student research assistant. He works on brightness perception models. Poulami is a Master student. As part of her lab rotation she does experiment to investigate whether human brightness perception can be done with online experimental tools. Jakob and Annalena are Bachelor students. Marie-Elisabeth works for us as a Student research assistant. She studies easy evaluation and comparison of brightness perception models.
 
 
 ----
