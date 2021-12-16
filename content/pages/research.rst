@@ -20,6 +20,12 @@ Research
 
 - Crispening in real world stimuli
 
+- Learning about human edge perception through noise masking experiments (See `Theses project page <https://www.psyco.tu-berlin.de/projects.html>`__)
+
+- Can Convolutional Neural Networks benefit from fixational eye movements? (See `Theses project page <https://www.psyco.tu-berlin.de/projects.html>`__)
+
+- Investigating brightness perception in psychophysical experiments or computational models (See `Theses project page <https://www.psyco.tu-berlin.de/projects.html>`__)
+
 
 
 .. _lightness:
