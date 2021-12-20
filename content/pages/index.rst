@@ -54,7 +54,7 @@ New group members: Yasin Mehmet Cifci, Poulami Ghosh, Jakob Grünwald, Marie-Eli
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We are very happy to welcome our new group members `Yasin Mehmet Cifci <https://www.psyco.tu-berlin.de/cifci.html>`_ , `Poulami Ghosh <https://www.psyco.tu-berlin.de/ghosh.html>`_ , `Jakob Grünwald <https://www.psyco.tu-berlin.de/gruenwald.html>`_ , `Marie-Elisabeth Makohl <https://www.psyco.tu-berlin.de/makohl.html>`_  and `Annalena Katharina Schillen <https://www.psyco.tu-berlin.de/schillen.html>`_ to our group.
-Yasin Mehmet works for us as a Student research assistant. He works on brightness perception models. Poulami is a Master student. As part of her lab rotation she does experiment to investigate whether human brightness perception can be done with online experimental tools. Jakob and Annalena are Bachelor students. Marie-Elisabeth works for us as a Student research assistant. She studies easy evaluation and comparison of brightness perception models.
+Yasin Mehmet works for us as a Student research assistant. He works on brightness perception models. Poulami is a Master student. As part of her lab rotation she does experiment to investigate whether human brightness perception can be done with online experimental tools. Jakob is a Bachelor student. In his Internship Jakob studies stochastic dependencies in scaling methods, in particular MLDS. Marie-Elisabeth works for us as a Student research assistant. She studies easy evaluation and comparison of brightness perception models. Annalena is a Bachelor student.
 
 
 ----
