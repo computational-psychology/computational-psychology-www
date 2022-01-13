@@ -7,11 +7,6 @@ Overview thesis projects
 :url: projects.html
 
 
-.. _student_projects:
-
-:highlight:`Research projects for students`
---------------------------------------------
-
 - Comparison of different brightness phenomena: `More details <https://www.psyco.tu-berlin.de/SP_vergleich_helligkeitsphaenomene.html>`__
 
 - Testing the validity of methods for estimating perceptual scales: `More details <https://www.psyco.tu-berlin.de/SP_estimate_perceptual_scales.html>`__
