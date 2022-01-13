@@ -1,6 +1,6 @@
-************************
-Overview thesis projects
-************************
+******************************
+Research projects for students
+******************************
 
 
 :save_as: projects.html
