@@ -6,29 +6,22 @@ Research
 
 .. role:: highlight
 
-
-.. _student_projects:
-
-:highlight:`Research projects for students`
+:highlight:`Overview`
 --------------------------------------------
 
-- Comparison of various lightness illusions and analysing to what extent these different phenomena are based on the same or different perceptual mechanisms. See our `Theses page <https://www.psyco.tu-berlin.de/theses.html>`_ for more details.
+- Easy evaluation and comparison of brightness perception models
 
-- Contrast as a cue for image segmentation in transparency conditions
+- Experimental characterization of lightness constancy
 
-- Perceived transparency and perceived contrast using real world stimuli (episcotisters)
+- Evaluation of experimental techniques to measure appearance
 
-- Crispening in real world stimuli
+- An early vision model of lightness perception
 
-- Learning about human edge perception through noise masking experiments (See `Theses project page <https://www.psyco.tu-berlin.de/projects.html>`__)
+- Increments and decrements in naturalistic stimuli
 
-- Can Convolutional Neural Networks benefit from fixational eye movements? (See `Theses project page <https://www.psyco.tu-berlin.de/projects.html>`__)
+- Depth perception in 3d scenes
 
-- Investigating brightness perception in psychophysical experiments or computational models (See `Theses project page <https://www.psyco.tu-berlin.de/projects.html>`__)
-
-
-
-.. _lightness:
+- Manual dexterity in humans and robots
 
 
 ----
