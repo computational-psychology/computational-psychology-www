@@ -3,6 +3,11 @@ Publications
 :save_as: publications.html
 :url: publications.html
 
+**Aguilar, G**. and **Maertens, M**. (2022). 
+Conjoint measurement of perceived transparency and perceived contrast in variegated checkerboards. 
+*Journal of Vision* (in press).
+
+
 **Aguilar, G**. and **Maertens, M**. (2020). 
 Toward reliable measurements of perceptual scales in multiple contexts. 
 *Journal of Vision*, 20, `doi:10.1167/jov.20.4.19 <https://doi.org/10.1167/jov.20.4.19>`_.
