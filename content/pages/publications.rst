@@ -5,7 +5,7 @@ Publications
 
 **Aguilar, G**. and **Maertens, M**. (2022). 
 Conjoint measurement of perceived transparency and perceived contrast in variegated checkerboards. 
-*Journal of Vision* (in press).
+*Journal of Vision* 22, `doi:10.1167/jov.22.2.2 <https://doi.org/10.1167/jov.22.2.2>`_.
 
 
 **Aguilar, G**. and **Maertens, M**. (2020). 
