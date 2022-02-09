@@ -49,6 +49,19 @@ News
 ------
 
 
+New publication in Journal of Vision
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: img/ga_mm_2020_icon.gif
+     :width: 96px
+     :alt: JOV animated icon
+     :target: https://jov.arvojournals.org/article.aspx?articleid=2778331
+     
+Marianne's and Guillermo's paper entitled "Conjoint measurement of perceived transparency and perceived contrast in variegated checkerboards" has published in the February's 2022 issue of Journal of Vision. You can find it `following this link <https://jov.arvojournals.org/article.aspx?articleid=2778331>`_.
+
+----
+
+
 
 
 New group members: Yasin Mehmet Cifci, Poulami Ghosh, Jakob Grünwald, Tom Ravid Hausmann, Marie-Elisabeth Makohl and Annalena Katharina Schillen
