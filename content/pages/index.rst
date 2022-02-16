@@ -52,9 +52,9 @@ News
 New publication in Journal of Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: img/ga_mm_2020_icon.gif
-     :width: 96px
-     :alt: JOV animated icon
+.. figure:: img/aguilar_maertens_2022.png
+     :width: 600px
+     :alt: Aguilar and Maertens (2022)
      :target: https://jov.arvojournals.org/article.aspx?articleid=2778331
      
 Marianne's and Guillermo's paper entitled "Conjoint measurement of perceived transparency and perceived contrast in variegated checkerboards" was published in the February's 2022 issue of Journal of Vision. You can find it `following this link <https://jov.arvojournals.org/article.aspx?articleid=2778331>`_.
