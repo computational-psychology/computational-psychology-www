@@ -48,14 +48,6 @@ at the Technische Universität Berlin
 News
 ------
 
-New group member: Henrik Paul Mader
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We are very happy to welcome our new group member `Henrik Paul Mader <https://www.psyco.tu-berlin.de/mader.html>`_ to our group. 
-In his Bachelor thesis, Henrik Paul explores the validity of new methods for estimating the perceptual scales with python in a theoretical way.
-
-----
-
 
 
 New publication in Journal of Vision
