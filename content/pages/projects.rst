@@ -19,8 +19,6 @@ Research projects for students
 
 - Learning about human edge perception through noise masking experiments: `More details <https://www.psyco.tu-berlin.de/SP_edges_in_noise.html>`__
 
-- Can Convolutional Neural Networks benefit from fixational eye movements? `More details <https://www.psyco.tu-berlin.de/SP_CNNs_and_FEMs.html>`__
-
 - Investigating brightness perception in psychophysical experiments or computational models: `More details <https://www.psyco.tu-berlin.de/SP_brench.html>`__
 
 
