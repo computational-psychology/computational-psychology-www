@@ -44,9 +44,11 @@ Lehre im Sommersemester 2022
             <td></td>
             <td></td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>10:00- 12:00</td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -60,6 +62,7 @@ Lehre im Sommersemester 2022
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=27947">ISIS</a></td>
             <td></td> 
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>14:00- 16:00</td>
@@ -70,6 +73,7 @@ Lehre im Sommersemester 2022
             <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=27946">ISIS</a></td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
