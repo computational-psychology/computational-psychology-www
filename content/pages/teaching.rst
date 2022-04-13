@@ -44,7 +44,6 @@ Lehre im Sommersemester 2022
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>10:00- 12:00</td>
@@ -75,7 +74,6 @@ Lehre im Sommersemester 2022
         </tr>
         <tr>
             <td rowspan="1">16:00- 18:00</td>
-            <td rowspan="1"></td>
             <td rowspan="1"></td>
             <td rowspan="1"></td>
             <td rowspan="1"></td>
