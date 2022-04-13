@@ -44,7 +44,6 @@ Lehre im Sommersemester 2022
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>10:00- 12:00</td>
@@ -52,7 +51,6 @@ Lehre im Sommersemester 2022
             <td></td>
             <td></td>
             <td></td>
-	    <td></td>
         </tr>
         <tr>
             <td>12:00- 14:00</td>
@@ -61,7 +59,6 @@ Lehre im Sommersemester 2022
              <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=27947">ISIS</a></td>
             <td></td> 
-            <td></td>
             <td></td>
         </tr>
         <tr>
@@ -74,11 +71,9 @@ Lehre im Sommersemester 2022
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=27946">ISIS</a></td>
             <td></td>
-            <td></td>
         </tr>
         <tr>
             <td rowspan="1">16:00- 18:00</td>
-            <td rowspan="1"></td>
             <td rowspan="1"></td>
             <td rowspan="1"></td>
             <td rowspan="1"></td>
