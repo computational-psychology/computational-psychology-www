@@ -126,6 +126,8 @@ Lehre im Wintersemester 2021/2022
             <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar) Gruppe 1
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=26397">ISIS</a>
+            <br>
+            &#8594; <a class="reference external" href="IQ_WiSe21-22.html">project page</a></td>
         </tr>
         <tr>
             <td>12:00- 14:00</td>
@@ -142,6 +144,8 @@ Lehre im Wintersemester 2021/2022
             <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar) Gruppe 2 
             <br> 
             &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=26397">ISIS</a>
+            <br>
+            &#8594; <a class="reference external" href="IQ_WiSe21-22.html">project page</a></td>
             <td></td>
         </tr>
         <tr>
