@@ -70,3 +70,20 @@ Hafidz Arifin, Niklas Enskat, Thomas Fock, Christina Gousi   [`Abschluspräs
    :alt: Stimuli vom Projekt
 
 
+
+Einfluss von Chroma Subsampling auf die wahrgenommene Bildqualität bei verschiedenen Kategorien von Bildern
+-------------------------------------------------------------------------------------------------------------
+
+Jonathan Rietz,  Nebras Turkieh, Pablo Robles, Eduardo Rhein   [`Abschluspräsentation <files/past_courses/IQ_WiSe21-22_chroma_subsampling.pdf>`__]
+
+
+.. figure:: img/IQ/IQ_WiSe21-22_chroma_subsampling.png
+   :figwidth: 700
+   :align: center
+   :alt: Stimuli vom Projekt
+
+
+
+
+
+

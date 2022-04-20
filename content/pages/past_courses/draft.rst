@@ -21,18 +21,6 @@
 
 
 
-Auswirkung der Farbtiefe von farbigen und schwarzweißen Bildern auf die wahrgenommene Bildqualität bewertet anhand des Maximum Likelihood Difference Scaling (MLDS)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Iris Özkaya, Parisa Ebrahimi, Sam Chamani   [`Abschluspräsentation <files/past_courses/IQ_WiSe21-22_farbtiefe.pdf>`__]
-
-
-.. figure:: img/IQ/IQ_WiSe21-22_farbtiefe.png
-   :figwidth: 600
-   :align: center
-   :alt: Stimuli vom Projekt
-   
-
 
 
 Einfluss von Buntheit auf den wahrgenommenen Realismus rekolorierter Bilder
@@ -46,25 +34,7 @@ Erdem Arslan, Savas Großmann, Marius Krause, Max Mühlefeldt   [`Abschluspr
    :align: center
    :alt: Stimuli vom Projekt: Einfluss von Buntheit auf den wahrgenommenen Realismus rekolorierter Bilder
 
-
-
-
-Nachweisbarkeit einer internernen Referenz bei der menschlichen Bildwahrnehmung
----------------------------------------------------------------------------------
-
-Jarl Soerensen, Johann Hackler, Louis Loechel, Witold Jermakowicz   [`Abschluspräsentation <files/past_courses/IQ_WiSe21-22-innere-referenz.pdf>`__]
-
-
-.. figure:: img/IQ/IQ_WiSe21-22_innere.png
-   :figwidth: 600
-   :align: center
-   :alt: Stimuli vom Projekt
-
-.. figure:: img/IQ/IQ_WiSe21-22_innere_2.png
-   :figwidth: 600
-   :align: center
-   :alt: Stimuli vom Projekt
-   
+  
 
 
 
@@ -77,7 +47,7 @@ Jan Niklas Läpple, Josefine Ponto, Pascal Philipp Cujé, Sebastian Lazo Rogoll 
 .. figure:: img/IQ/IQ_WiSe21-22_streckung.png
    :figwidth: 600
    :align: center
-   :alt: Stimuli vom Projekt: 
+   :alt: Stimuli vom Projekt
 
 
 
