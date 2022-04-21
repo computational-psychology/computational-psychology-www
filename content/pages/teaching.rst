@@ -50,7 +50,7 @@ Lehre im Sommersemester 2022
             <td>10:00- 12:00</td>
             <td></td>
             <td></td>
-            <td>11:00-12:00 Forschungskolloquium</td>
+            <td>11:00 - 12:00 Forschungskolloquium</td>
             <td></td>
             <td></td>
         </tr>
