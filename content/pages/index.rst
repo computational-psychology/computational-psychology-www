@@ -50,6 +50,15 @@ News
 
 
 
+New group member: Jarl-Sebastian Soerensen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are very happy to welcome our new group member `Jarl-Sebastian Soerensen <https://www.psyco.tu-berlin.de/soerensen.html>`_  to our group. 
+In his Bachelor thesis, Jarl wants to investigate the influence of noise on human edge perception in natural images.
+
+----
+
+
 New publication in Journal of Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
