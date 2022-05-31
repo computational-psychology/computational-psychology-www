@@ -50,11 +50,12 @@ News
 
 
 
-New group member: Jarl-Sebastian Soerensen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+New group members: Jarl-Sebastian Soerensen and Hendrik Schulze Bröring
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group member `Jarl-Sebastian Soerensen <https://www.psyco.tu-berlin.de/soerensen.html>`_  to our group. 
-In his Bachelor thesis, Jarl wants to investigate the influence of noise on human edge perception in natural images.
+We are very happy to welcome our new group members `Jarl-Sebastian Soerensen <https://www.psyco.tu-berlin.de/soerensen.html>`_ and `Hendrik Schulze Bröring <https://www.psyco.tu-berlin.de/schulzebroering.html>`_ to our group. 
+In his Bachelor thesis, Jarl wants to investigate the influence of noise on human edge perception in natural images. Hendrik explores in his Bachelor thesis how size reduction of input stimuli affects the output of multiscale spatial filtering models.
+
 
 ----
 
