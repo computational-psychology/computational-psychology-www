@@ -53,7 +53,7 @@ News
 Codary job advertisement
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The TU alumni startup `codary <https://www.codary.org/>`_ is currently looking for motivated students (Werkstudenten) to teach children programming online. The position can be done completely remotely and the hourly wage is 13EUR/h.
+The TU alumni startup `Codary <https://codary.org/>`_ is currently looking for motivated students (Werkstudenten) to teach children programming online. The position can be done completely remotely and the hourly wage is 13EUR/h.
 `More information can be found here <https://codary-gmbh.jobs.personio.de/job/477338?display=de>`_ 
 
 
