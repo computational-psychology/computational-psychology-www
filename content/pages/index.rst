@@ -68,7 +68,7 @@ The TU alumni startup `Codary <https://codary.org/>`_ is currently looking for m
 New group members: Jarl-Sebastian Soerensen, Hendrik Schulze Bröring and Anas Allaham
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group members `Jarl-Sebastian Soerensen <https://www.psyco.tu-berlin.de/soerensen.html>`_ , `Hendrik Schulze Bröring <https://www.psyco.tu-berlin.de/schulzebroering.html>`_  and `Anas Allaham <https://www.psyco.tu-berlin.de/allaham.html>`_to our group. 
+We are very happy to welcome our new group members `Jarl-Sebastian Soerensen <https://www.psyco.tu-berlin.de/soerensen.html>`_ and `Hendrik Schulze Bröring <https://www.psyco.tu-berlin.de/schulzebroering.html>`_  and `Anas Allaham <https://www.psyco.tu-berlin.de/allaham.html>`_to our group. 
 In his Bachelor thesis, Jarl wants to investigate the influence of noise on human edge perception in natural images. Hendrik explores in his Bachelor thesis how size reduction of input stimuli affects the output of multiscale spatial filtering models. In his Bachelor thesis, Anas focuses on the study of brightness and its entangled relationship with perceptual phenomena in a practical setting.
 
 
