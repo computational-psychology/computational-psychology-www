@@ -49,6 +49,15 @@ News
 ------
 
 
+Annual meeting of the Vision Science Society 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ , `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ , `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ and `Joris <https://www.psyco.tu-berlin.de/vincent.html>`_  have attended the VSS annual meeting 2022!! 
+Here you can find `Marianne’s, Guillermo’s and Joris’ poster <http://dx.doi.org/10.13140/RG.2.2.26990.69447>`_ and here is `Marianne’s and Lynn’s poster <http://dx.doi.org/10.13140/RG.2.2.11382.06726>`_ .
+
+
+----
+
 
 Codary job advertisement
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
