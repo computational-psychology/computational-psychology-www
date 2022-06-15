@@ -49,10 +49,11 @@ News
 ------
 
 
-Preprint of Marianne’s and Lynn’s paper (will be published soon in JOV)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Preprint of Marianne’s and Lynn’s paper "Fixational eye movements enable robust edge detection" (will be published soon in JOV)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Here you can find the `preprint of Marianne’s and Lynn’s paper <http://dx.doi.org/10.1101/2022.05.30.493986>`_ . It will be published soon in Journal of Vision (JOV).
+
+Here you can find the `preprint of Marianne’s and Lynn’s paper <http://dx.doi.org/10.1101/2022.05.30.493986>`_ on "Fixational eye movements enable robust edge detection". It will be published soon in Journal of Vision (JOV).
 
 
 ----
