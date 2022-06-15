@@ -49,7 +49,7 @@ News
 ------
 
 
-Preprint of Marianne’s and Lynn’s paper (will be pubblished soon in JOV)
+Preprint of Marianne’s and Lynn’s paper (will be published soon in JOV)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Here you can find the `preprint of Marianne’s and Lynn’s paper <http://dx.doi.org/10.1101/2022.05.30.493986>`_ . It will be published soon in Journal of Vision (JOV).
