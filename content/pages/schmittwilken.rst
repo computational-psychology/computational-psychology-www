@@ -11,7 +11,7 @@
 
    .. container:: leftside
 
-      - Rooms: MAR 5.017 and MAR 2.041
+      - Rooms: MAR 5.021 and MAR 2.041
 
       - Email: l.schmittwilken@tu-berlin.de
 

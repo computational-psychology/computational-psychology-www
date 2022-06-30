@@ -11,7 +11,7 @@ Dr. Joris Vincent
 
    .. container:: leftside
 
-      - Room: MAR 5.017
+      - Room: MAR 5.021
       
       - Phone: +49 (0) 30/314-78962
 
