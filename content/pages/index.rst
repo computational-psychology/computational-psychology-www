@@ -49,12 +49,25 @@ News
 ------
 
 
+New group member: Enis Can Simsek
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are very happy to welcome our new group member `Enis Can Simsek <https://www.psyco.tu-berlin.de/simsek.html>`_  to our group. 
+In his Bachelor thesis, Enis studies the contrast constancy with supra-threshold contrast using MLCM.
+
+
+
+----
+
+
+
 MODVIS 2022
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ , `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_  and `Joris <https://www.psyco.tu-berlin.de/vincent.html>`_  have attended MODVIS 2022!! 
 Here you can find  `Marianne’s, Guillermo’s and Joris’ talk <https://docs.lib.purdue.edu/modvis/2022/session01/4/>`_ on "Constraining computational models of brightness perception: what’s the right psychophysical data?" 
 `And here you can find the slides <files/MODVIS_talk_2022.pdf>`_ .
+
 
 ----
 
