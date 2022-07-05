@@ -49,11 +49,11 @@ News
 ------
 
 
-New group member: Enis Can Simsek
+New group members: Eduardo Luiz Rhein and Enis Can Simsek 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group member `Enis Can Simsek <https://www.psyco.tu-berlin.de/simsek.html>`_  to our group. 
-In his Bachelor thesis, Enis studies the contrast constancy with supra-threshold contrast using MLCM.
+We are very happy to welcome our new group members `Eduardo Luiz Rhein <https://www.psyco.tu-berlin.de/rhein.html>`_  and `Enis Can Simsek <https://www.psyco.tu-berlin.de/simsek.html>`_ to our group. 
+In his Bachelor thesis, Eduardo studies implementing and analyzing content-adaptive subsampling for image compression. Enis studies contrast constancy with supra-threshold contrast using MLCM in his Bachelor thesis.
 
 
 
