@@ -53,10 +53,12 @@ News
 Marianne’s and Lynn’s paper "Fixational eye movements enable robust edge detection" has been published in Journal of Vision (JOV)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: img/m_l.png
+
+.. figure:: img/maertens_schmittwilken.gif
      :width: 96px
-     :alt: Maertens and Schmittwilken (2022)
+     :alt: Maertens and Schmittwilken (2022
      :target: https://jov.arvojournals.org/article.aspx?articleid=2783478
+
 
 Here you can find `Marianne’s and Lynn’s paper <https://jov.arvojournals.org/article.aspx?articleid=2783478>`_ on "Fixational eye movements enable robust edge detection". It has been published in Journal of Vision (JOV).
 
