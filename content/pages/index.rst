@@ -66,11 +66,11 @@ Here you can find `Marianne’s and Lynn’s paper <https://jov.arvojournals.org
 
 
 
-New group members: Eduardo Luiz Rhein and Enis Can Simsek 
+New group members: Iris Özkaya, Eduardo Luiz Rhein and Enis Can Simsek 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group members `Eduardo Luiz Rhein <https://www.psyco.tu-berlin.de/rhein.html>`_  and `Enis Can Simsek <https://www.psyco.tu-berlin.de/simsek.html>`_ to our group. 
-In his Bachelor thesis, Eduardo studies implementing and analyzing content-adaptive subsampling for image compression. Enis studies contrast constancy with supra-threshold contrast using MLCM in his Bachelor thesis.
+We are very happy to welcome our new group members `Iris Özkaya <https://www.psyco.tu-berlin.de/oezkaya.html>`_ ,  `Eduardo Luiz Rhein <https://www.psyco.tu-berlin.de/rhein.html>`_  and `Enis Can Simsek <https://www.psyco.tu-berlin.de/simsek.html>`_ to our group. 
+In her Bachelor thesis, Iris studies whether the physical contrast of the background has an effect on the perceived contrast of the transparent medium, thus can influence the perceived transparency of the medium. In his Bachelor thesis, Eduardo studies implementing and analyzing content-adaptive subsampling for image compression. Enis studies contrast constancy with supra-threshold contrast using MLCM in his Bachelor thesis.
 
 
 
