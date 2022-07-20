@@ -11,7 +11,7 @@ Burak Kiran
 
    .. container:: leftside
 
-      - Email: burakkiran1226@gmail.com
+      - Email: kiran@campus.tu-berlin.de
       
 
    .. container:: rightside
