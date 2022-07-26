@@ -12,8 +12,6 @@ Anas Allaham
    .. container:: leftside
 
       - Email: contact@anasallaham.com
-
-`You can find Anas' presentation at the Student Symposium here <files/Presentation_Anas_Allaham.pdf>`_
       
 
    .. container:: rightside
@@ -22,6 +20,9 @@ Anas Allaham
 		 :width: 235px
 		 :align: right
 		 :alt: Anas Allaham
+
+
+`You can find Anas' presentation at the Student Symposium here <files/Presentation_Anas_Allaham.pdf>`_
 
 
 
