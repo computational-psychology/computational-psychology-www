@@ -68,6 +68,20 @@ Here you can find `Marianne’s and Lynn’s paper <https://jov.arvojournals.org
 
 
 
+Student Symposium in July 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+In July 2022 we organised a Student Symposium. `Anas Allaham <https://www.psyco.tu-berlin.de/allaham.html>`_ and `Enis Can Simsek <https://www.psyco.tu-berlin.de/simsek.html>`_ presented their research.
+`You can find Anas' presentation at the Student Symposium on July 2022 here <files/Presentation_Anas_Allaham.pdf>`_
+`You can find Enis' presentation at the Student Symposium on July 2022 here <files/Presentation_Enis_Can_Simsek.pdf>`_
+
+
+
+----
+
+
+
 New group members: Burak Kiran, Iris Özkaya, Eduardo Luiz Rhein and Enis Can Simsek 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
