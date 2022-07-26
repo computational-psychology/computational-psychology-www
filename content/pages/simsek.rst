@@ -23,3 +23,7 @@ Enis Can Simsek
 
 
 
+`You can find Enis' presentation at the Student Symposium on July 2022 here <files/Presentation_Enis_Can_Simsek.pdf>`_
+
+
+

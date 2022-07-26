@@ -22,7 +22,7 @@ Anas Allaham
 		 :alt: Anas Allaham
 
 
-`You can find Anas' presentation at the Student Symposium here <files/Presentation_Anas_Allaham.pdf>`_
+`You can find Anas' presentation at the Student Symposium on July 2022 here <files/Presentation_Anas_Allaham.pdf>`_
 
 
 
