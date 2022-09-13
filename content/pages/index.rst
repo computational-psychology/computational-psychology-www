@@ -76,6 +76,8 @@ In July 2022 we organised a Student Symposium. `Anas Allaham <https://www.psyco.
 `You can find Anas' presentation at the Student Symposium in July 2022 here <files/Presentation_Anas_Allaham.pdf>`_ and
 `You can find Enis' presentation at the Student Symposium in July 2022 here <files/Presentation_Enis_Can_Simsek.pdf>`_
 
+In July 2022 we organised a Student Symposium. 
+`Anas <files/Presentation_Anas_Allaham.pdf>`_ , Hendrik, Jarl, `Enis <files/Presentation_Enis_Can_Simsek.pdf>`_
 
 
 ----
