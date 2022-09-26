@@ -55,7 +55,7 @@ Education
 ~~~~~~~~~~~~~~~~~~~~
 
 - 2006  : Ph.D., Psychology, University of Leipzig and MPI of Human Cognitive and Brain Sciences
-- 2002  : Diploma, Psycholgy, Martin-Luther-Universität Halle-Wittenberg
+- 2002  : Diploma, Psychology, Martin-Luther-Universität Halle-Wittenberg
 
 
 
