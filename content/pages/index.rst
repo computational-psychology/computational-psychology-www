@@ -50,6 +50,17 @@ News
 
 
 
+New group member: Sam Chamani
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are very happy to welcome our new group member `Sam Chamani <https://www.psyco.tu-berlin.de/chamani.html>`_ to our group. 
+In his Bachelor thesis, Sam studies perception of transparency and contrast in variegated checkerboards with transparent media of low luminance values.
+
+
+----
+
+
+
 Marianne’s and Lynn’s paper "Fixational eye movements enable robust edge detection" has been published in Journal of Vision (JOV)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
