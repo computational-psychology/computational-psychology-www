@@ -10,20 +10,6 @@ We offer **Bachelor's and Master's theses** in the area of **visual perception r
 If you are interested in inquiring, please first read the section General Information below.
 
 
-`List of available projects and their descriptions <projects.html>`_
-
-
-`Complete Theses <finished_theses.html>`_
-
-`The Crispening Effect: An Artifact of a Method or a Feature of the Visual System (2020) <files/theses/CBrunn_Bachelorthesis_2020.pdf>`_ (BA thesis, Carolin Brunn)
-
-`Perceived Contrast in Variegated Checkerboards (2020) <files/theses/MasterThesis_YiqunXiao_2020.pdf>`_ (MA thesis, Yiqun Xiao)
-
-
-
-
------
-
 
 General Thesis Information 
 ###########################
@@ -34,11 +20,11 @@ Please read the following content carefully before inquiring about a topic.
 Who can write a thesis with us and what are the prerequisites?
 ******************************************************************
 
-In general, any student with interest in visual perception and some programming skills is welcome to write a Bachelor’s or Master’s thesis in our group. However, we do require that you have attended at least one of the `courses taught by our department <teaching.html>`_.
+In general, any student with interest in visual perception and some programming skills is welcome to write a Bachelor’s or Master’s thesis in our group. However, we do require that you have attended a `Seminar taught by our department <teaching.html>`_.
 
 To ensure the successful completion of a thesis, we see the following requirements:
 
-- completion of the Seminar `Human Visual Perception and Image Quality <https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=41000&version=1&sprache=1>`_
+- completion of a `Seminar taught by our deparment <teaching.html>`_, in which we introduce basic aspects of visual perception and how to develop a research project.  
 - interest in visual perception research
 - programming skills in python or R
 - good English skills to read the relevant literature
@@ -91,3 +77,18 @@ Documents
 - `Exposé  guidelines detailed (English) <files/theses/BA_expose_detailed_ENG.pdf>`_
 
 - `"Establishing a good relationship from the Beginning" <files/theses/establishing-a-good-relationship-from-the-beginning-2017.pdf>`_ , by Anna Lee. For Bachelor and Master's students questions 6 and 13 might be probably skipped; the survey was designed for supervision at the doctoral level.
+
+
+
+
+-----
+
+`List of available projects and their descriptions <projects.html>`_
+
+
+-----
+
+`Completed Theses here <finished_theses.html>`_
+
+
+
