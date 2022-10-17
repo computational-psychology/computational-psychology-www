@@ -51,7 +51,7 @@ Lehre im Wintersemester 2022/2023
         <tr>
             <td>10:00- 12:00</td>
             <td></td>
-            <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar) Gruppe 1</td>
+            <td>Aktuelle Themen in Visueller Wahrnehmung (Seminar) Gruppe 1</td>
             <td>Informatik Propädeutikum (Vorlesung)</td>
             </td>
             <td></td>
@@ -68,7 +68,7 @@ Lehre im Wintersemester 2022/2023
         <tr>
             <td>14:00- 16:00</td>
             <td></td>
-            <td>Visuelle Wahrnehmung beim Menschen und Bildqualität (Seminar) Gruppe 2</td>
+            <td>Aktuelle Themen in Visueller Wahrnehmung (Seminar) Gruppe 2</td>
             <td></td>
             <td></td>
         </tr>
