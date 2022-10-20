@@ -50,7 +50,7 @@ News
 
 
 
-New group member: Filipe Borges, Sam Chamani and Marc Tukendorf
+New group members: Filipe Borges, Sam Chamani and Marc Tukendorf
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We are very happy to welcome our new group members `Filipe Borges <https://www.psyco.tu-berlin.de/borges.html>`_ , `Sam Chamani <https://www.psyco.tu-berlin.de/chamani.html>`_ and `Marc Tukendorf <https://www.psyco.tu-berlin.de/tukendorf.html>`_ to our group. 
