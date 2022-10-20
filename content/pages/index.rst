@@ -50,11 +50,11 @@ News
 
 
 
-New group member: Sam Chamani
+New group member: Filipe Borges, Sam Chamani and Marc Tukendorf
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group member `Sam Chamani <https://www.psyco.tu-berlin.de/chamani.html>`_ to our group. 
-In his Bachelor thesis, Sam studies perception of transparency and contrast in variegated checkerboards with transparent media of low luminance values.
+We are very happy to welcome our new group members `Filipe Borges <https://www.psyco.tu-berlin.de/borges.html>`_ , `Sam Chamani <https://www.psyco.tu-berlin.de/chamani.html>`_ and `Marc Tukendorf <https://www.psyco.tu-berlin.de/tukendorf.html>`_ to our group. 
+In his Bachelor thesis, Filipe studies surface segmentation through adaptation. Sam studies perception of transparency and contrast in variegated checkerboards with transparent media of low luminance values in his Bachelor thesis. And Marc focuses on replicability and reproducibility: Translating and evaluating a camouflage detection algorithm in his Bachelor thesis.
 
 
 ----
