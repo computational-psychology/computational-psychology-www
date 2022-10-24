@@ -50,11 +50,11 @@ News
 
 
 
-New group members: Filipe Borges, Sam Chamani, Karol Rogoza and Marc Tukendorf
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+New group members: Filipe Borges, Sam Chamani, Savas Großmann, Karol Rogoza and Marc Tukendorf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group members `Filipe Borges <https://www.psyco.tu-berlin.de/borges.html>`_ , `Sam Chamani <https://www.psyco.tu-berlin.de/chamani.html>`_ , `Karol Rogoza <https://www.psyco.tu-berlin.de/rogoza.html>`_ and `Marc Tukendorf <https://www.psyco.tu-berlin.de/tukendorf.html>`_ to our group. 
-In his Bachelor thesis, Filipe studies surface segmentation through adaptation. Sam studies perception of transparency and contrast in variegated checkerboards with transparent media of low luminance values in his Bachelor thesis. In his Bachelor thesis, Karol studies visual perception of depth through different illuminations of 3d generated scenes on the computer screen. And Marc focuses on replicability and reproducibility: Translating and evaluating a camouflage detection algorithm in his Bachelor thesis.
+We are very happy to welcome our new group members `Filipe Borges <https://www.psyco.tu-berlin.de/borges.html>`_ , `Sam Chamani <https://www.psyco.tu-berlin.de/chamani.html>`_ , `Savas Großmann <https://www.psyco.tu-berlin.de/grossmann.html>`_ , `Karol Rogoza <https://www.psyco.tu-berlin.de/rogoza.html>`_ and `Marc Tukendorf <https://www.psyco.tu-berlin.de/tukendorf.html>`_ to our group. 
+In his Bachelor thesis, Filipe studies surface segmentation through adaptation. Sam studies perception of transparency and contrast in variegated checkerboards with transparent media of low luminance values in his Bachelor thesis. In his Bachelor thesis, Savas studies if the human visual system is more sensitive to edges or luminance differences and if we do get similar results from experiments on these two stimuli. In his Bachelor thesis, Karol studies visual perception of depth through different illuminations of 3d generated scenes on the computer screen. And Marc focuses on replicability and reproducibility: Translating and evaluating a camouflage detection algorithm in his Bachelor thesis.
 
 
 ----
