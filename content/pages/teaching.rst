@@ -53,7 +53,7 @@ Lehre im Wintersemester 2022/2023
             <td></td>
             <td>Aktuelle Themen in Visueller Wahrnehmung (Seminar) Gruppe 1</td>
             <td>Informatik Propädeutikum (Vorlesung)</td>
-            </td>
+            </td>BA seminar series</td>
             <td></td>
             
         </tr>
