@@ -61,7 +61,7 @@ Lehre im Wintersemester 2022/2023
             <td>12:00- 14:00</td>
             <td></td>
             <td></td>
-            <td></td>
+            <td>13:00 - 14:00 Forschungskolloquium</td>
             <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)</td>
             <td></td>
         </tr>
