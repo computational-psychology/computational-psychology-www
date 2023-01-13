@@ -91,4 +91,4 @@ Documents
 
 -----
 
-`Requirements for registering a thesis at the TU Berlin <https://www.tu.berlin/en/studying/organizing-your-studies/examinations/final-theses>`_
+`Requirements for registering a thesis at TU Berlin <https://www.tu.berlin/en/studying/organizing-your-studies/examinations/final-theses>`_
