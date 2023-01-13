@@ -78,8 +78,7 @@ Documents
 
 - `"Establishing a good relationship from the Beginning" <files/theses/establishing-a-good-relationship-from-the-beginning-2017.pdf>`_ , by Anna Lee. For Bachelor and Master's students questions 6 and 13 might be probably skipped; the survey was designed for supervision at the doctoral level.
 
-
-
+- `Requirements for registering a thesis at the TU Berlin <https://www.tu.berlin/en/studying/organizing-your-studies/examinations/final-theses>`_
 
 -----
 
