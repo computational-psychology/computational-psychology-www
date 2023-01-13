@@ -24,7 +24,7 @@ In general, any student with interest in visual perception and some programming 
 
 To ensure the successful completion of a thesis, we see the following requirements:
 
-- completion of a `Seminar taught by our deparment <teaching.html>`_, in which we introduce basic aspects of visual perception and how to develop a research project.  
+- completion of a `Seminar taught by our department <teaching.html>`_, in which we introduce basic aspects of visual perception and how to develop a research project.  
 - interest in visual perception research
 - programming skills in python or R
 - good English skills to read the relevant literature
