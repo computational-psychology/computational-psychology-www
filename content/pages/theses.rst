@@ -91,4 +91,4 @@ Documents
 
 -----
 
-`Here you can find all information how to register a thesis at TU Berlin and on the further process <https://www.tu.berlin/en/studying/organizing-your-studies/examinations/final-theses>`_
+`Here you can find all information how to register a thesis at TU Berlin and on the further process <https://www.tu.berlin/studieren/studienorganisation/pruefungen/abschlussarbeiten>`_
