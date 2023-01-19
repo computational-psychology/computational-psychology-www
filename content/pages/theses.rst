@@ -56,34 +56,30 @@ We expect you to be in charge of your thesis project. It is YOUR thesis. To supp
 
 
 Documents and further information
+****************************************************
 
 
 `Here <https://www.tu.berlin/studieren/studienorganisation/pruefungen/abschlussarbeiten>`_ you find general information on how to register and submit a thesis at TU Berlin.
 
------
 
 The following documents serve as guidelines for writing the Expose and the Thesis.
 
 
-- `BA-thesis guidelines briefly (German) <files/theses/BA_expose.pdf>`_
+- BA-thesis guidelines briefly (German) `here <files/theses/BA_expose.pdf>`_
 
-- `BA-thesis guidelines briefly (English) <files/theses/BA_expose_EN.pdf>`_
+- BA-thesis guidelines briefly (English) `here <files/theses/BA_expose_EN.pdf>`_
 
-- `BA-thesis guidelines detailed (German) <files/theses/BA_expose_detailed_DE.pdf>`_
+- BA-thesis guidelines detailed (German) `here <files/theses/BA_expose_detailed_DE.pdf>`_
 
-- `BA-thesis guidelines detailed (English) <files/theses/BA_expose_detailed_ENG.pdf>`_
+- BA-thesis guidelines detailed (English) `here <files/theses/BA_expose_detailed_ENG.pdf>`_
 
-- `"Establishing a good relationship from the Beginning" <files/theses/establishing-a-good-relationship-from-the-beginning-2017.pdf>`_ , by Anna Lee. For Bachelor and Master's students questions 6 and 13 might be probably skipped; the survey was designed for supervision at the doctoral level.
-
-
------
-
-`List of available projects and their descriptions <projects.html>`_
+- "Establishing a good relationship from the Beginning" by Anna Lee `here <files/theses/establishing-a-good-relationship-from-the-beginning-2017.pdf>`_ . For Bachelor and Master's students questions 6 and 13 might be probably skipped; the survey was designed for supervision at the doctoral level.
 
 
------
+`List  <projects.html>`_ of available projects and their descriptions
 
-`Completed Theses here <finished_theses.html>`_
+
+Completed Theses `here <finished_theses.html>`_
 
 
 
