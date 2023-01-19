@@ -20,11 +20,10 @@ Please read the following content carefully before inquiring about a topic.
 Who can write a thesis with us and what are the prerequisites?
 ******************************************************************
 
-In general, any student with interest in visual perception and some programming skills is welcome to write a Bachelor’s or Master’s thesis in our group. However, we do require that you have attended a `Seminar taught by our department <teaching.html>`_.
+We welcome all students with an interest in visual perception and decent programming skills in python to write a Bachelor's or Master's thesis in our group. 
+To ensure the successful progressing and completion of a thesis you need to meet the following requirements:
 
-To ensure the successful completion of a thesis, we see the following requirements:
-
-- completion of a `Seminar taught by our department <teaching.html>`_, in which we introduce basic aspects of visual perception and how to develop a research project.  
+- completion of a `Seminar taught by our department <teaching.html>`_, (or equivalent proof of: basic knowledge of visual perception research, experience how to develop and pursue a research project)  
 - interest in visual perception research
 - programming skills in python or R
 - good English skills to read the relevant literature
@@ -37,20 +36,16 @@ How do you get a topic?
 ************************
 
 You can find some topics here in our website (`project descriptions <projects.html>`_) but that list is not exhaustive. 
-Since not all ideas make their way here, feel invited to also make yourself familiar with our current research areas (e.g. take a look at the current projects and recent publications) and then contact the respective researchers directly.
-
-
+Since not all ideas make their way into the list, feel free to take a look at our current research areas (e.g. current projects and recent publications) and then contact the respective researchers directly.
 
 What is the general process of writing a thesis?
 ****************************************************
 
-We have elaborated a workflow which illustrates roughly the steps during a thesis, see below.
+We have crafted a chart which illustrates the workflow and the various steps in the course of the thesis project (see below).
 
-Once you have met with one of our researchers and have found a topic that is interesting to you, we ask you to write an exposé  which motivates the research question, revises the relevant literature, proposes how to address the problem / research question and also provides a rough timeline for your thesis. We have written some `Exposé guidelines <files/theses/BA_expose.pdf>`_ to help you with it.
- 
-During the thesis project, the supervising researcher will be available to provide guidance and feedback. 
-To support the process we ask supervisor and student to fill out the survey `"Establishing a good relationship from the Beginning" <files/theses/establishing-a-good-relationship-from-the-beginning-2017.pdf>`_, and discuss it together. This survey was developed by `Anne Lee <http://www.drannelee.wordpress.com/>`_ and provides a tool to evaluate *expectations* during supervision. The  ultimate goal of using this tool is to have a fulfilling supervision experience for both parties, supervisor and student.
+The largest challenge is to find a topic that is interesting to you and to one of us. Once that topic is identified there will be a couple of meetings in which you read the relevant literature and you elaborate - guided by feedback of your supervisor - a research question and study design. This is the point when you write an exposé where you motivate your research question, review the relevant literature, pose the problem and/or propose a research question. You also provide a timeline for your thesis project. The expose will become the introduction of your thesis (see Expose guidelines).
 
+We expect you to be in charge of your thesis project. It is YOUR thesis. To support the process of taking agency for your project, you and your supervisor fill out the survey "Establishing a good relationship from the Beginning", and discuss it together.
 
 
 .. figure:: img/theses/thesis_workflow.png
@@ -61,20 +56,23 @@ To support the process we ask supervisor and student to fill out the survey `"Es
 
 
 
-
-Please also take a look at the Study and Examination Regulations (StuPo) of your program, which contain further information about duration, language, and other conditions for the successful completion of a thesis.
-
+Documents and further information
 
 
-Documents
+`Here <https://www.tu.berlin/studieren/studienorganisation/pruefungen/abschlussarbeiten>`_ you find general information on how to register and submit a thesis at TU Berlin.
 
-- `Exposé  guidelines briefly (German) <files/theses/BA_expose.pdf>`_
+-----
 
-- `Exposé  guidelines briefly (English) <files/theses/BA_expose_EN.pdf>`_
+The following documents serve as guidelines for writing the Expose and the Thesis.
 
-- `Exposé  guidelines detailed (German) <files/theses/BA_expose_detailed_DE.pdf>`_
 
-- `Exposé  guidelines detailed (English) <files/theses/BA_expose_detailed_ENG.pdf>`_
+- `BA-thesis guidelines briefly (German) <files/theses/BA_expose.pdf>`_
+
+- `BA-thesis guidelines briefly (English) <files/theses/BA_expose_EN.pdf>`_
+
+- `BA-thesis guidelines detailed (German) <files/theses/BA_expose_detailed_DE.pdf>`_
+
+- `BA-thesis guidelines detailed (English) <files/theses/BA_expose_detailed_ENG.pdf>`_
 
 - `"Establishing a good relationship from the Beginning" <files/theses/establishing-a-good-relationship-from-the-beginning-2017.pdf>`_ , by Anna Lee. For Bachelor and Master's students questions 6 and 13 might be probably skipped; the survey was designed for supervision at the doctoral level.
 
@@ -89,6 +87,4 @@ Documents
 `Completed Theses here <finished_theses.html>`_
 
 
------
 
-`Here you can find all information how to register a thesis at TU Berlin and on the further process <https://www.tu.berlin/studieren/studienorganisation/pruefungen/abschlussarbeiten>`_
