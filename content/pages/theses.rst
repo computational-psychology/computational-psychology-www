@@ -10,7 +10,6 @@ We offer **Bachelor's and Master's theses** in the area of **visual perception r
 If you are interested in inquiring, please first read the section General Information below.
 
 
-
 General Thesis Information 
 ###########################
 
@@ -31,12 +30,12 @@ To ensure the successful progressing and completion of a thesis you need to meet
 - ability to work independently
 
 
-
 How do you get a topic?
 ************************
 
-You can find some topics here in our website (`project descriptions <projects.html>`_) but that list is not exhaustive. 
+You can find some topics here in our website (`project descriptions <projects.html>`_) but that list is neither up to date nor exhaustive. 
 Since not all ideas make their way into the list, feel free to take a look at our current research areas (e.g. current projects and recent publications) and then contact the respective researchers directly.
+
 
 What is the general process of writing a thesis?
 ****************************************************
