@@ -65,13 +65,13 @@ Documents and further information
 The following documents serve as guidelines for writing the Expose and the Thesis.
 
 
-- BA-thesis guidelines briefly (German) ` here <files/theses/BA_expose.pdf>`_
+- BA-thesis guidelines briefly (German) `here <files/theses/BA_expose.pdf>`_
 
-- BA-thesis guidelines briefly (English) ` here <files/theses/BA_expose_EN.pdf>`_
+- BA-thesis guidelines briefly (English) `here <files/theses/BA_expose_EN.pdf>`_
 
-- BA-thesis guidelines detailed (German) ` here <files/theses/BA_expose_detailed_DE.pdf>`_
+- BA-thesis guidelines detailed (German) `here <files/theses/BA_expose_detailed_DE.pdf>`_
 
-- BA-thesis guidelines detailed (English) ` here <files/theses/BA_expose_detailed_ENG.pdf>`_
+- BA-thesis guidelines detailed (English) `here <files/theses/BA_expose_detailed_ENG.pdf>`_
 
 - "Establishing a good relationship from the Beginning" by Anna Lee ` here <files/theses/establishing-a-good-relationship-from-the-beginning-2017.pdf>`_ . For Bachelor and Master's students questions 6 and 13 might be probably skipped; the survey was designed for supervision at the doctoral level.
 
@@ -79,7 +79,7 @@ The following documents serve as guidelines for writing the Expose and the Thesi
 `List  <projects.html>`_ of available projects and their descriptions
 
 
-Completed Theses ` here <finished_theses.html>`_
+Completed Theses `here <finished_theses.html>`_
 
 
 
