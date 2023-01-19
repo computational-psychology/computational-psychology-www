@@ -23,7 +23,7 @@ Who can write a thesis with us and what are the prerequisites?
 We welcome all students with an interest in visual perception and decent programming skills in python to write a Bachelor's or Master's thesis in our group. 
 To ensure the successful progressing and completion of a thesis you need to meet the following requirements:
 
-- completion of a `Seminar taught by our department <teaching.html>`_, (or equivalent proof of: basic knowledge of visual perception research, experience how to develop and pursue a research project)  
+- completion of a `Seminar taught by our department <teaching.html>`_ (or equivalent proof of: basic knowledge of visual perception research, experience how to develop and pursue a research project)  
 - interest in visual perception research
 - programming skills in python or R
 - good English skills to read the relevant literature
