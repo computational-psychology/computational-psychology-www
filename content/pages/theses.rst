@@ -79,7 +79,7 @@ The following documents serve as guidelines for writing the Expose and the Thesi
 `List  <projects.html>`_ of available projects and their descriptions
 
 
-Completed Theses `here  <finished_theses.html>`_
+Completed Theses `find here <finished_theses.html>`_
 
 
 
