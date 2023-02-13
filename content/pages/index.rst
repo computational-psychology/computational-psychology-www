@@ -50,6 +50,16 @@ News
 
 
 
+Student Symposium in January 2023
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are happy to finish the winter semester with our BA student symposium! Our BA candidates `Savas <files/Presentation_Savas_Grossmann.pdf>`_ , Sam , Marius, Marc and Filipe presented their diverse set of research questions and we were happy to see their progress.
+
+
+----
+
+
+
 New group members: Filipe Borges, Sam Chamani, Savas Großmann, Marius Krause, Karol Rogoza and Marc Tukendorf
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
