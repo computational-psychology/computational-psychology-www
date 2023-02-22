@@ -60,7 +60,7 @@ Documents and further information
 
 
 `Here <https://www.tu.berlin/studieren/studienorganisation/pruefungen/abschlussarbeiten>`_ you find general information on how to register and submit a thesis at TU Berlin.
-And here you can find the `form for submitting the thesis in digital form only <files/Digitale_Abschlussarbeit.pdf>`_ . Please make sure that both examiners agree to this beforehand.
+
 
 The following documents serve as guidelines for writing the Expose and the Thesis.
 
@@ -74,6 +74,9 @@ The following documents serve as guidelines for writing the Expose and the Thesi
 - `BA-thesis guidelines detailed (English) <files/theses/BA_expose_detailed_ENG.pdf>`_
 
 - `"Establishing a good relationship from the Beginning" <files/theses/establishing-a-good-relationship-from-the-beginning-2017.pdf>`_ by Anna Lee. For Bachelor and Master's students questions 6 and 13 might be probably skipped; the survey was designed for supervision at the doctoral level.
+
+
+`Form for submitting the thesis in digital form only <files/Digitale_Abschlussarbeit.pdf>`_ . Please make sure that both examiners agree to this beforehand.
 
 
 `List  <projects.html>`_ of available projects and their descriptions
