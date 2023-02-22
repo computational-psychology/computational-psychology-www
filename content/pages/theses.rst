@@ -60,7 +60,7 @@ Documents and further information
 
 
 `Here <https://www.tu.berlin/studieren/studienorganisation/pruefungen/abschlussarbeiten>`_ you find general information on how to register and submit a thesis at TU Berlin.
-And here you can find the `form <files/Digitale_Abschlussarbeit.pdf>`_for submitting the bachelor thesis in digital form only.
+And here you can find the `form for submitting the bachelor thesis in digital form only <files/Digitale_Abschlussarbeit.pdf>`_ .
 
 The following documents serve as guidelines for writing the Expose and the Thesis.
 
