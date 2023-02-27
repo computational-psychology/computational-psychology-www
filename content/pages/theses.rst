@@ -84,6 +84,8 @@ The following documents serve as guidelines for writing the Expose and the Thesi
 
 Completed Theses `find here <finished_theses.html>`_
 
+- `BA-thesis Anas Allaham <files/theses/thesis_allaham.pdf>`_
+
 - `BA-thesis Marcus Bindermann <files/theses/thesis_bindermann.pdf>`_
 
-
+- `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
