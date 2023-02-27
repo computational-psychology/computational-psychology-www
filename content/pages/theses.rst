@@ -84,5 +84,6 @@ The following documents serve as guidelines for writing the Expose and the Thesi
 
 Completed Theses `find here <finished_theses.html>`_
 
+- `BA-thesis Marcus Bindermann <files/theses/thesis_bindermann.pdf>`_
 
 
