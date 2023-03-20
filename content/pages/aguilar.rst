@@ -70,11 +70,13 @@ Education
 Research Projects
 -------------------
 
+`Evaluation of experimental techniques to measure appearance, e.g. scaling methods <research.html#methods>`_
+
+
 `Experimental characterization of lightness constancy <research.html#lightness>`_
 
-`Evaluation of experimental techniques to measure appearance <research.html#methods>`_
 
 
-`Publications <publications.html>`_
-------------------------------------
+`Publications <https://scholar.google.com/citations?user=ywd5VogAAAAJ>`_
+---------------------------------------------------------------------------
 
