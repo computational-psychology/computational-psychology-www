@@ -52,7 +52,9 @@ Lehre im Sommersemester 2023
         <tr>
             <td>10:00- 12:00</td>
             <td></td>
-            <td>Aktuelle Themen in Visueller Wahrnehmung (Seminar) Gruppe 1</td>
+            <td>Aktuelle Themen in Visueller Wahrnehmung (Seminar) Gruppe 1
+            <br> 
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=32673">ISIS</a></td>
             <td></td>
             <td></td>
             <td></td>
@@ -68,8 +70,12 @@ Lehre im Sommersemester 2023
         <tr>
             <td>14:00- 16:00</td>
             <td></td>
-            <td>Aktuelle Themen in Visueller Wahrnehmung (Seminar) Gruppe 2</td>
-            <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)</td>
+            <td>Aktuelle Themen in Visueller Wahrnehmung (Seminar) Gruppe 2
+            <br> 
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=32673">ISIS</a></td>
+            <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)
+            <br> 
+            &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=32677">ISIS</a></td>
             <td></td>
             <td></td>
         </tr>
