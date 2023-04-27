@@ -1,4 +1,4 @@
-Jarl-Sebastian Soerensen
+Jarl-Sebastian Sorensen
 ***************************
 
 
@@ -19,7 +19,7 @@ Jarl-Sebastian Soerensen
       .. figure:: img/js_500.png
 		 :width: 235px
 		 :align: right
-		 :alt: Jarl-Sebastian Soerensen
+		 :alt: Jarl-Sebastian Sorensen
 
 
 

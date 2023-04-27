@@ -48,6 +48,14 @@ at the Technische Universität Berlin
 News
 ------
 
+New group members: Hafidz Arifin, Ji Hyea Park and Jarl-Sebastian Sorensen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are very happy to welcome our new group members `Hafidz Arifin <https://www.psyco.tu-berlin.de/arifin.html>`_ , `Ji Hyea Park <https://www.psyco.tu-berlin.de/park.html>`_ and `Jarl-Sebastian Sorensen <https://www.psyco.tu-berlin.de/soerensen.html>`_  to our group. 
+In his Bachelor thesis, Hafidz focuses on two different methods to study human brightness perception - method of adjustment and brightness ratings. Ji Hyea studies the difference in magnitude of lightness constancy, between real and virtual stimulus in her Bachelor thesis and Jarl workes with us as a Student research assistant. He studies the influence of noise on human edge perception in natural images.
+
+
+----
 
 
 Student Symposium in January 2023
