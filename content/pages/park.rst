@@ -11,7 +11,7 @@ Ji Hyea Park
 
    .. container:: leftside
 
-      - Email: 
+      - Email: jihyea.park@mail.tu-berlin.de
       
 
    .. container:: rightside
