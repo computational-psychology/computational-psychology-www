@@ -51,7 +51,7 @@ News
 New group members: Hafidz Arifin, Ji Hyea Park, Lisa Scheibner, Jarl-Sebastian Sorensen and Jan Zabel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group members `Hafidz Arifin <https://www.psyco.tu-berlin.de/arifin.html>`_ , `Ji Hyea Park <https://www.psyco.tu-berlin.de/park.html>`_ , `Lisa Scheibner <https://www.psyco.tu-berlin.de/scheibner.html>`_ , `Jarl-Sebastian Sorensen <https://www.psyco.tu-berlin.de/soerensen.html>`_ and  `Jan Zabel <https://www.psyco.tu-berlin.de/zabel.html>`_to our group. 
+We are very happy to welcome our new group members `Hafidz Arifin <https://www.psyco.tu-berlin.de/arifin.html>`_ , `Ji Hyea Park <https://www.psyco.tu-berlin.de/park.html>`_ , `Lisa Scheibner <https://www.psyco.tu-berlin.de/scheibner.html>`_ , `Jarl-Sebastian Sorensen <https://www.psyco.tu-berlin.de/soerensen.html>`_ and  `Jan Zabel <https://www.psyco.tu-berlin.de/zabel.html>`_ to our group. 
 In his Bachelor thesis, Hafidz focuses on two different methods to study human brightness perception - method of adjustment and brightness ratings. Ji Hyea studies the difference between real and computer-generated stimuli in the domain of lightness perception in her Bachelor thesis. In her Bachelor thesis, Lisa studies what perceptual scales for simultaneous brightness contrast look like and how to compare them with those of White's effect. Jarl workes with us as a Student research assistant. He studies the influence of noise on human edge perception in natural images and Jan studies how to optimize data acquisition for scaling methods, in particular for MLCM in his Bachelor thesis.
 
 
