@@ -89,3 +89,17 @@ Completed Theses `find here <finished_theses.html>`_
 - `BA-thesis Marcus Bindermann <files/theses/thesis_bindermann.pdf>`_
 
 - `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
+
+- `BA-thesis Eduardo Luiz Rhein <files/theses/thesis_rhein.pdf>`_
+
+- `BA-thesis Annalena Katharina Schillen <files/theses/thesis_schillen.pdf>`_
+
+- `BA-thesis Hendrik Schulze Bröring <files/theses/thesis_schulze_broering.pdf>`_
+
+- `BA-thesis Enis Can Simsek <files/theses/thesis_simsek.pdf>`_
+
+- `BA-thesis Jarl-Sebastian Soerensen <files/theses/thesis_soerensen.pdf>`_
+
+- `BA-thesis Wenwen Zhang <files/theses/thesis_zhang.pdf>`_
+
+- `BA-thesis Matti Zinke <files/theses/thesis_zinke.pdf>`_
