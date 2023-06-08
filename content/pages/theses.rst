@@ -90,6 +90,10 @@ Completed Theses `find here <finished_theses.html>`_
 
 - `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
 
+- `BA-thesis Burak Kiran <files/theses/thesis_kiran.pdf>`_
+
+- `BA-thesis Iris Özkaya <files/theses/thesis_oezkaya.pdf>`_
+
 - `BA-thesis Eduardo Luiz Rhein <files/theses/thesis_rhein.pdf>`_
 
 - `BA-thesis Annalena Katharina Schillen <files/theses/thesis_schillen.pdf>`_
