@@ -82,11 +82,13 @@ The following documents serve as guidelines for writing the Expose and the Thesi
 `List  <projects.html>`_ of available projects and their descriptions
 
 
-Completed Theses `find here <finished_theses.html>`_
+You can find completed theses here:
 
 - `BA-thesis Anas Allaham <files/theses/thesis_allaham.pdf>`_
 
 - `BA-thesis Marcus Bindermann <files/theses/thesis_bindermann.pdf>`_
+
+- `BA-thesis Carolin Brunn <files/theses/CBrunn_Bachelorthesis_2020.pdf>`_
 
 - `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
 
