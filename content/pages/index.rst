@@ -48,6 +48,18 @@ at the Technische Universität Berlin
 News
 ------
 
+
+
+Student Symposium in June 2023
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are happy to have our BA student symposium during summer semester! Our BA candidates `Ji <files/Presentation_Ji_Park.pdf>`_ , Hafidz, Felix, Lisa and Jan presented their diverse set of research questions and we were happy to see their progress.
+
+
+----
+
+
+
 Annual meeting of the Vision Science Society 2023
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
