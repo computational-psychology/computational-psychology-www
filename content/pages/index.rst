@@ -48,6 +48,29 @@ at the Technische Universität Berlin
 News
 ------
 
+Annual meeting of the Vision Science Society 2023
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. figure:: img/2023_VSS_Team.png
+   :figwidth: 600
+   :align: center
+   :alt: 2023_VSS_Team
+
+
+.. figure:: img/2023_VSS_Lynn.png
+   :figwidth: 600
+   :align: center
+   :alt: 2023_VSS_Lynn
+
+
+`Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ , `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ , `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ and `Joris <https://www.psyco.tu-berlin.de/vincent.html>`_  have attended the VSS annual meeting 2023!! 
+
+
+
+----
+
+
+
 New group members: Hafidz Arifin, Felix Dexel, Ji Hyea Park, Lisa Scheibner, Jarl-Sebastian Sorensen and Jan Zabel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
