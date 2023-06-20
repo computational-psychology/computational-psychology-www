@@ -53,7 +53,7 @@ News
 Student Symposium in June 2023
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are happy that we had our BA student symposium in the middle of the summer semester! Our BA candidates `Ji <files/Presentation_Ji_Park.pdf>`_ , `Hafidz <files/Presentation_Hafidz_Arifin.pdf>`_ , `Felix <files/Presentation_Felix_Dexel.pdf>`Felix, `Lisa <files/Presentation_Lisa_Scheibner.pdf>`_ and `Jan <files/Presentation_Jan_Zabel.pdf>`_ presented their diverse set of research questions and we were happy to see their progress.
+We are happy that we had our BA student symposium in the middle of the summer semester! Our BA candidates `Ji <files/Presentation_Ji_Park.pdf>`_ , `Hafidz <files/Presentation_Hafidz_Arifin.pdf>`_ , `Felix <files/Presentation_Felix_Dexel.pdf>`_ , `Lisa <files/Presentation_Lisa_Scheibner.pdf>`_ and `Jan <files/Presentation_Jan_Zabel.pdf>`_ presented their diverse set of research questions and we were happy to see their progress.
 
 
 ----
