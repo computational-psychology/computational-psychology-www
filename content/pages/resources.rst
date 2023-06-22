@@ -5,11 +5,13 @@ Resources
 :url: resources.html
 
 
-We believe in reproducible science. We strive to make publicly available the (software)
-tools that we have developed during our research.
+We believe in reproducible science. We strive to make the (software) 
+tools that we develop in our research publicly available. 
 Below you can find a list of our main projects, `all available in Github. <https://github.com/computational-psychology/>`_
-You are welcome to contribute via the same platform, by opening a pull request 
-or raising an issue. If you find a bug, please let us know!
+You are welcome to contribute via the same platform, by opening a 
+pull request or raising an issue. If you find a bug, please let us know! 
+(either via github or `e-mail <https://www.psyco.tu-berlin.de/people.html>`_.).
+
 
 In the `Publications page <https://www.psyco.tu-berlin.de/publications.html>`_ you also find 
 code and data related to specific publications (those are not listed here below).
