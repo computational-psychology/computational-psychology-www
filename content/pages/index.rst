@@ -63,19 +63,23 @@ We are happy that we had our BA student symposium in the middle of the summer se
 Annual meeting of the Vision Science Society 2023
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
+We proudly presented `stimupy <https://github.com/computational-psychology/stimupy>`_ - a Python package for creating stimuli in vision science. If you want to know more about it, check `our paper <https://joss.theoj.org/papers/10.21105/joss.05321>`_ .
+
+
 .. figure:: img/2023_VSS_Team.png
    :figwidth: 600
    :align: center
    :alt: 2023_VSS_Team
 
 
+`Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ , `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ , `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ and `Joris <https://www.psyco.tu-berlin.de/vincent.html>`_  presented our work at MODVIS and VSS 2023!! 
+
+
 .. figure:: img/2023_VSS_Lynn.png
    :figwidth: 600
    :align: center
    :alt: 2023_VSS_Lynn
-
-
-`Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ , `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ , `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ and `Joris <https://www.psyco.tu-berlin.de/vincent.html>`_  have attended the VSS annual meeting 2023!! 
 
 
 
