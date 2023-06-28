@@ -73,13 +73,23 @@ We proudly presented `stimupy <https://github.com/computational-psychology/stimu
    :alt: 2023_VSS_Team
 
 
-`Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ , `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ , `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ and `Joris <https://www.psyco.tu-berlin.de/vincent.html>`_  presented our work at MODVIS and VSS 2023!! 
-
 
 .. figure:: img/2023_VSS_Lynn.png
    :figwidth: 600
    :align: center
    :alt: 2023_VSS_Lynn
+
+
+
+`Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ , `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ , `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ and `Joris <https://www.psyco.tu-berlin.de/vincent.html>`_  presented our work at MODVIS and VSS 2023!! 
+
+- `Lynn & Marianne: Extracting Edges in Space and Time During Visual Fixations <files/posters_VSS_MODVIS2023/maertens_schmittwilken_modvis2023_abstract.pdf>`_
+
+- `Joris & Marianne: Separate normalization of ON / OFF channels is not enough to account for perceived brightness <files/posters_VSS_MODVIS2023/Vincent_Maertens_VSS2023.pdf>`_
+
+- `Guillermo, Jakob & Marianne: Optimizing data acquisition for MLDS: when is it valid to take a short-cut? <files/posters_VSS_MODVIS2023/Aguilar_Gruenwald_Maertens_VSS2023.pdf>`_
+
+- `Lynn, Felix & Marianne: Is edge sensitivity more than contrast sensitivity? <files/posters_VSS_MODVIS2023/schmittwilken_wichmann_maertens_VSS2023.pdf>`_
 
 
 
