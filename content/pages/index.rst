@@ -50,6 +50,27 @@ News
 
 
 
+
+Teaching at the 1st Advanced Scientific Programming in Python – Latin America 2023
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+.. figure:: img/Guillermo_Aguilar_Teaching_Mexico.jpg
+   :figwidth: 600
+   :align: center
+   :alt: 2023_Guillermo_Aguilar_Teaching_Mexico
+
+
+
+`Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ participated as tutor in the 1ˢᵗ Advanced Scientific Programming in Python - Latin America 2023 Summer School, in Mexico City. The school taught a selection of advanced programming techniques and best practices to scientists who do not have formal training in programming. Specifically, he lectured on best practices of data visualization and advanced numpy. You can find more information in the `school's website here <https://latam.aspp.school/>`_ . And here you can find `a written news article about the school (in Spanish) <https://www.sectei.cdmx.gob.mx/comunicacion/nota/cerro-con-exito-la-primera-escuela-de-verano-de-programacion-cientifica-avanzada>`_ .
+
+
+
+----
+
+
+
 Student Symposium in June 2023
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
