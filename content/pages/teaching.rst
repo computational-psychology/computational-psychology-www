@@ -54,7 +54,7 @@ Lehre im Wintersemester 2023/2024
             <td></td>
             <td></td>
             <td>Informatik Propädeutikum (Vorlesung)</td>
-            <td><td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)</td>
+            <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)</td>
             <td></td>
             
         </tr>
@@ -64,10 +64,10 @@ Lehre im Wintersemester 2023/2024
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>14:00- 16:00</td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
