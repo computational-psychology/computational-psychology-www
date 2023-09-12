@@ -5,33 +5,33 @@ Computational Psychology
 :url: index.html
 
 
-at the Technische Universität Berlin
+at Technische Universität Berlin
 ------------------------------------
 
 .. container:: twocol
 
    .. container:: leftside
 
-      We study visual perception in humans, both experimentally and 
-      through computational modeling. We focus on the question how
-      meaningful perceptual categories arise from a given sensory 
-      stimulation. In vision the sensory stimulation is the information 
-      available in the light signal incident at the eye. 
-      We tackle this problem with psychophysical experiments 
-      and measure for example how surface appearance is related to 
-      physical surface properties under varying viewing conditions. 
-      We formulate computational models to account for the 
-      perceptual judgments observers make. 
-      In addition, we revise and develop experimental techniques 
-      that we can use to reliably assess observers' perceptions. 
+      We study human visual perception using both experiments and 
+      computational modeling. We, humans, explore the visual world with 
+      our eyes and visual impressions constitute large parts of our 
+      perceptual experience.
+      We still do not understand how perceptual experiences arise from
+      a given sensory stimulation and maybe we never will.
+      Nonetheless we study visual perception with psychophysical experiments. 
+      For example, we ask observers whether they perceive depth in images 
+      like the one shown on the right. We formulate computational models 
+      to account for the perceptual judgments observers make. 
+      We also revise and develop experimental techniques to probe observers' 
+      perceptual experiences. 
 
 
    .. container:: rightside
 
-      .. figure:: img/metzger_e.png
+      .. figure:: img/bridget_riley_disfigured.png
 		 :width: 170px
 		 :align: center
-		 :alt: Metzger E
+		 :alt: Bridget Riley "Disfigured"
 
 
 
