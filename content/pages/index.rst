@@ -54,15 +54,14 @@ Teaching at the Summer School 15th Advanced Scientific Programming in Python 202
 
 
 .. figure:: img/ASPP_Heraklion.png
-   :figwidth: 500
+   :figwidth: 600
    :align: center
    :alt: Image of Summer school ASPP 2023 at Heraklion
 
 
 
-`Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ taught this August in the Summer School `15th Advanced Scientific Programming in Python <https://aspp.school/wiki/>`_, in Heraklion, Greece. 
+`Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ taught this August in the Summer School `15th Advanced Scientific Programming in Python (ASPP) <https://aspp.school/wiki/>`_, in Heraklion, Greece. 
 He lectured on the `art and best practices of data visualization <https://github.com/ASPP/2023-heraklion-dataviz>`_, and on `advanced numpy <https://github.com/ASPP/2023-heraklion-advanced-numpy>`_, the most used library for scientific computing in python. The school was a success, hosting 30 students around Europe from diverse scientific disciplines.
-
 
 
 
@@ -78,7 +77,7 @@ Teaching at the 1st Advanced Scientific Programming in Python – Latin America 
 
 
 
-`Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ participated as tutor in the 1ˢᵗ Advanced Scientific Programming in Python - Latin America 2023 Summer School, in Mexico City. The school taught a selection of advanced programming techniques and best practices to scientists who do not have formal training in programming. Specifically, he lectured on best practices of data visualization and advanced numpy. You can find more information in the `school's website here <https://latam.aspp.school/>`_ . And here you can find `a written news article about the school (in Spanish) <https://www.sectei.cdmx.gob.mx/comunicacion/nota/cerro-con-exito-la-primera-escuela-de-verano-de-programacion-cientifica-avanzada>`_ .
+`Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ participated as tutor in the 1ˢᵗ Advanced Scientific Programming in Python (ASPP) - Latin America 2023, in Mexico City. The school taught a selection of advanced programming techniques and best practices to scientists who do not have formal training in programming. Specifically, he lectured on best practices of data visualization and advanced numpy. You can find more information in the `school's website here <https://latam.aspp.school/>`_ . And here you can find `a written news article about the school (in Spanish) <https://www.sectei.cdmx.gob.mx/comunicacion/nota/cerro-con-exito-la-primera-escuela-de-verano-de-programacion-cientifica-avanzada>`_ .
 
 
 
