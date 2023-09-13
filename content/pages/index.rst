@@ -29,9 +29,9 @@ at Technische Universität Berlin
    .. container:: rightside
 
       .. figure:: img/bridget_riley_disfigured.png
-		 :width: 170px
-		 :align: center
-		 :alt: Bridget Riley "Disfigured"
+           :width: 170px
+           :align: center
+           :alt: Bridget Riley "Disfigured"
 
 
 
@@ -47,6 +47,21 @@ at Technische Universität Berlin
 
 News
 ------
+
+
+Teaching at the Summer School 15th Advanced Scientific Programming in Python 2023
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. figure:: img/ASPP_Heraklion.png
+   :figwidth: 500
+   :align: center
+   :alt: Image of Summer school ASPP 2023 at Heraklion
+
+
+
+`Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ taught this August in the Summer School `15th Advanced Scientific Programming in Python <https://aspp.school/wiki/>`_, in Heraklion, Greece. 
+He lectured on the `art and best practices of data visualization <https://github.com/ASPP/2023-heraklion-dataviz>`_, and on `advanced numpy <https://github.com/ASPP/2023-heraklion-advanced-numpy>`_, the most used library for scientific computing in python. The school was a success, hosting 30 students around Europe from diverse scientific disciplines.
 
 
 
