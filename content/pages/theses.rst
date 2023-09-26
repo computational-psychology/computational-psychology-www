@@ -106,6 +106,8 @@ You can find completed theses here:
 
 - `BA-thesis Jarl-Sebastian Soerensen <files/theses/thesis_soerensen.pdf>`_
 
+- `BA-thesis Marc Tukendorf <files/theses/thesis_tukendorf.pdf>`_
+
 - `BA-thesis Wenwen Zhang <files/theses/thesis_zhang.pdf>`_
 
 - `BA-thesis Matti Zinke <files/theses/thesis_zinke.pdf>`_
