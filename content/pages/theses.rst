@@ -90,6 +90,8 @@ You can find completed theses here:
 
 - `BA-thesis Carolin Brunn <files/theses/CBrunn_Bachelorthesis_2020.pdf>`_
 
+- `BA-thesis Savas Großmann <files/theses/thesis_grossmann.pdf>`_
+
 - `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
 
 - `BA-thesis Burak Kiran <files/theses/thesis_kiran.pdf>`_
