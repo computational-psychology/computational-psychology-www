@@ -3,12 +3,15 @@ Publications
 :save_as: publications.html
 :url: publications.html
 
+
+**Schmittwilken, L**., **Maertens, M**. and **Vincent J.** (2023). stimupy: A Python package for creating stimuli in vision science. Journal of Open Source Software, 8(86), 5321, `doi:10.21105/joss.05321 <https://doi.org/10.21105/joss.05321>`_.
+
+
 **Schmittwilken, L**. and **Maertens, M**. (2022).
 Fixational eye movements enable robust edge detection. *Journal of Vision* 22, `doi:10.1167/jov.22.8.5 <https://doi.org/10.1167/jov.22.8.5>`_.
 
 
-
-**Aguilar, G**. and **Maertens, M**. (2022).Conjoint measurement of perceived transparency and perceived contrast in variegated checkerboards. *Journal of Vision* 22, `doi:10.1167/jov.22.2.2 <https://doi.org/10.1167/jov.22.2.2>`_.
+**Aguilar, G**. and **Maertens, M**. (2022). Conjoint measurement of perceived transparency and perceived contrast in variegated checkerboards. *Journal of Vision* 22, `doi:10.1167/jov.22.2.2 <https://doi.org/10.1167/jov.22.2.2>`_.
 
 
 **Aguilar, G**. and **Maertens, M**. (2020). Toward reliable measurements of perceptual scales in multiple contexts. *Journal of Vision*, 20, `doi:10.1167/jov.20.4.19 <https://doi.org/10.1167/jov.20.4.19>`_.
