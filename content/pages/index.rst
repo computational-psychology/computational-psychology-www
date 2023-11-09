@@ -52,7 +52,7 @@ New group member: Navdha Jain
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We are very happy to welcome our new group member `Navdha Jain <https://www.psyco.tu-berlin.de/jain.html>`_ to our group. 
-In her Bachelor thesis, Navdha studies measuring the perceptual scales of brightness assimilation effect. 
+In her Bachelor thesis, Navdha focuses on measuring the perceptual scales in brightness assimilation effect.
 
 
 
