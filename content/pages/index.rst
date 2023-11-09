@@ -48,6 +48,17 @@ at Technische Universität Berlin
 News
 ------
 
+New group member: Navdha Jain
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are very happy to welcome our new group member `Navdha Jain <https://www.psyco.tu-berlin.de/jain.html>`_ to our group. 
+In her Bachelor thesis, Navdha studies measuring the perceptual scales of brightness assimilation effect. 
+
+
+
+----
+
+
 
 Teaching at the Summer School 15th Advanced Scientific Programming in Python 2023
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,6 +73,10 @@ Teaching at the Summer School 15th Advanced Scientific Programming in Python 202
 
 `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ taught this August in the Summer School `15th Advanced Scientific Programming in Python (ASPP) <https://aspp.school/wiki/>`_, in Heraklion, Greece. 
 He lectured on the `best practices of data visualization <https://github.com/ASPP/2023-heraklion-dataviz>`_, and on `advanced numpy <https://github.com/ASPP/2023-heraklion-advanced-numpy>`_, the most used library for scientific computing in python. The school was a success, hosting 30 students around Europe from diverse scientific disciplines.
+
+
+
+----
 
 
 
