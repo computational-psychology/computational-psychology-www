@@ -48,11 +48,12 @@ at Technische Universität Berlin
 News
 ------
 
-New group member: Navdha Jain
+New group members: Navdha Jain and Clara Ollech
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group member `Navdha Jain <https://www.psyco.tu-berlin.de/jain.html>`_ to our group. 
-In her Bachelor thesis, Navdha focuses on measuring the perceptual scales in brightness assimilation effect.
+We are very happy to welcome our new group members `Navdha Jain <https://www.psyco.tu-berlin.de/jain.html>`_ and `Clara Ollech <https://www.psyco.tu-berlin.de/ollech.html>`_ to our group. 
+In her Bachelor thesis, Navdha focuses on measuring the perceptual scales in brightness assimilation effect. Clara studies how different parameters in stimuli influence the performance of computational models and where exactly these models differ in her Bachelor thesis.
+
 
 
 
