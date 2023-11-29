@@ -48,12 +48,11 @@ at Technische Universität Berlin
 News
 ------
 
-New group members: Navdha Jain and Clara Ollech
+New group members: Navdha Jain, Clara Ollech and Tim Schlesier
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group members `Navdha Jain <https://www.psyco.tu-berlin.de/jain.html>`_ and `Clara Ollech <https://www.psyco.tu-berlin.de/ollech.html>`_ to our group. 
-In her Bachelor thesis, Navdha focuses on measuring the perceptual scales in brightness assimilation effect. Clara studies how different parameters in stimuli influence the performance of computational models and where exactly these models differ in her Bachelor thesis.
-
+We are very happy to welcome our new group members `Navdha Jain <https://www.psyco.tu-berlin.de/jain.html>`_ , `Clara Ollech <https://www.psyco.tu-berlin.de/ollech.html>`_ and `Tim Schlesier <https://www.psyco.tu-berlin.de/schlesier.html>`_ to our group. 
+In her Bachelor thesis, Navdha focuses on measuring the perceptual scales in brightness assimilation effect. Clara studies how different parameters in stimuli influence the performance of computational models and where exactly these models differ in her Bachelor thesis. In his Bachelor thesis, building on an earlier Bachelor thesis by Savas Großmann, Tim studies whether visual perception is more sensitive to edges or differences in brightness.
 
 
 
