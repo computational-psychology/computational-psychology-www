@@ -90,11 +90,15 @@ You can find completed theses here:
 
 - `BA-thesis Carolin Brunn <files/theses/CBrunn_Bachelorthesis_2020.pdf>`_
 
+- `BA-thesis Sam Chamani <files/theses/thesis_chamani.pdf>`_
+
 - `BA-thesis Savas Großmann <files/theses/thesis_grossmann.pdf>`_
 
 - `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
 
 - `BA-thesis Burak Kiran <files/theses/thesis_kiran.pdf>`_
+
+- `BA-thesis Marius Krause <files/theses/thesis_krause.pdf>`_
 
 - `BA-thesis Iris Özkaya <files/theses/thesis_oezkaya.pdf>`_
 
