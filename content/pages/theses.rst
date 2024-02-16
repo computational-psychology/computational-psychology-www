@@ -86,6 +86,8 @@ You can find completed theses here:
 
 - `BA-thesis Anas Allaham <files/theses/thesis_allaham.pdf>`_
 
+- `BA-thesis Hafidz Arifin <files/theses/thesis_arifin.pdf>`_
+
 - `BA-thesis Marcus Bindermann <files/theses/thesis_bindermann.pdf>`_
 
 - `BA-thesis Carolin Brunn <files/theses/CBrunn_Bachelorthesis_2020.pdf>`_
@@ -104,6 +106,10 @@ You can find completed theses here:
 
 - `BA-thesis Eduardo Luiz Rhein <files/theses/thesis_rhein.pdf>`_
 
+- `BA-thesis Karol Rogoza <files/theses/thesis_rogoza.pdf>`_
+
+- `BA-thesis Lisa Scheibner <files/theses/thesis_scheibner.pdf>`_
+
 - `BA-thesis Annalena Katharina Schillen <files/theses/thesis_schillen.pdf>`_
 
 - `BA-thesis Hendrik Schulze Bröring <files/theses/thesis_schulze_broering.pdf>`_
@@ -113,6 +119,8 @@ You can find completed theses here:
 - `BA-thesis Jarl-Sebastian Soerensen <files/theses/thesis_soerensen.pdf>`_
 
 - `BA-thesis Marc Tukendorf <files/theses/thesis_tukendorf.pdf>`_
+
+- `BA-thesis Jan Zabel <files/theses/thesis_zabel.pdf>`_
 
 - `BA-thesis Wenwen Zhang <files/theses/thesis_zhang.pdf>`_
 
