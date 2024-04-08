@@ -53,7 +53,7 @@ Lehre im Sommersemester 2024
     <td class="tg-031e"></td>
     <td class="tg-031e"></td>
     <td class="tg-031e" rowspan="2">Programming Project: Data Science in Python and R - 1 (Praktikum)</td>
-    <td class="tg-031e" rowspan="2">10:00 - 12:00 Aktuelle Forschung zu Visueller Wahrnehmung - I (Seminar) Gruppe 1<br>---<br>10:00 - 14:00 Programming Project: Data Science in Pythons and R - 2 (Praktikum)</td>
+    <td class="tg-031e" rowspan="2">10:00 - 12:00 Aktuelle Forschung zu Visueller Wahrnehmung - I (Seminar) Gruppe 1<br>---<br>10:00 - 14:00 Programming Project: Data Science in Python and R - 2 (Praktikum)</td>
     <td class="tg-031e"></td>
   </tr>
   <tr>
