@@ -25,6 +25,72 @@ Teaching
 
 
 
+Lehre im Sommersemester 2024
+---------------------------------
+
+
+.. raw:: html 
+
+    <table border="1">
+        <tr>
+            <th></th>
+            <th>Montag</th>
+            <th>Dienstag</th>
+            <th>Mittwoch</th>
+            <th>Donnerstag</th>
+            <th>Freitag</th>
+        </tr>
+        <tr>
+            <td>8:00- 10:00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:00- 12:00</td>
+            <td></td>
+            <td></td>
+            <td rowspan="2">Programming Project: Data Science in Python and R - 1 (Praktikum)</td>
+            <td rowspan="2">10:00 - 14:00 Programming Project: Data Science in Python and R - 2 (Praktikum)
+			    10:00 - 12:00 Aktuelle Forschung zu Visueller Wahrnehmung - I (Seminar) Gruppe 1</td>            
+            <td></td>
+            
+        </tr>
+        <tr>
+            <td>12:00- 14:00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:00- 16:00</td>
+            <td></td>
+            <td>Aktuelle Forschung zu Visueller Wahrnehmung - II (Seminar)</td>
+            <td>14:30 - 15:30 Forschungskolloquium</td>
+            <td>Aktuelle Forschung zu Visueller Wahrnehmung - I (Seminar) Gruppe 2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="1">16:00- 18:00</td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+            <td rowspan="1"></td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+
 Lehre im Wintersemester 2023/2024
 ---------------------------------
 
