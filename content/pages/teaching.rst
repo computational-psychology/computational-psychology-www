@@ -32,53 +32,52 @@ Lehre im Sommersemester 2024
 .. raw:: html 
 
     <table border="1">
-        <tr>
-            <th></th>
-            <th>Montag</th>
-            <th>Dienstag</th>
-            <th>Mittwoch</th>
-            <th>Donnerstag</th>
-            <th>Freitag</th>
-        </tr>
-        <tr>
-            <td>8:00- 10:00</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>10:00- 12:00</td>
-            <td></td>
-            <td></td>
-            <td rowspan="2">Programming Project: Data Science in Python and R - 1 (Praktikum)</td>
-            <td rowspan="2">10:00 - 14:00 Programming Project: Data Science in Python and R - 2 (Praktikum)
-			    10:00 - 12:00 Aktuelle Forschung zu Visueller Wahrnehmung - I (Seminar) Gruppe 1</td>            
-            
-        </tr>
-        <tr>
-            <td>12:00- 14:00</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>14:00- 16:00</td>
-            <td></td>
-            <td>Aktuelle Forschung zu Visueller Wahrnehmung - II (Seminar)</td>
-            <td>14:30 - 15:30 Forschungskolloquium</td>
-            <td>Aktuelle Forschung zu Visueller Wahrnehmung - I (Seminar) Gruppe 2</td>
-        </tr>
-        <tr>
-            <td rowspan="1">16:00- 18:00</td>
-            <td rowspan="1"></td>
-            <td rowspan="1"></td>
-            <td rowspan="1"></td>
-            <td rowspan="1"></td>
-            <td rowspan="1"></td>
-        </tr>
+       <tr>
+    <th class="tg-031e"></th>
+    <th class="tg-031e">Montag</th>
+    <th class="tg-031e">Dienstag</th>
+    <th class="tg-031e">Mittwoch</th>
+    <th class="tg-031e">Donnerstag</th>
+    <th class="tg-031e">Freitag</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">08:00 - 10:00</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">10:00 - 12:00</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e" rowspan="2">Programming Project: Data Science in Python and R - 1 (Praktikum)</td>
+    <td class="tg-031e" rowspan="2">10:00 - 12:00 Aktuelle Forschung zu Visueller Wahrnehmung - I (Seminar) Gruppe 1<br>---<br>10:00 - 14:00 Programming Project: Data Science in Pythons and R - 2 (Praktikum)</td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">12:00 - 14:00</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">14:00 - 16:00</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Aktuelle Forschung zu Visueller Wahrnehmung - II (Seminar)</td>
+    <td class="tg-031e">14:30 - 15:30 Forschungskolloquium</td>
+    <td class="tg-031e">Aktuelle Forschung zu Visueller Wahrnehmung - I (Seminar) Gruppe 2</td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">16:00 - 18:00</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
     </table>
 
 
