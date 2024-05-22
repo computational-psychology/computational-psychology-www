@@ -48,6 +48,20 @@ at Technische Universität Berlin
 News
 ------
 
+
+
+New group member: Philip Brozicevic
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are very happy to welcome our new group member `Philip Brozicevic <https://www.psyco.tu-berlin.de/brozicevic.html>`_ to our group. 
+In his Bachelor thesis, Philip investigates to what extent contour segmentations of different observers are consistent and what role the type of noise plays in this. 
+
+
+
+----
+
+
+
 New group members: Navdha Jain, Clara Ollech and Tim Schlesier
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
