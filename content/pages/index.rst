@@ -50,11 +50,11 @@ News
 
 
 
-New group member: Philip Brozicevic
+New group members: Philip Brozicevic and Tim Henze
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group member `Philip Brozicevic <https://www.psyco.tu-berlin.de/brozicevic.html>`_ to our group. 
-In his Bachelor thesis, Philip investigates to what extent contour segmentations of different observers are consistent and what role the type of noise plays in this. 
+We are very happy to welcome our new group members `Philip Brozicevic <https://www.psyco.tu-berlin.de/brozicevic.html>`_ and `Tim Henze <https://www.psyco.tu-berlin.de/henze.html>`_ to our group. 
+In his Bachelor thesis, Philip investigates to what extent contour segmentations of different observers are consistent and what role the type of noise plays in this. Tim studies frequency manipulation in complex images and evaluate an algorithm from Marius Krause's bachelor's thesis for controlling image contrast in his Bachelor thesis.
 
 
 
