@@ -104,6 +104,8 @@ You can find completed theses here:
 
 - `BA-thesis Iris Özkaya <files/theses/thesis_oezkaya.pdf>`_
 
+- `BA-thesis Ji Hyea Park <files/theses/thesis_park.pdf>`_
+
 - `BA-thesis Eduardo Luiz Rhein <files/theses/thesis_rhein.pdf>`_
 
 - `BA-thesis Karol Rogoza <files/theses/thesis_rogoza.pdf>`_
