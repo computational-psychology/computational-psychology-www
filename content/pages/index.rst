@@ -49,7 +49,7 @@ News
 ------
 
 
-Student Symposium on June, 21, 2024 from 9am-3pm in MAR 5.013
+Student Symposium in June 2024
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Our BA-students Hannah, Tim H., Tim S., Philip, Clara, Konstantinos, Daniel, Sebastian and Azer proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, June 21, from 9am-3pm in MAR 5.013.
