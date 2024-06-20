@@ -49,6 +49,16 @@ News
 ------
 
 
+Student Symposium on June, 21, 2024 from 9am-3pm in MAR 5.013
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Our BA-students Hannah, Tim H., Tim S., Philip, Clara, Konstantinos, Daniel, Sebastian and Azer proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, June 21, from 9am-3pm in MAR 5.013.
+If you missed it you can check out the presentations under their names. 
+
+
+----
+
+
 
 New group members: Philip Brozicevic and Tim Henze
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
