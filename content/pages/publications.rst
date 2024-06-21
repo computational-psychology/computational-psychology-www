@@ -3,8 +3,9 @@ Publications
 :save_as: publications.html
 :url: publications.html
 
+**Vincent, J.**, **Maertens, M** and **Aguilar, G**. (2024). What Fechner could not do: Separating perceptual encoding and decoding with difference scaling. *Journal of Vision*, 24, `doi:10.1167/jov.24.5.5 <https://doi.org/10.1167/jov.24.5.5>`_. (`Simulation code repository <https://github.com/computational-psychology/encoding_functions_and_white_stimulus>`_)
 
-**Schmittwilken, L**., **Maertens, M**. and **Vincent J.** (2023). stimupy: A Python package for creating stimuli in vision science. Journal of Open Source Software, 8(86), 5321, `doi:10.21105/joss.05321 <https://doi.org/10.21105/joss.05321>`_.
+**Schmittwilken, L**., **Maertens, M**. and **Vincent J.** (2023). stimupy: A Python package for creating stimuli in vision science. Journal of Open Source Software, 8(86), 5321, `doi:10.21105/joss.05321 <https://doi.org/10.21105/joss.05321>`_. (`Code repository  <https://github.com/computational-psychology/stimupy>`_)
 
 
 **Schmittwilken, L**. and **Maertens, M**. (2022).
@@ -17,12 +18,12 @@ Fixational eye movements enable robust edge detection. *Journal of Vision* 22, `
 **Aguilar, G**. and **Maertens, M**. (2020). Toward reliable measurements of perceptual scales in multiple contexts. *Journal of Vision*, 20, `doi:10.1167/jov.20.4.19 <https://doi.org/10.1167/jov.20.4.19>`_.
 
 
-**Wiebel, C.**, **Aguilar, G**. and **Maertens, M**. (2017). Maximum-likelihood difference scales represent perceptual magnitudes and predict appearance matches. *Journal of Vision*, 17, `doi:10.1167/17.4.1 <https://dx.doi.org/10.1167/17.4.1>`_. --> Data and analysis code: `<https://osf.io/58jz3/>`_.
+**Wiebel, C.**, **Aguilar, G**. and **Maertens, M**. (2017). Maximum-likelihood difference scales represent perceptual magnitudes and predict appearance matches. *Journal of Vision*, 17, `doi:10.1167/17.4.1 <https://dx.doi.org/10.1167/17.4.1>`_. (Data and analysis code: `<https://osf.io/58jz3/>`_).
 
 
 **Aguilar, G.**, Wichmann, F. and **Maertens, M.** (2017). Comparing sensitivity estimates
 from MLDS and forced-choice methods in a slant-from-texture experiment. 
-*Journal of Vision*, 17, `doi:10.1167/17.1.37 <https://dx.doi.org/10.1167/17.1.37>`_. --> Data: `<https://osf.io/d6zf9/>`_.
+*Journal of Vision*, 17, `doi:10.1167/17.1.37 <https://dx.doi.org/10.1167/17.1.37>`_ (Data: `<https://osf.io/d6zf9/>`_)
 
 
 Wichmann, F., Janssen, D., Geirhos, R., **Aguilar, G.**, Schütt, H., **Maertens, M.** and Bethge, M. (2017). 
@@ -37,7 +38,7 @@ A Compact Representation of Human Single-Object Grasping.
 
 **Wiebel, C.**, Singh, M. and **Maertens, M.** (2016). 
 Testing the role of Michelson contrast for the perception of surface lightness. 
-*Journal of Vision*, 16(11), 1-19, `doi:10.1167/16.11.17 <https://dx.doi.org/10.1167/16.11.17>`_. --> Data: `https://osf.io/58jz3/`_.
+*Journal of Vision*, 16(11), 1-19, `doi:10.1167/16.11.17 <https://dx.doi.org/10.1167/16.11.17>`_. (Data: `<https://osf.io/58jz3/>`_)
 
 
 Wang, X., Lindlbauer, D., Lessig, C., **Maertens, M.** and Alexa, M. (2016). 
@@ -47,12 +48,12 @@ Measuring Visual Salience of 3D Printed Objects.
 
 **Betz, T.**, Wichmann, F.A., Shapley, R. and **Maertens, M.** (2015). 
 Noise masking of White's illusion exposes  the weakness of current spatial filtering models of lightness perception. 
-*Journal of Vision*, 15(14), 1-17. `doi:10.1167/15.14.1 <https://dx.doi.org/10.1167/15.14.1>`_. --> Data and code: `<https://github.com/computational-psychology/betz2015_noise>`_
+*Journal of Vision*, 15(14), 1-17. `doi:10.1167/15.14.1 <https://dx.doi.org/10.1167/15.14.1>`_. Data and code: (`<https://github.com/computational-psychology/betz2015_noise>`_)
 
 
 **Betz, T.**, Wichmann, F.A., Shapley, R. and **Maertens, M.** (2015). 
 Testing the role of luminance edges in White's illusion with contour adaptation. 
-*Journal of Vision*, 15(11), 1-16. `doi:10.1167/15.11.14 <https://doi.org/10.1167/15.11.14>`_. --> Data and code: `<https://github.com/computational-psychology/betz2015_contour>`_
+*Journal of Vision*, 15(11), 1-16. `doi:10.1167/15.11.14 <https://doi.org/10.1167/15.11.14>`_.  Data and code: (`<https://github.com/computational-psychology/betz2015_contour>`_)
 
 
 **Maertens, M.**, Wichmann, F.A. and Shapley, R. (2015). 
