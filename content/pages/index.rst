@@ -52,7 +52,7 @@ News
 Student Symposium in June 2024
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Our BA-students `Hannah <files/Presentation_Hannah_Boldt.pdf>`_ , Tim H., `Tim S. <files/Presentation_Tim_Schlesier.pdf>`_ , `Philip <files/Presentation_Philip_Brozicevic.pdf>`_ , Clara, Konstantinos, Daniel, `Sebastian <files/Presentation_Sebastian_Keil.pdf>`_ and `Azer <files/Presentation_Azer_Mahjoub.pdf>`_ proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, June 21, from 9am-3pm in MAR 5.013.
+Our BA-students `Hannah <files/Presentation_Hannah_Boldt.pdf>`_ , Tim H., `Tim S. <files/Presentation_Tim_Schlesier.pdf>`_ , `Philip <files/Presentation_Philip_Brozicevic.pdf>`_ , `Clara <files/Presentation_Clara_Ollech.pdf>`_ , Daniel, `Sebastian <files/Presentation_Sebastian_Keil.pdf>`_ and `Azer <files/Presentation_Azer_Mahjoub.pdf>`_ proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, June 21, from 9am-3pm in MAR 5.013.
 If you missed it you can check out the presentations under their names. 
 
 
