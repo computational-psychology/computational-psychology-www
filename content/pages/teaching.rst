@@ -26,15 +26,15 @@ Teaching
 
 
 Lehre im Wintersemester 2024/25
----------------------------------
+--------------------------------------------
 
 
 
-... raw:: html 
+.. raw:: html 
 
-  <table class="tg">
-  <tr>
-    <th class="tg-031e"></th>
+    <table border="1">
+    <tr>
+    <th></th>
     <th class="tg-031e">Montag</th>
     <th class="tg-031e">Dienstag</th>
     <th class="tg-031e">Mittwoch</th>
