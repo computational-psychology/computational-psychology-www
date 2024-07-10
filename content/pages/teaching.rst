@@ -32,8 +32,8 @@ Lehre im Wintersemester 2024/25
 
 .. raw:: html 
 
-    <table border="1">
-       <tr>
+   <table class="tg">
+  <tr>
     <th class="tg-031e"></th>
     <th class="tg-031e">Montag</th>
     <th class="tg-031e">Dienstag</th>
@@ -82,7 +82,6 @@ Lehre im Wintersemester 2024/25
   </tr>
 </table>
    
-
 
 
 
