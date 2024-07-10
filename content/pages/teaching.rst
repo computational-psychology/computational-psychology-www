@@ -32,15 +32,15 @@ Lehre im Wintersemester 2024/25
 
 ... raw:: html 
 
-    <table border="1">
-    <tr>
-    <th></th>
+  <table class="tg">
+  <tr>
+    <th class="tg-031e"></th>
     <th class="tg-031e">Montag</th>
     <th class="tg-031e">Dienstag</th>
     <th class="tg-031e">Mittwoch</th>
     <th class="tg-031e">Donnerstag</th>
     <th class="tg-031e">Freitag</th>
-  </tr>
+    </tr>
   <tr>
     <td class="tg-031e">08:00 - 10:00</td>
     <td class="tg-031e"></td>
