@@ -60,11 +60,12 @@ If you missed it you can check out the presentations under their names.
 
 
 
-New group members: Philip Brozicevic and Tim Henze
+New group members: Philip Brozicevic, Daniel Castro Sanchez and Tim Henze
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group members `Philip Brozicevic <https://www.psyco.tu-berlin.de/brozicevic.html>`_ and `Tim Henze <https://www.psyco.tu-berlin.de/henze.html>`_ to our group. 
-In his Bachelor thesis, Philip investigates to what extent contour segmentations of different observers are consistent and what role the type of noise plays in this. Tim studies frequency manipulation in complex images and evaluate an algorithm from Marius Krause's bachelor's thesis for controlling image contrast in his Bachelor thesis.
+We are very happy to welcome our new group members `Philip Brozicevic <https://www.psyco.tu-berlin.de/brozicevic.html>`_ ,
+`Daniel Castro Sanchez <https://www.psyco.tu-berlin.de/castro.html>`_  and `Tim Henze <https://www.psyco.tu-berlin.de/henze.html>`_ to our group. 
+In his Bachelor thesis, Philip investigates to what extent contour segmentations of different observers are consistent and what role the type of noise plays in this. Daniel studies the investigation of brightness contrast perception: A comparison between e- and traditional paper and monitors in his Bachelor thesis. Tim studies frequency manipulation in complex images and evaluate an algorithm from Marius Krause's bachelor's thesis for controlling image contrast in his Bachelor thesis.
 
 
 
