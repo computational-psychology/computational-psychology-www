@@ -94,7 +94,11 @@ You can find completed theses here:
 
 - `BA-thesis Sam Chamani <files/theses/thesis_chamani.pdf>`_
 
+- `BA-thesis Felix Dexel <files/theses/thesis_dexel.pdf>`_
+
 - `BA-thesis Savas Großmann <files/theses/thesis_grossmann.pdf>`_
+
+- `BA-thesis Navdha Jain <files/theses/thesis_jain.pdf>`_
 
 - `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
 
