@@ -50,10 +50,10 @@ News
 
 
 
-New group member: Sebastian Keil
+New group members: Sebastian Keil and Azer Mahjoub
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group member `Sebastian Keil <https://www.psyco.tu-berlin.de/keil.html>`_ to our group. In his Bachelor thesis Sebastian studies two models of brightness perception - ODOG and BIWaM. The focus is to identify the differences between them.
+We are very happy to welcome our new group members `Sebastian Keil <https://www.psyco.tu-berlin.de/keil.html>`_ and `Azer Mahjoub <https://www.psyco.tu-berlin.de/mahjoub.html>`_ to our group. In his Bachelor thesis, Sebastian studies two models of brightness perception - ODOG and BIWaM. The focus is to identify the differences between them. Azer studies Weather's Cinematic Influence: Analyzing the Genre Preferences in his Bachelor thesis.
 
 
 
