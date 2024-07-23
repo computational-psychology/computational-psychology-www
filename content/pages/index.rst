@@ -49,6 +49,18 @@ News
 ------
 
 
+
+New group member: Sebastian Keil
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are very happy to welcome our new group member `Sebastian Keil <https://www.psyco.tu-berlin.de/keil.html>`_ to our group. In his Bachelor thesis Sebastian studies two models of brightness perception - ODOG and BIWaM. The focus is to identify the differences between them.
+
+
+
+----
+
+
+
 Student Symposium in June 2024
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
