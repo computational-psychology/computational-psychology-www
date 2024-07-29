@@ -50,11 +50,10 @@ News
 
 
 
-New group members: Hannah Boldt, Sebastian Keil, Duc Phan Anh Le and Azer Mahjoub
+New group members: Hannah Boldt, Sebastian Keil, Duc Phan Anh Le, Azer Mahjoub and Yiran Sun
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are very happy to welcome our new group members `Hannah Boldt <https://www.psyco.tu-berlin.de/boldt.html>`_ , `Sebastian Keil <https://www.psyco.tu-berlin.de/keil.html>`_ , `Duc Phan Anh Le <https://www.psyco.tu-berlin.de/le.html>`_ and `Azer Mahjoub <https://www.psyco.tu-berlin.de/mahjoub.html>`_ to our group. In her Bachelor thesis, Hannah investigates at which point does noise masking cause a layer scission. In his Bachelor thesis, Sebastian studies two models of brightness perception - ODOG and BIWaM. The focus is to identify the differences between them. Duc investigates the noise masks’ effectivity in Großmann’s experiments on edge detection in his Bachelor thesis. Azer studies Weather's Cinematic Influence: Analyzing the Genre Preferences in his Bachelor thesis.
-
+We are very happy to welcome our new group members `Hannah Boldt <https://www.psyco.tu-berlin.de/boldt.html>`_ , `Sebastian Keil <https://www.psyco.tu-berlin.de/keil.html>`_ , `Duc Phan Anh Le <https://www.psyco.tu-berlin.de/le.html>`_ , `Azer Mahjoub <https://www.psyco.tu-berlin.de/mahjoub.html>`_ and `Yiran Sun <https://www.psyco.tu-berlin.de/sun.html>`_ to our group. In her Bachelor thesis, Hannah investigates at which point does noise masking cause a layer scission. In his Bachelor thesis, Sebastian studies two models of brightness perception - ODOG and BIWaM. The focus is to identify the differences between them. Duc investigates the noise masks’ effectivity in Großmann’s experiments on edge detection in his Bachelor thesis. Azer studies Weather's Cinematic Influence: Analyzing the Genre Preferences in his Bachelor thesis. In his Bachelor thesis, Yiran investigates edge detection in natural images under various noise masks using a spatiotemporal model.
 
 
 ----
