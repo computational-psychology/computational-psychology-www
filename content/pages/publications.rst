@@ -3,6 +3,9 @@ Publications
 :save_as: publications.html
 :url: publications.html
 
+
+**Schmittwilken, L.**, **Wichmann, F.** and **Maertens, M.**. (2024). Standard models of spatial vision mispredict edge sensitivity at low spatial frequencies. *Vision Research*, 24, `doi:10.1016/j.visres.2024.108450 <https://doi.org/10.1016/j.visres.2024.108450>`_. 
+
 **Vincent, J.**, **Maertens, M** and **Aguilar, G**. (2024). What Fechner could not do: Separating perceptual encoding and decoding with difference scaling. *Journal of Vision*, 24, `doi:10.1167/jov.24.5.5 <https://doi.org/10.1167/jov.24.5.5>`_. (`Simulation code repository <https://github.com/computational-psychology/encoding_functions_and_white_stimulus>`_)
 
 **Schmittwilken, L**., **Maertens, M**. and **Vincent J.** (2023). stimupy: A Python package for creating stimuli in vision science. Journal of Open Source Software, 8(86), 5321, `doi:10.21105/joss.05321 <https://doi.org/10.21105/joss.05321>`_. (`Code repository  <https://github.com/computational-psychology/stimupy>`_)

@@ -50,6 +50,20 @@ News
 
 
 
+Marianne’s, Felix' and Lynn’s paper "Standard models of spatial vision mispredict edge sensitivity at low spatial frequencies" has been published in Vision Research
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Here you can find `Marianne’s, Felix' and Lynn’s paper <https://www.sciencedirect.com/science/article/pii/S0042698924000944?via%3Dihub>`_ on "Standard models of spatial vision mispredict edge sensitivity at low spatial frequencies". It has been published in Vision Research, 222, 2024. You can also find it following this `doi <https://doi.org/10.1016/j.visres.2024.108450>`_ .
+
+
+
+----
+
+
+
+
 New group members: Hannah Boldt, Sebastian Keil, Duc Phan Anh Le, Azer Mahjoub and Yiran Sun
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
