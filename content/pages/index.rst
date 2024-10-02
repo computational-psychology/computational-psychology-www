@@ -50,6 +50,19 @@ News
 
 
 
+
+Joris’, Marianne's and Guillermo's paper "What Fechner could not do: Separating perceptual encoding and decoding with difference scaling" has been published in Journal of Vision
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Here you can find `Joris', Marianne's and Guillermo's paper <https://jov.arvojournals.org/article.aspx?articleid=2793650>`_ on "What Fechner could not do: Separating perceptual encoding and decoding with difference scaling". It has been published in Journal of Vision, May, 2024. You can also find it following this `doi:10.1167/jov.24.5.5 <https://doi.org/10.1167/jov.24.5.5>`_ .
+
+
+
+----
+
+
+
 Lynn’s, Felix' and Marianne's paper "Standard models of spatial vision mispredict edge sensitivity at low spatial frequencies" has been published in Vision Research
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -59,7 +72,6 @@ Here you can find `Lynn’s, Felix' and Marianne's paper <https://www.sciencedir
 
 
 ----
-
 
 
 
