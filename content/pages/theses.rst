@@ -90,6 +90,8 @@ You can find completed theses here:
 
 - `BA-thesis Marcus Bindermann <files/theses/thesis_bindermann.pdf>`_
 
+- `BA-thesis Filipe Borges <files/theses/thesis_borges.pdf>`_
+
 - `BA-thesis Carolin Brunn <files/theses/CBrunn_Bachelorthesis_2020.pdf>`_
 
 - `BA-thesis Sam Chamani <files/theses/thesis_chamani.pdf>`_
