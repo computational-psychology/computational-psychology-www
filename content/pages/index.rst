@@ -51,6 +51,18 @@ News
 
 
 
+New group member: Anna Haverkamp
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group member `Anna Haverkamp <https://www.psyco.tu-berlin.de/haverkamp.html>`_ to our group. In her Master thesis, Anna investigates whether the presumed mechanisms underlying human edge perception translate to natural images.
+
+
+
+----
+
+
+
 Joris’, Marianne's and Guillermo's paper "What Fechner could not do: Separating perceptual encoding and decoding with difference scaling" has been published in Journal of Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
