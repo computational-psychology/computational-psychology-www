@@ -1,15 +1,15 @@
-HOWTO-AFS (updated 16th June 2021)
+HOWTO-AFS (updated 13rd November 2024)
 ----------------------------------------
 ----------------------------------------
 
-Important Note first!
+Important Note!
 
-When SSH servers are offline, we can use AFS to update the website.
-In my experience (Guillermo), AFS *only works* when I'm in the office,
-connected to the Ethernet network. It might  be that from home you need 
-to use the VPN, no guarantee though.
+The access via AFS is not OBSOLETE. ZECM has shutdown it.
+So all instructions below are NOT WORKING anymore.
 
+We leave it here just for archiving purposes.
 
+**********************************************
 
 
 Requirements 
