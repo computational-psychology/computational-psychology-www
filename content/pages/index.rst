@@ -51,11 +51,11 @@ News
 
 
 
-New group member: Anna Haverkamp
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+New group members: Yury Besiakov and Anna Haverkamp
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-We are very happy to welcome our new group member `Anna Haverkamp <https://www.psyco.tu-berlin.de/haverkamp.html>`_ to our group. In her Master thesis, Anna investigates whether the presumed mechanisms underlying human edge perception translate to natural images.
+We are very happy to welcome our new group members `Yury Besiakov <https://www.psyco.tu-berlin.de/besiakov.html>`_  and `Anna Haverkamp <https://www.psyco.tu-berlin.de/haverkamp.html>`_ to our group. In his Bachelor thesis, Yury investigates Model Predictions: Parametric and stimuli category Influence on ODOG, LODOG, and FLODOG. Anna investigates whether the presumed mechanisms underlying human edge perception translate to natural images in her Master thesis.
 
 
 
