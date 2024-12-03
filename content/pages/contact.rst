@@ -7,7 +7,7 @@ Contact
 
 
 Administration/Office
-------------------
+-----------------------------
 
 | Bianca del Mestre
 | Phone: +49 (0)30 314-75771
