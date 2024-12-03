@@ -6,7 +6,7 @@ Contact
 
 
 
-Secretary/Office
+Administration/Office
 ------------------
 
 | Bianca del Mestre
