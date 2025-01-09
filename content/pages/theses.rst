@@ -100,8 +100,6 @@ You can find completed theses here:
 
 - `BA-thesis Savas Großmann <files/theses/thesis_grossmann.pdf>`_
 
-- `BA-thesis Tim Henze <files/theses/thesis_henze.pdf>`_
-
 - `BA-thesis Navdha Jain <files/theses/thesis_jain.pdf>`_
 
 - `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
