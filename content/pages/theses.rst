@@ -100,6 +100,8 @@ You can find completed theses here:
 
 - `BA-thesis Savas Großmann <files/theses/thesis_grossmann.pdf>`_
 
+- `BA-thesis Tim Henze <files/theses/thesis_henze.pdf>`_
+
 - `BA-thesis Navdha Jain <files/theses/thesis_jain.pdf>`_
 
 - `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
@@ -119,6 +121,8 @@ You can find completed theses here:
 - `BA-thesis Lisa Scheibner <files/theses/thesis_scheibner.pdf>`_
 
 - `BA-thesis Annalena Katharina Schillen <files/theses/thesis_schillen.pdf>`_
+
+- `BA-thesis Tim Schlesier <files/theses/thesis_schlesier.pdf>`_
 
 - `BA-thesis Hendrik Schulze Bröring <files/theses/thesis_schulze_broering.pdf>`_
 
