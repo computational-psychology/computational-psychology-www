@@ -51,6 +51,18 @@ News
 
 
 
+Jesus’, José's, Guillermo's, Marianne's and Felix' paper "Estimating the contribution of early and late noise in vision from psychophysical data" has been published in Journal of Vision
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Here you can find `Jesus', José's, Guillermo's, Marianne's and Felix' paper <https://https://jov.arvojournals.org/article.aspx?articleid=2802456>`_ on "Estimating the contribution of early and late noise in vision from psychophysical data". It has been published in Journal of Vision, January, 2025. You can also find it following this `doi:10.1167/jov.25.1.12 <https://doi.org/10.1167/jov.25.1.12>`_ .
+
+
+
+----
+
+
+
 New group members: Yury Besiakov and Anna Haverkamp
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
