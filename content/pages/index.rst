@@ -50,6 +50,17 @@ News
 
 
 
+New group member: Ori Toledo Cohen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group members `Ori Toledo Cohen <https://www.psyco.tu-berlin.de/toledo.html>`_ to our group. In his Bachelor thesis, Ori investigates testing a unified framework for perceived magnitude and integrated sensitivity in White’s Illusion.
+
+
+
+----
+
+
 
 Jesus’, José's, Guillermo's, Marianne's and Felix' paper "Estimating the contribution of early and late noise in vision from psychophysical data" has been published in Journal of Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
