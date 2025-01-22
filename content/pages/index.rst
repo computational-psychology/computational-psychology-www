@@ -50,11 +50,11 @@ News
 
 
 
-New group member: Ori Toledo Cohen
+New group members: Christian Haase and Ori Toledo Cohen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-We are very happy to welcome our new group members `Ori Toledo Cohen <https://www.psyco.tu-berlin.de/toledo.html>`_ to our group. In his Bachelor thesis, Ori investigates testing a unified framework for perceived magnitude and integrated sensitivity in White’s Illusion.
+We are very happy to welcome our new group members `Christian Haase <https://www.psyco.tu-berlin.de/haase.html>`_ and `Ori Toledo Cohen <https://www.psyco.tu-berlin.de/toledo.html>`_ to our group. In his Bachelor thesis, Christian is building a prototype to study modal completion under occlusion, to answer whether partially occluded objects are perceived in the same way in a real environment as in the digital experiment and Ori investigates testing a unified framework for perceived magnitude and integrated sensitivity in White’s Illusion in his Bachelor thesis.
 
 
 
