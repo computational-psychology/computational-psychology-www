@@ -3,8 +3,9 @@ Publications
 :save_as: publications.html
 :url: publications.html
 
+Malo, J., Esteve-Taboada, J.J., **Aguilar, G**, **Maertens, M.** and Wichmann, F. (2025). Estimating the contribution of early and late noise in vision from psychophysical data. *Journal of Vision*, 25, `doi:10.1167/jov.25.1.12 <https://doi.org/10.1167/jov.25.1.12>`_. 
 
-**Schmittwilken, L.**, **Wichmann, F.** and **Maertens, M.**. (2024). Standard models of spatial vision mispredict edge sensitivity at low spatial frequencies. *Vision Research*, 24, `doi:10.1016/j.visres.2024.108450 <https://doi.org/10.1016/j.visres.2024.108450>`_. 
+**Schmittwilken, L.**, Wichmann, F. and **Maertens, M.**. (2024). Standard models of spatial vision mispredict edge sensitivity at low spatial frequencies. *Vision Research*, 24, `doi:10.1016/j.visres.2024.108450 <https://doi.org/10.1016/j.visres.2024.108450>`_. 
 
 **Vincent, J.**, **Maertens, M** and **Aguilar, G**. (2024). What Fechner could not do: Separating perceptual encoding and decoding with difference scaling. *Journal of Vision*, 24, `doi:10.1167/jov.24.5.5 <https://doi.org/10.1167/jov.24.5.5>`_. (`Simulation code repository <https://github.com/computational-psychology/encoding_functions_and_white_stimulus>`_)
 
