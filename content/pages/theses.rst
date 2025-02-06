@@ -94,6 +94,8 @@ You can find completed theses here:
 
 - `BA-thesis Carolin Brunn <files/theses/CBrunn_Bachelorthesis_2020.pdf>`_
 
+- `BA-thesis Daniel Castro Sanchez <files/theses/thesis_castro.pdf>`_
+
 - `BA-thesis Sam Chamani <files/theses/thesis_chamani.pdf>`_
 
 - `BA-thesis Felix Dexel <files/theses/thesis_dexel.pdf>`_
