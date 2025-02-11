@@ -50,6 +50,17 @@ News
 
 
 
+Student Symposium in February 2025
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Our BA-students Yuri, Christian, Anna, Duc, Azer, Ori and Konstantinos proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, February 14th, from 9am-2pm in MAR 5.013.
+If you missed it you can check out the presentations under their names. 
+
+
+----
+
+
+
 New group members: Christian Haase and Ori Toledo Cohen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
