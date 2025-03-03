@@ -106,6 +106,8 @@ You can find completed theses here:
 
 - `BA-thesis Navdha Jain <files/theses/thesis_jain.pdf>`_
 
+- `BA-thesis Sebastian Keil <files/theses/thesis_keil.pdf>`_
+
 - `BA-thesis Nico Kestel <files/theses/thesis_kestel.pdf>`_
 
 - `BA-thesis Burak Kiran <files/theses/thesis_kiran.pdf>`_
