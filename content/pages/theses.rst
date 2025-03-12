@@ -140,6 +140,8 @@ You can find completed theses here:
 
 - `BA-thesis Jan Zabel <files/theses/thesis_zabel.pdf>`_
 
+- `BA-thesis Konstantinos Zamanis <files/theses/thesis_zamanis.pdf>`_
+
 - `BA-thesis Wenwen Zhang <files/theses/thesis_zhang.pdf>`_
 
 - `BA-thesis Matti Zinke <files/theses/thesis_zinke.pdf>`_
