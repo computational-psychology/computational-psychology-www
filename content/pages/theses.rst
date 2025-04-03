@@ -13,6 +13,11 @@ If you are interested in inquiring, please first read the section General Inform
 General Thesis Information 
 ###########################
 
+*Info to the Prüfungsamt:*
+
+*I accept a thesis submission exclusively in electronic from. (Ich bin mit der digitalen Abgabe der Abschlussarbeiten einverstanden.)*
+
+
 Please read the following content carefully before inquiring about a topic.
 
 
