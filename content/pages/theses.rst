@@ -7,17 +7,14 @@ Theses
 
 
 We offer **Bachelor's and Master's theses** in the area of **visual perception research**. 
-If you are interested in inquiring, please first read the section General Information below.
+If you are interested in inquiring, please first read the information below.
+
+.. role:: red
+
+:red:`Info to the Prüfungsamt`: *I accept a thesis submission exclusively in electronic from. 
+(Ich bin mit der digitalen Abgabe der Abschlussarbeiten einverstanden.)*
 
 
-General Thesis Information 
-###########################
-
-*Info to the Prüfungsamt:
-I accept a thesis submission exclusively in electronic from. (Ich bin mit der digitalen Abgabe der Abschlussarbeiten einverstanden.)*
-
-
-Please read the following content carefully before inquiring about a topic.
 
 
 Who can write a thesis with us and what are the prerequisites?
