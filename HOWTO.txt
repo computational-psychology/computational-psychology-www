@@ -112,7 +112,7 @@ To save changes:
 
    Push your changes to github with 
 
-   >> git push'
+   >> git push
 
 
 
@@ -123,7 +123,9 @@ To publish your changes:
   >> ./publish.sh username
 
 Replace 'username' with your TU login username (without @tu-berlin.de).
+
 You need to enter your TU password and the OTP for two-factor authentification.
+
 The script will copy the new files to the server. 
 
 
