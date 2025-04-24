@@ -89,6 +89,8 @@ You can find completed theses here:
 
 - `BA-thesis Hafidz Arifin <files/theses/thesis_arifin.pdf>`_
 
+- `BA-thesis Yury Besiakov <files/theses/thesis_besiakov.pdf>`_
+
 - `BA-thesis Marcus Bindermann <files/theses/thesis_bindermann.pdf>`_
 
 - `BA-thesis Hannah Boldt <files/theses/thesis_boldt.pdf>`_
@@ -138,6 +140,8 @@ You can find completed theses here:
 - `BA-thesis Jarl-Sebastian Soerensen <files/theses/thesis_soerensen.pdf>`_
 
 - `BA-thesis Marc Tukendorf <files/theses/thesis_tukendorf.pdf>`_
+
+- `BA-thesis Rhea Widmer <files/theses/thesis_widmer.pdf>`_
 
 - `BA-thesis Jan Zabel <files/theses/thesis_zabel.pdf>`_
 
