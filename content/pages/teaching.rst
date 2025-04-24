@@ -60,7 +60,7 @@ Lehre im Sommersemester 2025
   </tr>
   <tr>
     <td>12:00 - 14:00</td>
-    <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)</td>
+    <td rowspan="2">Programming Project: Data Science in Python and R</td>
     <td></td>
     <td></td>
     <td></td>
