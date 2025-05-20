@@ -50,6 +50,17 @@ News
 
 
 
+New group member: Jessica Schilling
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group member `Jessica Schilling <https://www.psyco.tu-berlin.de/schilling.html>`_ to our group. In her Bachelor thesis, Jessica examines the minimum number of pixels required for letters to be identifiable and to what extent contrast polarity influences this.
+
+
+----
+
+
+
 Student Symposium in February 2025
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
