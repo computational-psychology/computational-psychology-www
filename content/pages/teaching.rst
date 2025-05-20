@@ -33,7 +33,7 @@ Lehre im Sommersemester 2025
 .. raw:: html 
 
 
-<table border="1">
+  <table border="1">
   <tr>
     <th></th>
     <th>Montag</th>
@@ -81,7 +81,7 @@ Lehre im Sommersemester 2025
     <td></td>
     <td></td>
   </tr>
-</table>
+  </table>
 
 
 
