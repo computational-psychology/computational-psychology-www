@@ -150,3 +150,5 @@ You can find completed theses here:
 - `BA-thesis Wenwen Zhang <files/theses/thesis_zhang.pdf>`_
 
 - `BA-thesis Matti Zinke <files/theses/thesis_zinke.pdf>`_
+
+- `MA-thesis Anna Haverkamp <files/theses/thesis_haverkamp.pdf>`_
