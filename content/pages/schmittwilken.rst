@@ -20,7 +20,7 @@
 
    .. container:: rightside
 
-      .. figure:: img/ls_500_2.png
+      .. figure:: img/ls_500_3.png
 		 :width: 235px
 		 :align: right
 		 :alt: Lynn Schmittwilken
