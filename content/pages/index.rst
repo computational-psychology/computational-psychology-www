@@ -52,15 +52,15 @@ News
 We will be at the ECVP 2025 in Mainz
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ , `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ , `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ and `Joris <https://www.psyco.tu-berlin.de/vincent.html>`_ will be at the ECVP 2025 in Mainz!!! 
+`Marianne <https://www.psyco.tu-berlin.de/maertens.html>`_ , `Guillermo <https://www.psyco.tu-berlin.de/aguilar.html>`_ , `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ and `Joris <https://www.psyco.tu-berlin.de/vincent.html>`_ will be at the `ECVP 2025 in Mainz <https://ecvp2025.uni-mainz.de/conference>`_ !!! 
 
 Here you can find the `program of the ECVP 2025 <https://converia.uni-mainz.de/frontend/index.php?page_id=4562>`_
 
-Lynn will give a talk on 27.08.2025 at 11:30 am: Lynn Schmittwilken, Anna. L. Haverkamp, & Marianne Maertens: "Quantifying human edge sensitivity in real-world tasks". This talk is part of the symposium "Individual differences in perceptual and sensorimotor processing: A look into real-world expertise", organized by Jolande Fooken and Alexander Goettker.
+Lynn will give a talk on Wednesday, 27.08.2025 at 11:30 am: Lynn Schmittwilken, Anna. L. Haverkamp, & Marianne Maertens: "Quantifying human edge sensitivity in real-world tasks". This talk is part of the symposium "Individual differences in perceptual and sensorimotor processing: A look into real-world expertise", organized by Jolande Fooken and Alexander Goettker.
 
-And Lynn and Joris will hold a tutorial on the topic: "Open and FAIR stimulus creation with stimupy" which Lynn organizes together with Joris. 
+And our group will give two workshops! On the morning of Sunday, 24.08.2025 Lynn and Joris will give a workshop on `stimupy, our python package for easy stimulus generation <https://github.com/computational-psychology/stimupy>`_ , and later in the afternoon Guillermo will give a workshop on `MLDS and MLCM, two scaling methods to measure stimulus appearance <https://github.com/computational-psychology/mlds>`_ .
 
-We would be delighted if you would join us.
+We are excited to provide the talk and these workshops. See you at ECVP!
 
 
 
