@@ -49,6 +49,21 @@ News
 ------
 
 
+
+
+New group member: Jannis Röhl
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group member `Jannis Röhl <https://www.psyco.tu-berlin.de/roehl.html>`_ to our group. In his Bachelor thesis, Jannis relates discrimination with perceived magnitude on simultaneous brightness contrast displays in an experimental approach.
+
+
+
+----
+
+
+
+
 We will be at the ECVP 2025 in Mainz
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
