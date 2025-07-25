@@ -139,6 +139,8 @@ You can find completed theses here:
 
 - `BA-thesis Jarl-Sebastian Soerensen <files/theses/thesis_soerensen.pdf>`_
 
+- `BA-thesis Ori Toledo Cohen <files/theses/thesis_toledo_cohen.pdf>`_
+
 - `BA-thesis Marc Tukendorf <files/theses/thesis_tukendorf.pdf>`_
 
 - `BA-thesis Rhea Widmer <files/theses/thesis_widmer.pdf>`_
