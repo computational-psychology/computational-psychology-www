@@ -50,6 +50,18 @@ News
 
 
 
+Lynn's and Marianne's paper "Ocular drift shakes the stationary view on pattern vision" has been published in Journal of Vision
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Here you can find `Lynn's and Marianne's paper <https://jov.arvojournals.org/article.aspx?articleid=2810435&resultClick=1>`_ on "Ocular drift shakes the stationary view on pattern vision". It has been published in Journal of Vision, July, 2025. You can also find it following this `doi:10.1167/jov.25.8.17 <https://doi.org/10.1167/jov.25.8.17>`_
+
+
+
+----
+
+
+
 
 New group members: Matheo Möbis and Jannis Röhl
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
