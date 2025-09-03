@@ -3,6 +3,9 @@ Publications
 :save_as: publications.html
 :url: publications.html
 
+
+**Schmittwilken, L.** and **Maertens, M.**. (2025). Ocular drift shakes the stationary view on pattern vision. *Journal of Vision*, 25,  `doi:10.1167/jov.25.8.17 <https://doi.org/10.1167/jov.25.8.17>`_ .
+
 Malo, J., Esteve-Taboada, J.J., **Aguilar, G**, **Maertens, M.** and Wichmann, F. (2025). Estimating the contribution of early and late noise in vision from psychophysical data. *Journal of Vision*, 25, `doi:10.1167/jov.25.1.12 <https://doi.org/10.1167/jov.25.1.12>`_. 
 
 **Schmittwilken, L.**, Wichmann, F. and **Maertens, M.**. (2024). Standard models of spatial vision mispredict edge sensitivity at low spatial frequencies. *Vision Research*, 24, `doi:10.1016/j.visres.2024.108450 <https://doi.org/10.1016/j.visres.2024.108450>`_. 
