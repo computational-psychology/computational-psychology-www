@@ -50,6 +50,19 @@ News
 
 
 
+New group member: Lennart Lottermoser
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group member `Lennart Lottermoser <https://www.psyco.tu-berlin.de/lottermoser.html>`_ to our group. In his Bachelor thesis, Lennart studies how edge perception in real three-dimensional scenes differs from edge perception in two-dimensional photographic representations of a scene, using drawing tasks.
+
+
+
+----
+
+
+
+
 Lynn's and Marianne's paper "Ocular drift shakes the stationary view on pattern vision" has been published in Journal of Vision
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
