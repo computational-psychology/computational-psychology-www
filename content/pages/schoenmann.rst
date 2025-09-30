@@ -39,6 +39,7 @@ I focus on studying human visual perception in a way that it reflects the realit
 Curriculum Vitae
 -----------------
 
+
 Professional and Academic Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -63,6 +64,7 @@ Professional and Academic Experience
 04/19 – 08/21 	Research Assistant, Experimental Cognitive Science, University of Tübingen
 		Programming for online experiments. Analysing fMRI data. Editing research articles.
 		Conducting behavioural, EEG and fMRI experiments.
+
 
 Education
 ~~~~~~~~~~~~~~~~~~~~
@@ -92,6 +94,21 @@ Awards and Grants
 2019 		Research Grant at the Forum Scientiarum, University of Tübingen
 
 2015 		Research Grant at the Babel Initiative, Sciences Po Paris
+
+
+
+Publications
+~~~~~~~~~~~~~~~~~~~~
+
+Schönmann, I., de Lange, F. P., & Heilbron, M. (2023). Probing next-word and long-distance prediction using
+encoding modelling and MEG. Conference on Cognitive Computational Neuroscience.
+
+Schönmann, I., Künstle, D.-E., & Wichmann, F. A. (2022). Using an odd-one-out design affects consistency,
+agreement and decision criteria in similarity judgement tasks involving natural images. Journal of
+Vision, 22(14), 3232–3232.
+
+Schönmann, I., Szewczyk, J., de Lange, F. P., & Heilbron, M. (2025). Stimulus dependencies—rather than
+next-word prediction—can explain pre-onset brain encoding in naturalistic listening designs. eLife.
 
 
 
