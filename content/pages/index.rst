@@ -50,6 +50,18 @@ News
 
 
 
+
+New group member: Inés Schönmann
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group member `Inés Schönmann <https://www.psyco.tu-berlin.de/schoenmann.html>`_ to our group. Inés joined us as a Ph.D. student. She focuses on studying human visual perception in a way that it reflects the realities of biological and behavioural data while also relating meaningfully to the human experience. Furthermore, she is interested in the role predictive processes play when processing language in naturalistic settings. 
+
+
+----
+
+
+
 New group member: Lennart Lottermoser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -59,7 +71,6 @@ We are very happy to welcome our new group member `Lennart Lottermoser <https://
 
 
 ----
-
 
 
 
