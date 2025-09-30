@@ -86,11 +86,8 @@ Awards and Grants
 ~~~~~~~~~~~~~~~~~~~~
 
 2023 		PhD Fellowship Grant at the Einstein Centre for Neuroscience Berlin
-
 2023 		Contributed Talk at the Cognitive Computational Neuroscience Conference, Oxford
-
 2019 		Research Grant at the Forum Scientiarum, University of Tübingen
-
 2015 		Research Grant at the Babel Initiative, Sciences Po Paris
 
 
