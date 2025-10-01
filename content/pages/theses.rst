@@ -117,6 +117,8 @@ You can find completed theses here:
 
 - `BA-thesis Marius Krause <files/theses/thesis_krause.pdf>`_
 
+- `BA-thesis Azer Mahjoub <files/theses/thesis_mahjoub.pdf>`_
+
 - `BA-thesis Iris Özkaya <files/theses/thesis_oezkaya.pdf>`_
 
 - `BA-thesis Clara Ollech <files/theses/thesis_ollech.pdf>`_
