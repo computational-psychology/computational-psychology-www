@@ -107,6 +107,8 @@ You can find completed theses here:
 
 - `BA-thesis Savas Großmann <files/theses/thesis_grossmann.pdf>`_
 
+- `BA-thesis Christian Haase <files/theses/thesis_haase.pdf>`_
+
 - `BA-thesis Navdha Jain <files/theses/thesis_jain.pdf>`_
 
 - `BA-thesis Sebastian Keil <files/theses/thesis_keil.pdf>`_
