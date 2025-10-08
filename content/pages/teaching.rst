@@ -32,8 +32,8 @@ Lehre im Wintersemester 2025/26
 .. raw:: html 
 
 
-   <table border="1">
-   <tr>
+  <table border="1">
+  <tr>
     <th></th>
     <th>Montag</th>
     <th>Dienstag</th>
@@ -53,13 +53,13 @@ Lehre im Wintersemester 2025/26
     <td>10:00 - 12:00</td>
     <td></td>
     <td>Aktuelle Themen in visueller Wahrnehmungsforschung 2 (Seminar)</td>
-    <td>Informatik Propädeutikum</td>
-    <td><td class="tg-031e" rowspan="2">Programming Project: Data Science in Python and R (Praktikum)</td>
+    <td></td>
+    <td>  </td>
     <td></td>
   </tr>
   <tr>
     <td>12:00 - 14:00</td>
-    <td></td>
+    <td rowspan="2">Programming Project: Data Science in Python and R</td>
     <td></td>
     <td></td>
     <td></td>
@@ -68,8 +68,7 @@ Lehre im Wintersemester 2025/26
   <tr>
     <td>14:00 - 16:00</td>
     <td></td>
-    <td></td>
-    <td>Aktuelle Themen in visueller Wahrnehmungsforschung 1 (Seminar) - Gruppe 1</td>
+    <td>Aktuelle Themen in visueller Wahnehmungsforschung 1 (Seminar) - Gruppe 1</td>
     <td></td>
     <td></td>
   </tr>
@@ -82,7 +81,6 @@ Lehre im Wintersemester 2025/26
     <td></td>
   </tr>
   </table>
-
 
 
 
