@@ -57,7 +57,7 @@ We are very happy to share with you that `Lynn <https://www.psyco.tu-berlin.de/s
 
 Join us at MAR 2.057 or on `Zoom <https://tu-berlin.zoom-x.de/j/61397753595?pwd=ug16weYfx8a072ZgueZ3EUXgqYG3Hz.1>`_
 
-On 10.10.2025 we will also have a Symposium related to Lynn's Phd Defense. Please find the `programm here <files/Lynn_PhD_and_Symposium.pdf>`_
+On 10.10.2025 we will also have a Symposium related to Lynn's Phd Defense. Please find the `program here <files/Lynn_PhD_and_Symposium.pdf>`_
 
 
 
