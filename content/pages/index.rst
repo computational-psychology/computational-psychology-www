@@ -50,6 +50,14 @@ News
 
 
 
+Lynn's PhD Defense on 09.10.2025 at 2 pm at MAR 2.057 and on Zoom
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are very happy to share with you that `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_  will have her PhD Defense on “Seeing by moving: Revisiting pattern vision through fixational eye movements” on 09.10.2025 at 2 pm at MAR 2.057.
+
+Join us at MAR 2.057 or on `Zoom <https://tu-berlin.zoom-x.de/j/61397753595?pwd=ug16weYfx8a072ZgueZ3EUXgqYG3Hz.1>`_
+
+
 
 New group member: Inés Schönmann
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
