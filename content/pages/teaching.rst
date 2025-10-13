@@ -52,9 +52,15 @@ Lehre im Wintersemester 2025/26
   <tr>
     <td>10:00 - 12:00</td>
     <td></td>
-    <td>Aktuelle Themen in visueller Wahrnehmungsforschung 2 (Seminar)</td>
-    <td>Informatik Propädeutikum</td>
-    <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)</td>
+    <td>Aktuelle Themen in visueller Wahrnehmungsforschung 2 (Seminar)
+    <br> 
+    &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=44368">ISIS</a></td>
+    <td>Informatik Propädeutikum
+    <br> 
+    &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=44366">ISIS</a></td>
+    <td rowspan="2">Programming Project: Data Science in Python and R (Praktikum)
+    <br> 
+    &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=44153">ISIS</a></td>
     <td></td>
   </tr>
   <tr>
@@ -68,7 +74,10 @@ Lehre im Wintersemester 2025/26
     <td>14:00 - 16:00</td>
     <td></td>
     <td></td>
-    <td>Aktuelle Themen in visueller Wahnehmungsforschung 1 (Seminar) - Gruppe 1</td>
+
+    <td>Aktuelle Themen in visueller Wahrnehmungsforschung 1 (Seminar) - Gruppe 1
+    <br> 
+    &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=44156">ISIS</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -76,7 +85,9 @@ Lehre im Wintersemester 2025/26
     <td>16:00 - 18:00</td>
     <td></td>
     <td></td>
-    <td>Aktuelle Themen in visueller Wahrnehmungsforschung 1 (Seminar) - Gruppe 2</td>
+    <td>Aktuelle Themen in visueller Wahrnehmungsforschung 1 (Seminar) - Gruppe 2
+    <br> 
+    &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=44156">ISIS</a></td>
     <td></td>
     <td></td>
   </tr>
