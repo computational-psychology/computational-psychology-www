@@ -50,6 +50,32 @@ News
 
 
 
+Lynn has successfully completed her PhD!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are delighted that `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`_ has successfully completed her PhD! Congratulations, Lynn!!!
+
+ 
+
+.. figure:: img/Lynn_PhD_Defense.png
+   :figwidth: 300
+   :align: center
+   :alt: Lynn_PhD_Defense
+
+
+
+.. figure:: img/Lynn_PhD_Defense_Group.png
+   :figwidth: 600
+   :align: center
+   :alt: Lynn_PhD_Defense_Group
+
+ 
+
+
+----
+
+
+
 Lynn's PhD Defense on 09.10.2025 at 2 pm at MAR 2.057 and on Zoom and Symposium on 10.10.2025 at 9 am at MAR 2.057
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -59,6 +85,8 @@ Join us at MAR 2.057 or on `Zoom <https://tu-berlin.zoom-x.de/j/61397753595?pwd=
 
 On 10.10.2025 we will also have a Symposium related to Lynn's Phd Defense. Please find the `program here <files/Lynn_PhD_and_Symposium.pdf>`_
 
+
+----
 
 
 New group member: Inés Schönmann
