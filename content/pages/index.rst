@@ -58,15 +58,15 @@ We are delighted that `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`
  
 
 .. figure:: img/Lynn_PhD_Defense.png
-   :figwidth: 300
-   :align: center
+   :figwidth: 350
+   :align: left
    :alt: Lynn_PhD_Defense
 
 
 
 .. figure:: img/Lynn_PhD_Defense_Group.png
    :figwidth: 600
-   :align: center
+   :align: right
    :alt: Lynn_PhD_Defense_Group
 
  
