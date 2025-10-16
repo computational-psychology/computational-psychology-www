@@ -71,6 +71,8 @@ We are delighted that `Lynn <https://www.psyco.tu-berlin.de/schmittwilken.html>`
 
  
 
+We thank the committee members for their participation and stimulating discussion (from left to right: Prof. Guillermo Gallego (TU Berlin), Prof. Peter Neri (IIT Genova), Dr. Lynn Schmittwilken (TU Darmstadt), Prof. Marianne Maertens (TU Berlin), Prof. Thomas Wallis (TU Darmstadt), Prof. Felix Wichmann (Universität Tübingen)).
+
 
 ----
 
