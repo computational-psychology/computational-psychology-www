@@ -1,13 +1,8 @@
-HOWTO (updated 16th June 2021)
+HOWTO (updated 30.10.2025)
 ---------------------------------
 ---------------------------------
 
-Instructions on how to edit the website, 
-when SSH servers are up and running.
-
-Alternatively, you can use AFS to copy the files to the server.
-See HOWTO-AFS.txt for alternative instructions.
-
+Instructions on how to edit the website.
 
 
 Requirements 
