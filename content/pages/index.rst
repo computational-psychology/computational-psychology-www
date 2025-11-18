@@ -50,6 +50,16 @@ News
 
 
 
+Student Symposium in November 2025
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Our BA-students Jan, Jannis, Leila, Lennart, Linus, Matheo and Noah proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, November 28th, from 10am-2pm in MAR 5.013.
+If you missed it you can check out the presentations under their names. 
+
+
+----
+
+
 Lynn has successfully completed her PhD!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
