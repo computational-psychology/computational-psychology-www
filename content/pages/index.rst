@@ -53,7 +53,7 @@ News
 Student Symposium in November 2025
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Our BA-students `Jan <files/Presentation_Jan_Zachow.pdf>`_ , Jannis, `Leila <files/Presentation_Leila_Hafner.pdf>`_ , `Lennart <files/Presentation_Lennart_Lottermoser.pdf>`_ , Linus, `Matheo <files/Presentation_Matheo_Moebis.pdf>`_ and `Noah <files/Presentation_Noah_Kogge.pdf>`_ proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, November 28th, from 10am-2pm in MAR 5.013.
+Our BA-students `Jan <files/Presentation_Jan_Zachow.pdf>`_ , Jannis, `Leila <files/Presentation_Leila_Hafner.pdf>`_ , `Lennart <files/Presentation_Lennart_Lottermoser.pdf>`_ , Linus, `Matheo <files/Presentation_Matheo_Moebis.pdf>`_ and    `Noah <files/Presentation_Noah_Kogge.pdf>`_ proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, November 28th, from 10am-2pm in MAR 5.013.
 If you missed it you can check out the presentations under their names. 
 
 
