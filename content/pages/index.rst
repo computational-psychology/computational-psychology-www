@@ -49,6 +49,16 @@ News
 ------
 
 
+New group member: Noah Kogge
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group member `Noah Kogge <https://www.psyco.tu-berlin.de/kogge.html>`_ to our group. In his Bachelor thesis, Noah examines how spatial dimensionality influences perceptual structure, stability and consistency of similarity judgements combining behavioral data with quantitative metrics, to compare two- and three-dimensional representations.
+
+
+----
+
+
 
 Student Symposium in November 2025
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
