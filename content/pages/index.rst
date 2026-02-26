@@ -49,11 +49,11 @@ News
 ------
 
 
-New group member: Noah Kogge
+New group members: Leila Hafner and Noah Kogge
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-We are very happy to welcome our new group member `Noah Kogge <https://www.psyco.tu-berlin.de/kogge.html>`_ to our group. In his Bachelor thesis, Noah examines how spatial dimensionality influences perceptual structure, stability and consistency of similarity judgements combining behavioral data with quantitative metrics, to compare two- and three-dimensional representations.
+We are very happy to welcome our new group members `Leila Hafner <https://www.psyco.tu-berlin.de/hafner.html>`_ and `Noah Kogge <https://www.psyco.tu-berlin.de/kogge.html>`_ to our group. In her Bachelor thesis, Leila examines how colour and orientation of a grating influence the perceived contrast of a central stimulus. In his Bachelor thesis, Noah examines how spatial dimensionality influences perceptual structure, stability and consistency of similarity judgements combining behavioral data with quantitative metrics, to compare two- and three-dimensional representations.
 
 
 ----
