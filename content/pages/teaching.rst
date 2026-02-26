@@ -24,6 +24,66 @@ Teaching
 
 
 
+Lehre im Sommersemester 2026
+---------------------------------
+
+.. raw:: html 
+
+
+  <table border="1">
+  <tr>
+    <th></th>
+    <th>Montag</th>
+    <th>Dienstag</th>
+    <th>Mittwoch</th>
+    <th>Donnerstag</th>
+    <th>Freitag</th>
+  </tr>
+  <tr>
+    <td>08:00 - 10:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:00 - 12:00</td>
+    <td></td>
+    <td>Aktuelle Themen in visueller Wahrnehmungsforschung 2 (Seminar)</td>
+    <td rowspan="2">Programming Project: Data Science in Python and R 1 (Praktikum)</td>
+    <td>Aktuelle Themen in visueller Wahrnehmungsforschung 1 (Seminar)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12:00 - 14:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14:00 - 16:00</td>
+    <td></td>
+    <td rowspan="2">Programming Project: Data Science in Python and R 2 (Praktikum)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>16:00 - 18:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+
 
 Lehre im Wintersemester 2025/26
 ---------------------------------
