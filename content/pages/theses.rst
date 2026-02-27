@@ -129,6 +129,8 @@ You can find completed theses here:
 
 - `BA-thesis Eduardo Luiz Rhein <files/theses/thesis_rhein.pdf>`_
 
+- `BA-thesis Jannis Röhl <files/theses/thesis_roehl.pdf>`_
+
 - `BA-thesis Karol Rogoza <files/theses/thesis_rogoza.pdf>`_
 
 - `BA-thesis Lisa Scheibner <files/theses/thesis_scheibner.pdf>`_
