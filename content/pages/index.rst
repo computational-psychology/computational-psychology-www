@@ -49,11 +49,11 @@ News
 ------
 
 
-New group members: Leila Hafner and Noah Kogge
+New group members: Leila Hafner, Melis Kazan and Noah Kogge
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-We are very happy to welcome our new group members `Leila Hafner <https://www.psyco.tu-berlin.de/hafner.html>`_ and `Noah Kogge <https://www.psyco.tu-berlin.de/kogge.html>`_ to our group. In her Bachelor thesis, Leila examines how colour and orientation of a grating influence the perceived contrast of a central stimulus. In his Bachelor thesis, Noah examines how spatial dimensionality influences perceptual structure, stability and consistency of similarity judgements combining behavioral data with quantitative metrics, to compare two- and three-dimensional representations.
+We are very happy to welcome our new group members `Leila Hafner <https://www.psyco.tu-berlin.de/hafner.html>`_ , `Melis Kazan <https://www.psyco.tu-berlin.de/kazan.html>`_ and `Noah Kogge <https://www.psyco.tu-berlin.de/kogge.html>`_ to our group. In her Bachelor thesis, Leila examines how colour and orientation of a grating influence the perceived contrast of a central stimulus. In her Bachelor thesis, Melis examines whether or not there is an association between a PhD student’s gender and their choice of thesis topic in computer science at TU Berlin. In his Bachelor thesis, Noah examines how spatial dimensionality influences perceptual structure, stability and consistency of similarity judgements combining behavioral data with quantitative metrics, to compare two- and three-dimensional representations.
 
 
 ----
