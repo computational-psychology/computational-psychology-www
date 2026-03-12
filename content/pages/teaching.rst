@@ -51,7 +51,9 @@ Lehre im Sommersemester 2026
     <td>10:00 - 12:00</td>
     <td></td>
     <td>Aktuelle Themen in visueller Wahrnehmungsforschung 2 (Seminar)</td>
-    <td rowspan="2">Programming Project: Data Science in Python and R 1 (Praktikum)</td>
+    <td rowspan="2">Programming Project: Data Science in Python and R 1 (Praktikum)
+    <br> 
+    &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=46856">ISIS</a></td>
     <td>Aktuelle Themen in visueller Wahrnehmungsforschung 1 (Seminar)</td>
     <td></td>
   </tr>
@@ -65,7 +67,9 @@ Lehre im Sommersemester 2026
   <tr>
     <td>14:00 - 16:00</td>
     <td></td>
-    <td rowspan="2">Programming Project: Data Science in Python and R 2 (Praktikum)</td>
+    <td rowspan="2">Programming Project: Data Science in Python and R 2 (Praktikum)
+    <br> 
+    &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=46943">ISIS</a></td>
     <td></td>
     <td></td>
     <td></td>
