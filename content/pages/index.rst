@@ -50,7 +50,7 @@ News
 
 
 
-Congratulations to our former group member Lynn Schmittwilken
+Glushko Prize for Lynn Schmittwilken
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Congratulations to our former group member `Lynn_Schmittwilken <https://www.psychologie.tu-darmstadt.de/institut_psy/personen_psy/personen_psy_detail_89728.de.jsp>`_ ! 
