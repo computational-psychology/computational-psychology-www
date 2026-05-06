@@ -54,7 +54,6 @@ Congratulations to our former group member Lynn Schmittwilken
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Congratulations to our former group member `Lynn_Schmittwilken <https://www.psychologie.tu-darmstadt.de/institut_psy/personen_psy/personen_psy_detail_89728.de.jsp>`_ ! 
-
 Her thesis has been chosen for a `2026 Glushko Dissertation Prize <https://cognitivesciencesociety.org/glushko-dissertation-prize/>`_ . Job well done! 
 
 
