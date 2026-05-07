@@ -17,10 +17,6 @@ Research projects for students
 
 - Crispening in real world stimuli
 
-- Learning about human edge perception through noise masking experiments: `More details <https://www.psyco.tu-berlin.de/SP_edges_in_noise.html>`__
-
-- Investigating brightness perception in psychophysical experiments or computational models: `More details <https://www.psyco.tu-berlin.de/SP_brench.html>`__
-
 
 
 
