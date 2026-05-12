@@ -50,11 +50,11 @@ News
 
 
 
-New group member: Eduard Hübner
+New group members: Leonard Hale and Eduard Hübner
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-We are very happy to welcome our new group members `Eduard Hübner <https://www.psyco.tu-berlin.de/huebner.html>`_  to our group. Eduard is our teaching tutor.
+We are very happy to welcome our new group members `Leonard Hale <https://www.psyco.tu-berlin.de/hale.html>`_ and `Eduard Hübner <https://www.psyco.tu-berlin.de/huebner.html>`_ to our group. Leonard and Eduard are our teaching tutors.
 
 
 ----
