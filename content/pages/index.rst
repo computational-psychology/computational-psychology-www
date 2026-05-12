@@ -50,6 +50,17 @@ News
 
 
 
+New group member: Eduard Hübner
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group members `Eduard Hübner <https://www.psyco.tu-berlin.de/huebner.html>`_  to our group. Eduard is our teaching tutor.
+
+
+----
+
+
+
 Glushko Prize for Lynn Schmittwilken
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
