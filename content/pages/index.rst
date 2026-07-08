@@ -50,6 +50,18 @@ News
 
 
 
+
+Student Symposium in July 2026
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Our BA-students Mahdi Hassani, Melis Kazan, Emran Heidar, Yannick Kamdoum and Solana Neumeier proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, July 10th, from 10:30am-2pm in MAR 2.046.
+If you missed it you can check out the presentations under their names.
+
+
+----
+
+
+
 New group members: Leonard Hale and Eduard Hübner
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

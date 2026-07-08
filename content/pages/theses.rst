@@ -119,7 +119,11 @@ You can find completed theses here:
 
 - `BA-thesis Marius Krause <files/theses/thesis_krause.pdf>`_
 
+- `BA-thesis Lennart Lottermoser <files/theses/thesis_lottermoser.pdf>`_
+
 - `BA-thesis Azer Mahjoub <files/theses/thesis_mahjoub.pdf>`_
+
+- `BA-thesis Matheo Möbis <files/theses/thesis_moebis.pdf>`_
 
 - `BA-thesis Iris Özkaya <files/theses/thesis_oezkaya.pdf>`_
 
