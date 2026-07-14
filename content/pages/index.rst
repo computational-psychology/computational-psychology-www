@@ -49,6 +49,16 @@ News
 ------
 
 
+New group member: Ayse Sahin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group member `Ayse Sahin <https://www.psyco.tu-berlin.de/sahin.html>` to our group. Ayse ist a research assistant. She is helping us with the implementation and execution of various experiments on perceptual completion phenomena.
+
+----
+
+
+
 
 
 Student Symposium in July 2026
