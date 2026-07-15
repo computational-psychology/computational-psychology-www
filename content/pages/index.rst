@@ -49,6 +49,25 @@ News
 ------
 
 
+
+Team event on July 2026
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are delighted, that we had our team event at the TU Berlin boathouse on July 2026!
+
+ 
+
+.. figure:: img/team-event_psyco_2026.png
+   :figwidth: 350
+   :align: left
+   :alt: team-event_psyco_2026
+
+
+
+----
+
+
+
 New group member: Ayse Sahin
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
