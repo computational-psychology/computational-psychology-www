@@ -11,7 +11,7 @@ Ayse Sahin
 
    .. container:: leftside
 
-      - Email: 
+      - Email: ayse.sahin@uni-potsdam.de
       
 
    .. container:: rightside
