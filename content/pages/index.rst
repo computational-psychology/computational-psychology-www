@@ -55,12 +55,14 @@ Team event on July 2026
 
 We are delighted, that we had our team event at the TU Berlin boathouse on July 2026!
 
- 
 
 .. figure:: img/team-event_psyco_2026.png
-   :figwidth: 350
-   :align: left
+   :figwidth: 600
+   :align: right
    :alt: team-event_psyco_2026
+
+
+We thank our team members for their participation and stimulating discussion (from left to right: Inés Schönmann, Ayse Sahin, Dr. Guillermo Aguilar, Bianca del Mestre, Constantin from TU Berlin boathouse, Prof. Dr. Marianne Maertens, Leonard Hale, Eduard Hübner and Dr. Joris  Vincent). And we also thank the team of the TU Berlin boathouse for the wonderful day and the great organization.
 
 
 
