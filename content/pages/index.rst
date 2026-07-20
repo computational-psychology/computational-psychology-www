@@ -62,7 +62,7 @@ We are delighted, that we had our team event at the TU Berlin boathouse on July 
    :alt: team-event_psyco_2026
 
 
-We thank our team members for their participation and stimulating discussion (from left to right: Inés Schönmann, Ayse Sahin, Dr. Guillermo Aguilar, Bianca del Mestre, Constantin from TU Berlin boathouse, Prof. Dr. Marianne Maertens, Leonard Hale, Eduard Hübner and Dr. Joris  Vincent). And we also thank the team of the TU Berlin boathouse for the wonderful day and the great organization.
+We thank our team members for their participation and stimulating discussion (from left to right: Inés Schönmann, Ayse Sahin, Dr. Guillermo Aguilar, Bianca del Mestre, Frederik from TU Berlin boathouse, Prof. Dr. Marianne Maertens, Leonard Hale, Eduard Hübner and Dr. Joris  Vincent). And we also thank the team of the TU Berlin boathouse for the wonderful day and the great organization.
 
 
 
@@ -84,7 +84,7 @@ We are very happy to welcome our new group member `Ayse Sahin <https://www.psyco
 Student Symposium in July 2026
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Our BA-students Mahdi Hassani, Melis Kazan, Emran Heidar, Yannick Kamdoum and Solana Neumeier proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, July 10th, from 10:30am-2pm in MAR 2.046.
+Our BA-students `Mahdi <files/Presentation_Mahdi_Hassani.pdf>`_ , `Melis <files/Presentation_Melis_Kazan.pdf>`_ , Emran, Yannick and Solana proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, July 10th, from 10:30am-2pm in MAR 2.046.
 If you missed it you can check out the presentations under their names.
 
 
