@@ -84,7 +84,7 @@ We are very happy to welcome our new group member `Ayse Sahin <https://www.psyco
 Student Symposium in July 2026
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Our BA-students `Mahdi <files/Presentation_Mahdi_Hassani.pdf>`_ , `Melis <files/Presentation_Melis_Kazan.pdf>`_ , Emran, Yannick and Solana proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, July 10th, from 10:30am-2pm in MAR 2.046.
+Our BA-students `Mahdi <files/Presentation_Mahdi_Hassani.pdf>`_ , `Melis <files/Presentation_Melis_Kazan.pdf>`_ , Emran, Yannick and `Solana <files/Presentation_Solana_Neumeier.pdf>`_ proudly present their theses work in our student symposium. If you want to know more about their exciting research topics join us on Friday, July 10th, from 10:30am-2pm in MAR 2.046.
 If you missed it you can check out the presentations under their names.
 
 
