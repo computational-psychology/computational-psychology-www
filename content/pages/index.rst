@@ -70,11 +70,11 @@ We thank our team members for their participation and stimulating discussion (fr
 
 
 
-New group member: Ayse Sahin
+New group members: Ayse Sahin and Emran Heidar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-We are very happy to welcome our new group member `Ayse Sahin <https://www.psyco.tu-berlin.de/sahin.html>`_  to our group. Ayse ist a research assistant. She is helping us with the implementation and execution of various experiments on perceptual completion phenomena.
+We are very happy to welcome our new group members `Ayse Sahin <https://www.psyco.tu-berlin.de/sahin.html>`_  and `Emran Heidar <https://www.psyco.tu-berlin.de/heidar.html>`_ to our group. Ayse is a research assistant. She is helping us with the implementation and execution of various experiments on perceptual completion phenomena. In his Bachelor thesis Emran investigates the robustness of complete occlusion in a three-dimensional illusion-of-absence scene under changes in scene geometry and viewpoint.
 
 
 ----
