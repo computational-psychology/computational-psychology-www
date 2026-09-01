@@ -70,11 +70,12 @@ We thank our team members for their participation and stimulating discussion (fr
 
 
 
-New group members: Ayse Sahin, Emran Heidar and Yannick Kamdoum
+New group members: Ayse Sahin, Emran Heidar, Yannick Kamdoum and Solana Neumeier
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-We are very happy to welcome our new group members `Ayse Sahin <https://www.psyco.tu-berlin.de/sahin.html>`_  , `Emran Heidar <https://www.psyco.tu-berlin.de/heidar.html>`_  and `Yannick Kamdoum <https://www.psyco.tu-berlin.de/kamdoum.html>`_  to our group. Ayse is a research assistant. She is helping us with the implementation and execution of various experiments on perceptual completion phenomena. In his Bachelor thesis Emran investigates the robustness of complete occlusion in a three-dimensional illusion-of-absence scene under changes in scene geometry and viewpoint. Yannick examines how the presentation format (digital 2D vs. real 3D) influences the perception of amodal completion under occlusion in his Bachelor thesis.
+We are very happy to welcome our new group members `Ayse Sahin <https://www.psyco.tu-berlin.de/sahin.html>`_  , `Emran Heidar <https://www.psyco.tu-berlin.de/heidar.html>`_  , `Yannick Kamdoum <https://www.psyco.tu-berlin.de/kamdoum.html>`_  and
+`Solana Neumeier <https://www.psyco.tu-berlin.de/neumeier.html>`_ to our group. Ayse is a research assistant. She is helping us with the implementation and execution of various experiments on perceptual completion phenomena. In his Bachelor thesis Emran investigates the robustness of complete occlusion in a three-dimensional illusion-of-absence scene under changes in scene geometry and viewpoint. Yannick examines how the presentation format (digital 2D vs. real 3D) influences the perception of amodal completion under occlusion in his Bachelor thesis. In her Bachelor thesis, Solana investigates how visual evidence is reported in perceptual completion under occlusion, with a focus on whether perception is more closely related to the mean or maximum number of visible dots.
 
 
 ----
