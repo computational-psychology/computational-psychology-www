@@ -50,6 +50,19 @@ News
 
 
 
+New group member: Paul Ellinghaus
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+We are very happy to welcome our new group member `Paul Ellinghaus <https://www.psyco.tu-berlin.de/ellinghaus.html>`_  to our group. Paul is also our teaching tutor.
+
+
+
+----
+
+
+
+
 Team event on July 2026
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
