@@ -120,8 +120,11 @@ To publish your changes:
 Replace 'username' with your TU login username (without @tu-berlin.de).
 
 You need to enter your TU password and the OTP for two-factor authentification.
-
 The script will copy the new files to the server. 
+
+!! As September 2026, this command only works when being in the TU network. 
+Either be in the office, or connect to the TU via VPN (Split-Tunnel suffices).
+
 
 
 Check your changes in the live website
