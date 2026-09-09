@@ -24,6 +24,69 @@ Teaching
 
 
 
+Lehre im Wintersemester 2026/27
+---------------------------------
+
+
+.. raw:: html 
+
+
+    <table border="1">
+       <tr>
+    <th></th>
+    <th>Montag</th>
+    <th>Dienstag</th>
+    <th>Mittwoch</th>
+    <th>Donnerstag</th>
+    <th>Freitag</th>
+  </tr>
+  <tr>
+    <td>08:00 - 10:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:00 - 12:00</td>
+    <td></td>
+    <td></td>
+    <td>Informatik als Disziplin (Übung Gruppe 1)<br>---<br>Informatik als Disziplin (Übung Gruppe 2)</td>
+    <td></td>
+    <td>Informatik als Disziplin (Übung Gruppe 5)<br>---<br>Informatik als Disziplin (Übung Gruppe 6)</td>
+  </tr>
+  <tr>
+    <td>12:00 - 14:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14:00 - 16:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>16:00 - 18:00</td>
+    <td></td>
+    <td>Informatik als Disziplin (Vorlesung)
+    <br> 
+    &#8594; <a class="reference external" href="https://isis.tu-berlin.de/course/view.php?id=49045">ISIS</a></td>
+    <td></td>
+    <td>Informatik als Disziplin (Übung Gruppe 3)<br>---<br>Informatik als Disziplin (Übung Gruppe 4)</td>
+    <td></td>
+  </tr>
+    </table>
+
+
+
+
+
 Lehre im Sommersemester 2026
 ---------------------------------
 
