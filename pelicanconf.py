@@ -15,7 +15,7 @@ FAVICON = SITEURL + '/img/favicon.ico'
 
 TIMEZONE = 'Europe/Berlin'
 DEFAULT_LANG = u'en'
-LOCALE = u'en_US.UTF-8'
+LOCALE = 'de'
 
 MAIN_MENU = True
 
@@ -23,7 +23,7 @@ MAIN_MENU = True
 # Configure Pelican a bit
 #
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = [ 'sitemap', 'just_table']
+PLUGINS = ['just_table']
 SITEMAP = { 'format': 'xml' }
 
 DIRECT_TEMPLATES = ['404'] # unset all templates; add 404
