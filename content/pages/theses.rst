@@ -117,6 +117,8 @@ You can find completed theses here:
 
 - `BA-thesis Burak Kiran <files/theses/thesis_kiran.pdf>`_
 
+- `BA-thesis Noah Kogge <files/theses/thesis_kogge.pdf>`_
+
 - `BA-thesis Marius Krause <files/theses/thesis_krause.pdf>`_
 
 - `BA-thesis Lennart Lottermoser <files/theses/thesis_lottermoser.pdf>`_
