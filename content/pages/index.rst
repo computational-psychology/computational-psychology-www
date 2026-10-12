@@ -50,11 +50,12 @@ News
 
 
 
-New group member: Paul Ellinghaus
+New group members: Paul Ellinghaus and Michaela Zintl
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-We are very happy to welcome our new group member `Paul Ellinghaus <https://www.psyco.tu-berlin.de/ellinghaus.html>`_  to our group. Paul is also our teaching tutor.
+We are very happy to welcome our new group members `Paul Ellinghaus <https://www.psyco.tu-berlin.de/ellinghaus.html>`_ and `Michaela Zintl <https://www.psyco.tu-berlin.de/zintl.html>`_ to our group. Paul is our teaching tutor. Michaela examines in her Bachelor thesis whether there are gender differences in the research topics of dissertations at TU Berlin by analyzing both their titles and abstracts. 
+
 
 
 
