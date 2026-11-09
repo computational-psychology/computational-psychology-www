@@ -4,6 +4,8 @@ Publications
 :url: publications.html
 
 
+**Schmittwilken, L.**, **Haverkamp, A.** and **Maertens, M.**. (2025). Line drawings as a tool to probe edge sensitivity in natural scenes. *Journal of Vision*, 25,  `doi:10.1167/jov.25.14.22 <https://doi.org/10.1167/jov.25.14.22>`_ .
+
 **Schmittwilken, L.** and **Maertens, M.**. (2025). Ocular drift shakes the stationary view on pattern vision. *Journal of Vision*, 25,  `doi:10.1167/jov.25.8.17 <https://doi.org/10.1167/jov.25.8.17>`_ .
 
 Malo, J., Esteve-Taboada, J.J., **Aguilar, G**, **Maertens, M.** and Wichmann, F. (2025). Estimating the contribution of early and late noise in vision from psychophysical data. *Journal of Vision*, 25, `doi:10.1167/jov.25.1.12 <https://doi.org/10.1167/jov.25.1.12>`_. 
