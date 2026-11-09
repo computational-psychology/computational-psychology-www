@@ -4,6 +4,9 @@ Publications
 :url: publications.html
 
 
+
+**Aguilar, G.**,  **Maertens, M.** and **Vincent, J.**. (2026). Using simulation to disambiguate transducer and noise. *Journal of Vision*, 26, `doi:10.1167/jov.26.10.12 <https://doi.org/10.1167/jov.26.10.12>`_ . 
+
 **Schmittwilken, L.**, **Haverkamp, A.** and **Maertens, M.**. (2025). Line drawings as a tool to probe edge sensitivity in natural scenes. *Journal of Vision*, 25,  `doi:10.1167/jov.25.14.22 <https://doi.org/10.1167/jov.25.14.22>`_ .
 
 **Schmittwilken, L.** and **Maertens, M.**. (2025). Ocular drift shakes the stationary view on pattern vision. *Journal of Vision*, 25,  `doi:10.1167/jov.25.8.17 <https://doi.org/10.1167/jov.25.8.17>`_ .
